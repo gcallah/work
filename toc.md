@@ -1,6 +1,11 @@
 # By the Sweat of Your Brow
 
-A history of thinking about work
+A history of thinking about work.
+
+"When he ought to have been working, instead he was 'contemplating the idea of
+work!'" -- The author's wife
+
+## Table of Contents
 
 - Genesis
 - The Ancient Greeks
@@ -9,6 +14,7 @@ A history of thinking about work
 - Aquinas
 - Luther
 - Hegel
+- Ruge
 - Marx
 - Kierkagard
 - Nietzsche
