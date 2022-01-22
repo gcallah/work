@@ -16,7 +16,7 @@ work!'" -- The author's wife
 - Hegel
 - Ruge
 - Marx
-- Kierkagard
+- Kierkegaard
 - Nietzsche
 - Weber: The Protestant Ethic
 - The Economist's View of Work
