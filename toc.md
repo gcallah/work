@@ -12,7 +12,8 @@ A history of thinking about work
 - Marx
 - Kierkagard
 - Nietzsche
+- Weber: The Protestant Ethic
 - The Economist's View of Work
 - Arendt: *Homo Faber*
-- Oakeshott: The deadliness of doing
+- Oakeshott: The Deadliness of Doing
 
