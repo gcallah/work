@@ -13,6 +13,6 @@ A history of thinking about work
 - Kierkagard
 - Nietzsche
 - The Economist's View of Work
-- Arendt
-- ?
+- Arendt: *Homo Faber*
+- Oakeshott: The deadliness of doing
 
