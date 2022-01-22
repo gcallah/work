@@ -8,6 +8,8 @@ work!'" -- The author's wife
 ## Table of Contents
 
 - Genesis
+- Indian Thought on Work: Hinduism, Castes, and Buddhism
+- Chinese Thought on Work: Taoism and Confucianism
 - The Ancient Greeks
 - St. Paul
 - Augustine
