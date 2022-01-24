@@ -13,8 +13,10 @@ work!'" -- The author's wife
 - The Ancient Greeks
 - St. Paul
 - Augustine
+- Work in Islamic Thought
 - Aquinas
 - Luther
+- Locke: Ownership from Labor
 - Hegel
 - Ruge
 - Marx
@@ -24,4 +26,5 @@ work!'" -- The author's wife
 - The Economist's View of Work
 - Arendt: *Homo Faber*
 - Oakeshott: The Deadliness of Doing
+- Josef Pieper: Leisure, the Basis of Culture
 
