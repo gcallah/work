@@ -1,9 +1,23 @@
 # By the Sweat of Your Brow
 
-A history of thinking about work.
+A history of the idea of work.
+
+__________
+
+"I had only one faith, one source of strength: work… Work! Consider, gentlemen:
+work forms the only law of the world. Life has no other purpose, there is no
+other reason for existence, we all come into being only in order to do our
+share of the work, and then vanish." -- Emile Zola
+
+"This is very important -- to take leisure time. Pace is the essence. Without
+stopping entirely and doing nothing at all for great periods, you're gonna lose
+everything...just to do nothing at all, very, very important. And how many
+people do this in modern society? Very few. That's why they're all totally mad,
+frustrated, angry and hateful." -- Charles Bukowski
 
 "When he ought to have been working, instead he was 'contemplating the idea of
 work!'" -- The author's wife
+
 
 ## Table of Contents
 
