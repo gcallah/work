@@ -40,5 +40,5 @@ work!'" -- The author's wife
 - The Economist's View of Work
 - Arendt: *Homo Faber*
 - Oakeshott: The Deadliness of Doing
-- [Josef Pieper: Leisure, the Basis of Culture](pieper.md)
+- [Josef Pieper: Leisure, the Basis of Culture](https://github.com/gcallah/work/blob/main/pieper.md)
 
