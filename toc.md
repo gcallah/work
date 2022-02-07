@@ -25,7 +25,7 @@ work!'" -- The author's wife
 - Indian Thought on Work: Hinduism, Castes, and Buddhism
 - Chinese Thought on Work: Taoism and Confucianism
 - The Ancient Greeks
-- St. Paul
+- [St. Paul](https://github.com/gcallah/work/blob/main/stpaul.md)
 - Augustine
 - Work in Islamic Thought
 - Aquinas
