@@ -36,8 +36,9 @@ work!'" -- The author's wife
 - Marx
 - Kierkegaard
 - Nietzsche
+- Veblen: The Theory of the Leisure Class
 - Weber: The Protestant Ethic
-- The Economist's View of Work
+- Mises: The Economist's View of Work
 - Arendt: *Homo Faber*
 - Oakeshott: The Deadliness of Doing
 - [Josef Pieper: Leisure, the Basis of Culture](https://github.com/gcallah/work/blob/main/pieper.md)
