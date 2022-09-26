@@ -27,7 +27,7 @@ York University)
 - Chinese Thought on Work: Taoism and Confucianism
 - Plato and Aristotle
 - The Greeks Cynics (Kenneth McIntyre, Sam Houston State University)
-- [St. Paul](https://github.com/gcallah/work/blob/main/stpaul.md)
+- The New Testament (James Alexander, Bilkent University)
 - Augustine
 - Work in Islamic Thought
 - Aquinas
