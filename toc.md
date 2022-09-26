@@ -26,7 +26,7 @@ work!'" -- The editor's wife
 - Chinese Thought on Work: Taoism and Confucianism
 - Plato and Aristotle
 - The Greeks Cynics (Kenneth McIntyre, Sam Houston State University)
-- St. Paul
+- [St. Paul](https://github.com/gcallah/work/blob/main/stpaul.md)
 - Augustine
 - Work in Islamic Thought
 - Aquinas
@@ -40,7 +40,8 @@ work!'" -- The editor's wife
 - Nietzsche
 - The British Idealists
 - Weber: The Protestant Ethic (Gülşen Seven, Turkish Education Association University)
-- The Economist's View of Work
+- Veblen: The Theory of the Leisure Class
+- Mises: The Economist's View of Work
 - Arendt: *Homo Faber*
 - Oakeshott: The Deadliness of Doing (W. John Coats, Connecticut College)
 - Josef Pieper: Leisure, the Basis of Culture (Ferenc Hörcher, Research
