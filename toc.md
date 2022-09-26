@@ -4,7 +4,7 @@ A history of the idea of work.
 
 __________
 
-"I had only one faith, one source of strength: work… Work! Consider, gentlemen:
+"I had only one faith, one source of strength: work... Work! Consider, gentlemen:
 work forms the only law of the world. Life has no other purpose, there is no
 other reason for existence, we all come into being only in order to do our
 share of the work, and then vanish." -- Emile Zola
@@ -16,7 +16,7 @@ people do this in modern society? Very few. That's why they're all totally mad,
 frustrated, angry and hateful." -- Charles Bukowski
 
 "When he ought to have been working, instead he was 'contemplating the idea of
-work!'" -- The author's wife
+work!'" -- The editor's wife
 
 
 ## Table of Contents
@@ -24,21 +24,26 @@ work!'" -- The author's wife
 - Genesis
 - Indian Thought on Work: Hinduism, Castes, and Buddhism
 - Chinese Thought on Work: Taoism and Confucianism
-- The Ancient Greeks
+- Plato and Aristotle
+- The Greeks Cynics (Kenneth McIntyre, Sam Houston State University)
 - St. Paul
 - Augustine
 - Work in Islamic Thought
 - Aquinas
-- Luther
-- Locke: Ownership from Labor
+- Luther: The Idea of a Vocation
+- Francis Bacon: Science Relieving the Burden of Labor (Tyler Chamberlain, Simon Fraser University)
+- Locke: Ownership from Labor (Jason Ferrell, Concordia University)
 - Hegel
 - Ruge
 - Marx
-- Kierkegaard
+- Kierkegaard (Nathanael Blake)
 - Nietzsche
-- Weber: The Protestant Ethic
+- The British Idealists
+- Weber: The Protestant Ethic (Gülşen Seven, Turkish Education Association University)
 - The Economist's View of Work
 - Arendt: *Homo Faber*
-- Oakeshott: The Deadliness of Doing
-- [Josef Pieper: Leisure, the Basis of Culture](https://github.com/gcallah/work/blob/main/pieper.md)
+- Oakeshott: The Deadliness of Doing (W. John Coats, Connecticut College)
+- Josef Pieper: Leisure, the Basis of Culture (Ferenc Hörcher, Research
+Institute of Politics and Government, National University of Public Service,
+Hungary)
 
