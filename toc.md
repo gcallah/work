@@ -22,7 +22,8 @@ work!'" -- The editor's wife
 ## Table of Contents
 
 - Genesis
-- Indian Thought on Work: Hinduism, Castes, and Buddhism
+- Indian Thought on Work: Hinduism, Castes, and Buddhism (Gene Callahan, New
+York University)
 - Chinese Thought on Work: Taoism and Confucianism
 - Plato and Aristotle
 - The Greeks Cynics (Kenneth McIntyre, Sam Houston State University)
