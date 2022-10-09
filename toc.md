@@ -42,6 +42,7 @@ York University)
 - The British Idealists
 - Weber: The Protestant Ethic (Gülşen Seven, Turkish Education Association University)
 - Veblen: The Theory of the Leisure Class
+- G.K. Chesterton (Lucie Miryetka, Catholic University of America)
 - Mises: The Economist's View of Work
 - Arendt: *Homo Faber*
 - Oakeshott: The Deadliness of Doing (W. John Coats, Connecticut College)
