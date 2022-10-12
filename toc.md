@@ -37,7 +37,7 @@ York University)
 - Adam Smith and the Division of Labor
 - Hegel
 - Ruge
-- Marx
+- Marx (Jonathan D. Askonas, Catholic University of America)
 - Kierkegaard (Nathanael Blake)
 - Nietzsche
 - The British Idealists
