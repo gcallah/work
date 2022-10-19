@@ -30,11 +30,12 @@ York University)
 - The New Testament (James Alexander, Bilkent University)
 - Augustine
 - Work in Islamic Thought
-- Aquinas
+- Aquinas (Nyirkos Tamás, Research Institute for Politics and Government /
+University of Public Service, Budapest)
 - Luther: The Idea of a Vocation
 - Francis Bacon: Science Relieving the Burden of Labor (Tyler Chamberlain, Simon Fraser University)
-- Locke: Ownership from Labor (Jason Ferrell, Concordia University)
-- Adam Smith and the Division of Labor (Maria Pia Paganelli, Trinity University)
+- [Locke: Ownership from Labor](abstracts/locke.md) (Jason Ferrell, Concordia University)
+- [Adam Smith and the Division of Labor](abstracts/smith.md) (Maria Pia Paganelli, Trinity University)
 - Hegel
 - Ruge
 - Marx (Jonathan D. Askonas, Catholic University of America)
