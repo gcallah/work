@@ -45,9 +45,10 @@ University of Public Service, Budapest)
 - Weber: The Protestant Ethic (Gülşen Seven, Turkish Education Association University)
 - Veblen: The Theory of the Leisure Class
 - G.K. Chesterton (Lucie Miryetka, Catholic University of America)
-- Mises: The Economist's View of Work
+- Mises: The Disutility of Labor (Gabriel Benzecry, Middle Tennessee State
+University)
 - Arendt: *Homo Faber*
-- Oakeshott: The Deadliness of Doing (W. John Coats, Connecticut College)
+- [Oakeshott: The Deadliness of Doing](abstracts/oakeshott.md) (W. John Coats, Connecticut College)
 - Josef Pieper: Leisure, the Basis of Culture (Ferenc Hörcher, Research
 Institute of Politics and Government, National University of Public Service,
 Hungary)
