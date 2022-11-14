@@ -52,4 +52,6 @@ University)
 - Josef Pieper: Leisure, the Basis of Culture (Ferenc Hörcher, Research
 Institute of Politics and Government, National University of Public Service,
 Hungary)
+- Work in New Natural Law Theory (Christopher Tollefsen, University of South
+Carolina)
 
