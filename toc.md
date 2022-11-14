@@ -4,6 +4,14 @@ A history of the idea of work.
 
 __________
 
+"Cursed is the ground because of you; through painful toil you will eat food from it
+all the days of your life. It will produce thorns and thistles for you,
+and you will eat the plants of the field. By the sweat of your brow
+you will eat your food until you return to the ground..." -- Genesis 3
+
+"we worked night and day, laboring and toiling so that we would not be a burden
+to any of you." -- Paul, Second Letter to the Thessalonians
+
 "I had only one faith, one source of strength: work... Work! Consider, gentlemen:
 work forms the only law of the world. Life has no other purpose, there is no
 other reason for existence, we all come into being only in order to do our
