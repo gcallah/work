@@ -57,8 +57,9 @@ University of Public Service, Budapest)
 University)
 - Arendt: *Homo Faber*
 - [Oakeshott: The Deadliness of Doing](abstracts/oakeshott.md) (W. John Coats, Connecticut College)
-- Josef Pieper: Leisure, the Basis of Culture (Ferenc Hörcher, Research
-Institute of Politics and Government, National University of Public Service,
+- [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and
+Culture](abstracts.pieper.md)
+(Ferenc Hörcher, Research Institute of Politics and Government, National University of Public Service,
 Hungary)
 - Work in New Natural Law Theory (Christopher Tollefsen, University of South
 Carolina)
