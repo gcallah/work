@@ -53,7 +53,7 @@ University of Public Service, Budapest)
 - Weber: The Protestant Ethic (Gülşen Seven, Turkish Education Association University)
 - Veblen: The Theory of the Leisure Class
 - G.K. Chesterton (Lucie Miryetka, Catholic University of America)
-- Mises: The Disutility of Labor (Gabriel Benzecry, Middle Tennessee State
+- [Mises: The Disutility of Labor](abstracts/mises.md) (Gabriel Benzecry, Middle Tennessee State
 University)
 - Arendt: *Homo Faber*
 - [Oakeshott: The Deadliness of Doing](abstracts/oakeshott.md) (W. John Coats, Connecticut College)
