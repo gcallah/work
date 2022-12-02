@@ -1,4 +1,4 @@
-James Alexander is Associate Professor in the Department of Political Science,
+**James Alexander** is Associate Professor in the Department of Political Science,
 Bilkent University, Ankara. He is the author of *Shaw's Controversial
 Socialism*
 (University of Florida Press, 2009), and many articles on subjects in politics,

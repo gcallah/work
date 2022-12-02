@@ -1,4 +1,4 @@
-Ferenc Hörcher
+**Ferenc Hörcher**
 is a political philosopher and historian of political thought.
 His PhD was on the Scottish Enlightenment. He is research
 professor and director of the Research Institute of Politics

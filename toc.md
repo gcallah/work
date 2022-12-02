@@ -29,7 +29,7 @@ work!'" -- The editor's wife
 
 ## Table of Contents
 
-- Genesis
+- Introduction: Genesis ([Gene Callahan](bios/callahan.md), New York University)
 - Indian Thought on Work: Hinduism, Castes, and Buddhism
 - Chinese Thought on Work: Taoism and Confucianism
 - Plato and Aristotle
@@ -50,14 +50,15 @@ University of Public Service, Budapest)
 - Marx (Jonathan D. Askonas, Catholic University of America)
 - Kierkegaard (Nathanael Blake)
 - Nietzsche
-- The British Idealists on Work (Gene Callahan, New York University)
+- The British Idealists on Work ([Gene Callahan](bios/callahan.md), New York University)
 - Weber: The Protestant Ethic (Gülşen Seven, Turkish Education Association University)
 - Veblen: The Theory of the Leisure Class
 - G.K. Chesterton (Lucie Miryetka, Catholic University of America)
 - [Mises: The Disutility of Labor](abstracts/mises.md) (Gabriel Benzecry, Middle Tennessee State
 University)
 - Arendt: *Homo Faber*
-- [Oakeshott: The Deadliness of Doing](abstracts/oakeshott.md) (W. John Coats, Connecticut College)
+- [Oakeshott: The Deadliness of Doing](abstracts/oakeshott.md) ([W. John
+Coats](bios/coats.md), Connecticut College)
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and
 Culture](abstracts.pieper.md)
 ([Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,

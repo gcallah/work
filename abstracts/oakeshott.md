@@ -1,6 +1,6 @@
 # Michael Oakeshott on "The Deadliness of Doing"
 
-W.J.Coats
+[W.J. Coats](../bios/coats.md)
 
 Overheard on a commuter train:
 "You say you're in a rut? A rut is just a grave with the ends kicked out"
@@ -17,8 +17,8 @@ sake, rather than for some subsequent outcome or utility. It attempts to place
 Oakeshott in a large narrative running from Aristotle to Montaigne (one of
 Oakeshott's heroes) concerning which human activities can be meaningfully done
 for their own sakes, and how these all escape, to greater and lesser degrees,
-the deadliness and  endless Sisyphusian finality of practical human conduct, to
-include, saliently,  labor and its place in a human life. A related theme will
+the deadliness and endless Sisyphusian finality of practical human conduct, to
+include, saliently, labor and its place in a human life. A related theme will
 be the idea of participating in salutary, established rituals done for their
 own sake, yet capable of providing in addition to psychic satisfaction,
 residual by-products of some utility as well.
