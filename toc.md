@@ -30,12 +30,13 @@ work!'" -- The editor's wife
 ## Table of Contents
 
 - Genesis
-- Indian Thought on Work: Hinduism, Castes, and Buddhism (Gene Callahan, New
-York University)
+- Indian Thought on Work: Hinduism, Castes, and Buddhism
 - Chinese Thought on Work: Taoism and Confucianism
 - Plato and Aristotle
-- The Greeks Cynics (Kenneth McIntyre, Sam Houston State University)
-- The New Testament (James Alexander, Bilkent University)
+- [The Greeks Cynics on Work and Wealth](abstracts/cynics.md) ([Kenneth
+McIntyre](bios/mcintyre.md), Sam Houston State University)
+- [Work in the New Testament](abstracts/newtestament.md) ([James
+Alexander](bios/alexander.md), Bilkent University)
 - Augustine
 - Work in Islamic Thought
 - Aquinas (Nyirkos Tamás, Research Institute for Politics and Government /
@@ -49,7 +50,7 @@ University of Public Service, Budapest)
 - Marx (Jonathan D. Askonas, Catholic University of America)
 - Kierkegaard (Nathanael Blake)
 - Nietzsche
-- The British Idealists
+- The British Idealists on Work (Gene Callahan, New York University)
 - Weber: The Protestant Ethic (Gülşen Seven, Turkish Education Association University)
 - Veblen: The Theory of the Leisure Class
 - G.K. Chesterton (Lucie Miryetka, Catholic University of America)
@@ -59,7 +60,7 @@ University)
 - [Oakeshott: The Deadliness of Doing](abstracts/oakeshott.md) (W. John Coats, Connecticut College)
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and
 Culture](abstracts.pieper.md)
-(Ferenc Hörcher, Research Institute of Politics and Government, National University of Public Service,
+([Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,
 Hungary)
 - Work in New Natural Law Theory (Christopher Tollefsen, University of South
 Carolina)
