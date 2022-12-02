@@ -1,6 +1,6 @@
 # Work in The New Testament
 
-[James Alexander](../bios.alexander.md), Bilkent University
+[James Alexander](../bios/alexander.md), Bilkent University
 
 
 The New Testament of the Bible launched into the Western world an entirely new
