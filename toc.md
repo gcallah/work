@@ -59,7 +59,7 @@ Ferrell](bios/ferrell.md), Concordia University)
 - [Mises: The Disutility of Labor](abstracts/mises.md) ([Gabriel
 Benzecry](bios/benzecry.md), Middle Tennessee State
 University)
-- Arendt: *Homo Faber*
+- Arendt: *Homo Faber* (Sarah Jane Wilford, Universidad de los Andes)
 - [Oakeshott: The Deadliness of Doing](abstracts/oakeshott.md) ([W. John
 Coats](bios/coats.md), Connecticut College)
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and
