@@ -49,18 +49,18 @@ Ferrell](bios/ferrell.md), Concordia University)
 - [Adam Smith and the Division of Labor](abstracts/smith.md) (Maria Pia Paganelli, Trinity University)
 - Hegel
 - Ruge
-- Marx (Jonathan D. Askonas, Catholic University of America)
+- Marx and Alienation (Jonathan D. Askonas, Catholic University of America)
 - Kierkegaard (Nathanael Blake)
 - Nietzsche
 - The British Idealists on Work ([Gene Callahan](bios/callahan.md), New York University)
 - Weber: The Protestant Ethic ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
 - Veblen: The Theory of the Leisure Class
-- G.K. Chesterton (Lucie Miryetka, Catholic University of America)
+- G.K. Chesterton ([Lucie Miryetka](bios/miryetka.md), Catholic University of America)
 - [Mises: The Disutility of Labor](abstracts/mises.md) ([Gabriel
 Benzecry](bios/benzecry.md), Middle Tennessee State
 University)
 - Arendt: *Homo Faber* ([Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes)
-- [Oakeshott: The Deadliness of Doing](abstracts/oakeshott.md) ([W. John
+- [Michael Oakeshott on "The Deadliness of Doing"](abstracts/oakeshott.md) ([W. John
 Coats](bios/coats.md), Connecticut College)
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and
 Culture](abstracts.pieper.md)
