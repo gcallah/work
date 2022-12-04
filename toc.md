@@ -29,7 +29,7 @@ work!'" -- The editor's wife
 
 ## Table of Contents
 
-- Introduction: Genesis ([Gene Callahan](bios/callahan.md), New York University)
+- [Introduction](abstracts/intro.md) ([Gene Callahan](bios/callahan.md), New York University)
 - Indian Thought on Work: Hinduism, Castes, and Buddhism
 - Chinese Thought on Work: Taoism and Confucianism
 - Plato and Aristotle
