@@ -2,9 +2,11 @@
 
 Gene Callahan, New York University
 
-The genesis for this project was reading the material on work from Basil
-Wiley’s *Nineteenth Century Studies* and being struck by how divergent the
-views of work were even on one continent in one century. I gradually began
+The genesis for this project was reading the material on work 
+from Karl Löwith’s *From Hegel to Nietzsche*
+and being struck by how divergent the
+views of work were even on one continent (and mostly from one country!)
+during the course of one century.  I gradually began
 collecting snippets of writings about work from over the centuries, and thought
 it would be useful to explore however variously it has been conceived by
 different major thinkers. These conceptions run the gamut from viewing work as

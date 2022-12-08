@@ -19,7 +19,7 @@ share of the work, and then vanish." -- Emile Zola
 
 "This is very important -- to take leisure time. Pace is the essence. Without
 stopping entirely and doing nothing at all for great periods, you're gonna lose
-everything...just to do nothing at all, very, very important. And how many
+everything... just to do nothing at all, very, very important. And how many
 people do this in modern society? Very few. That's why they're all totally mad,
 frustrated, angry and hateful." -- Charles Bukowski
 
@@ -52,7 +52,7 @@ Ferrell](bios/ferrell.md), Concordia University)
 - Marx and Alienation (Jonathan D. Askonas, Catholic University of America)
 - Kierkegaard (Nathanael Blake)
 - Nietzsche
-- The British Idealists on Work ([Gene Callahan](bios/callahan.md), New York University)
+- Work in Catholic Social Teaching ([Gene Callahan](bios/callahan.md), New York University)
 - Weber: The Protestant Ethic ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
 - Veblen: The Theory of the Leisure Class
 - G.K. Chesterton ([Lucie Miryetka](bios/miryetka.md), Catholic University of America)
