@@ -49,7 +49,7 @@ Ferrell](bios/ferrell.md), Concordia University)
 - Marx and Alienation (Jonathan D. Askonas, Catholic University of America)
 - Kierkegaard (Nathanael Blake)
 - Nietzsche
-- Work in Catholic Social Teaching ([Gene Callahan](bios/callahan.md), New York University)
+- [Work in Catholic Social Teaching](abstracts/cst.md) ([Gene Callahan](bios/callahan.md), New York University)
 - Weber: The Protestant Ethic ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
 - Veblen: The Theory of the Leisure Class
 - G.K. Chesterton ([Lucie Miryetka](bios/miryetka.md), Catholic University of America)
