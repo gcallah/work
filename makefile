@@ -4,6 +4,7 @@ export ABS_DIR = ./abstracts
 export TMP_DIR = ./tmp
 export BIN_DIR = ./bin
 export PROP_DIR = ./proposal
+export STRUCT_DIR = ./structure
 
 prod: abstracts bios toc proposal github
 
@@ -29,7 +30,7 @@ abstracts: $(PUB_DIR)/abstracts.docx
 $(PUB_DIR)/abstracts.docx: $(TMP_DIR)/abstracts.md
 	pandoc -o $@ -f markdown -t docx $(TMP_DIR)/abstracts.md
 
-$(TMP_DIR)/abstracts.md: $(ABS_DIR)/*.md
+$(TMP_DIR)/abstracts.md: $(ABS_DIR)/*.md $(STRUCT_DIR)/chap_order.txt
 	$(BIN_DIR)/collect_abstracts.sh
 
 bios: $(PUB_DIR)/bios.docx

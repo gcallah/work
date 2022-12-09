@@ -4,6 +4,7 @@ newtestament
 bacon
 locke
 smith
+cst
 mises
 pieper
 oakeshott
