@@ -4,3 +4,5 @@
  and has also written essays on the philosophy of history, ordinary language philosophy,
  American constitutionalism, and practical reason. He is currently working on a book
  on value pluralism, liberty, and the rule of law.
+
+

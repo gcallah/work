@@ -5,3 +5,5 @@ Wake Forest University. Gabriel's research focuses on Political Economy and the
 History of Ideas. He currently works as a Graduate Teaching Assistant for the
 Jones College of Business, teatching Principles of Microeconomics and
 Macroeconomics.
+
+

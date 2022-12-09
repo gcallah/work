@@ -18,3 +18,5 @@ Shaped the World* (with Graeme Garrard) Bloomsbury Continuum, 2019.
 - *The Philosophy of Positive Law: Foundations of Jurisprudence* (Yale Press, 2005)
 
 - *The Moral Economy of Labor: Aristotelian Themes in Economic Theory* (Yale Press, 1993)
+
+

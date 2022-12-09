@@ -9,3 +9,5 @@ Tocqueville regarding family, women, and democratic conditions. Her other
 research interests include the relationship between religion and liberty in the
 history of political thought, womanhood during the nineteenth century, and the
 use of historical thinkers in modern political theory and political science.
+
+

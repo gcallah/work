@@ -15,3 +15,5 @@ co-edited with John Liptay of St. Thomas More College, University of
 Saskatchewan
 (Catholic University of America Press, 2020).
 - *Lying and Christian Ethics* (Cambridge University Press, 2014).
+
+

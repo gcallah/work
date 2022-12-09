@@ -10,3 +10,5 @@ Government and Political Culture in Central Europe* (2019), *A Political
 Philosophy of Conservatism. Prudence, Moderation and Tradition* (2020) and *The
 Political Philosophy of the European City. From Polis through City-State to
 Megalopolis* (2021).
+
+
