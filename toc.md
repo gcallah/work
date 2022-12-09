@@ -30,15 +30,12 @@ work!'" -- The editor's wife
 ## Table of Contents
 
 - [Introduction](abstracts/intro.md) ([Gene Callahan](bios/callahan.md), New York University)
-- Indian Thought on Work: Hinduism, Castes, and Buddhism
-- Chinese Thought on Work: Taoism and Confucianism
-- Plato and Aristotle (James B. Murphy, Dartmouth College)
+- Plato and Aristotle ([James B. Murphy](bios/murphy.md), Dartmouth College)
 - [The Greeks Cynics on Work and Wealth](abstracts/cynics.md) ([Kenneth
 McIntyre](bios/mcintyre.md), Sam Houston State University)
 - [Work in the New Testament](abstracts/newtestament.md) ([James
 Alexander](bios/alexander.md), Bilkent University)
 - Augustine
-- Work in Islamic Thought
 - Aquinas (Nyirkos Tamás, Research Institute for Politics and Government /
 University of Public Service, Budapest)
 - Luther: The Idea of a Vocation

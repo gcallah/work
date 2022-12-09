@@ -16,10 +16,13 @@ toc: $(PUB_DIR)/toc.docx
 $(PUB_DIR)/toc.docx: toc.md
 	pandoc -o $@ -f markdown -t docx toc.md
 
-proposal: $(PUB_DIR)/prop.docx
+proposal: $(PUB_DIR)/prop.docx $(PUB_DIR)/palgrave.docx
 
 $(PUB_DIR)/prop.docx: $(PROP_DIR)/prop.md
 	pandoc -o $@ -f markdown -t docx $(PROP_DIR)/prop.md
+
+$(PUB_DIR)/palgrave.docx: $(PROP_DIR)/palgrave.md
+	pandoc -o $@ -f markdown -t docx $(PROP_DIR)/palgrave.md
 
 abstracts: $(PUB_DIR)/abstracts.docx
 

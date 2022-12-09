@@ -31,11 +31,22 @@ As exhibited in the above quotes,
 Western civlization exhibits a near schizophrenic condition in its
 attitude towards laboring. Is work is a curse, or is work the very purpose of life!
 Should we be proud of how hard we have worked... or should we be ashamed we
-have not had more leisure?
+have not had more leisure? This divide rears its head in popular culture, where
+we find countless articles about things like "work/life balance," as the
+working and living are two separate activities.
 
 My attention was first drawn to the possibility of an historical study of
 how this situation developed by the work of Karl Löwith, in particular his
 section on "The Problem of Work" in his book, *From Hegel to Nietzsche*. While I
 found the section fascinating, at the same time, I realized that it only
 covered about 80 years, and for the most part 
-dealt with thinkers from a single country (Germany).
+dealt with thinkers from a single country (Germany). And while there are many
+histories of work itself, of commerce, of labor movements, and so on, I am
+unable to locate any significant survey of the *history of thought* about work.
+And I believe such a work will prove quite valuable in clarifying how we
+arrived at where we are in our attitudes towards work.
+
+Our first choice for publisher, Palgrave McMillan, has a specific form to fill
+out regarding things like market potential. That form is included in the
+archive: `palgrave.docx`. If we pitch to a different publisher, we will, no
+doubt, fill out some similar form for them, and include it as well.
