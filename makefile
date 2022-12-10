@@ -1,3 +1,4 @@
+export WORD_DIR = ./word_docs
 export PUB_DIR = ./to_publisher
 export BIO_DIR = ./bios
 export ABS_DIR = ./abstracts
@@ -5,37 +6,46 @@ export TMP_DIR = ./tmp
 export BIN_DIR = ./bin
 export PROP_DIR = ./proposal
 export STRUCT_DIR = ./structure
+export ARCH_NAME = SweatOfBrow
+export ARCH_FILE = $(PUB_DIR)/$(ARCH_NAME).zip
 
-prod: abstracts bios toc proposal github
+prod: parts github
+
+archive: $(ARCH_FILE)
+
+$(ARCH_FILE): parts
+	zip -r $(ARCH_FILE) $(WORD_DIR)/*.docx
 
 github:
 	-git commit -a
 	git push origin main
 
-toc: $(PUB_DIR)/toc.docx
+parts: abstracts bios toc proposal
 
-$(PUB_DIR)/toc.docx: toc.md
+toc: $(WORD_DIR)/toc.docx
+
+$(WORD_DIR)/toc.docx: toc.md
 	pandoc -o $@ -f markdown -t docx toc.md
 
-proposal: $(PUB_DIR)/prop.docx $(PUB_DIR)/palgrave.docx
+proposal: $(WORD_DIR)/prop.docx $(WORD_DIR)/palgrave.docx
 
-$(PUB_DIR)/prop.docx: $(PROP_DIR)/prop.md
+$(WORD_DIR)/prop.docx: $(PROP_DIR)/prop.md
 	pandoc -o $@ -f markdown -t docx $(PROP_DIR)/prop.md
 
-$(PUB_DIR)/palgrave.docx: $(PROP_DIR)/palgrave.md
+$(WORD_DIR)/palgrave.docx: $(PROP_DIR)/palgrave.md
 	pandoc -o $@ -f markdown -t docx $(PROP_DIR)/palgrave.md
 
-abstracts: $(PUB_DIR)/abstracts.docx
+abstracts: $(WORD_DIR)/abstracts.docx
 
-$(PUB_DIR)/abstracts.docx: $(TMP_DIR)/abstracts.md
+$(WORD_DIR)/abstracts.docx: $(TMP_DIR)/abstracts.md
 	pandoc -o $@ -f markdown -t docx $(TMP_DIR)/abstracts.md
 
 $(TMP_DIR)/abstracts.md: $(ABS_DIR)/*.md $(STRUCT_DIR)/chap_order.txt
 	$(BIN_DIR)/collect_abstracts.sh
 
-bios: $(PUB_DIR)/bios.docx
+bios: $(WORD_DIR)/bios.docx
 
-$(PUB_DIR)/bios.docx: $(TMP_DIR)/bios.md
+$(WORD_DIR)/bios.docx: $(TMP_DIR)/bios.md
 	pandoc -o $@ -f markdown -t docx $(TMP_DIR)/bios.md
 
 $(TMP_DIR)/bios.md: $(BIO_DIR)/*.md
