@@ -63,6 +63,6 @@ Coats](bios/coats.md), Connecticut College)
 Culture](abstracts.pieper.md)
 ([Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,
 Hungary)
-- Work in New Natural Law Theory (Christopher Tollefsen, University of South
+- Work in New Natural Law Theory ([Christopher Tollefsen](bios/tollefsen.md), University of South
 Carolina)
 
