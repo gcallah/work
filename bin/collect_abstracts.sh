@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/bash
 
 # clear out old work:
 rm tmp/abstracts.md

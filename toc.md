@@ -36,7 +36,7 @@ McIntyre](bios/mcintyre.md), Sam Houston State University)
 - [Work in the New Testament](abstracts/newtestament.md) ([James
 Alexander](bios/alexander.md), Bilkent University)
 - Augustine
-- Aquinas (Nyirkos Tamás, Research Institute for Politics and Government /
+- [Aquinas on work](abstracts/aquinas.md) ([Nyirkos Tamás](bios/nyirkos.md), Research Institute for Politics and Government /
 University of Public Service, Budapest)
 - Luther: The Idea of a Vocation
 - [Francis Bacon: Science Relieving the Burden of Labor](abstracts/bacon.md)

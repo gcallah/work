@@ -1,6 +1,7 @@
 intro
 cynics
 newtestament
+aquinas
 bacon
 locke
 smith
