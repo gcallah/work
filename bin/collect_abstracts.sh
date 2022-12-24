@@ -1,7 +1,7 @@
-#!/usr/bin/bash
+#!/bin/sh
 
 # clear out old work:
-rm tmp/abstracts.md
+echo "\n" > tmp/abstracts.md
 
 declare -a chap_list=$(cat structure/chap_order.txt)
 
