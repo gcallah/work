@@ -5,6 +5,7 @@ aquinas
 bacon
 locke
 smith
+marx
 cst
 mises
 pieper

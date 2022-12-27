@@ -35,7 +35,6 @@ work!'" -- The editor's wife
 McIntyre](bios/mcintyre.md), Sam Houston State University)
 - [Work in the New Testament](abstracts/newtestament.md) ([James
 Alexander](bios/alexander.md), Bilkent University)
-- Augustine
 - [Aquinas on work](abstracts/aquinas.md) ([Nyirkos Tamás](bios/nyirkos.md), Research Institute for Politics and Government /
 University of Public Service, Budapest)
 - Luther: The Idea of a Vocation
@@ -45,13 +44,11 @@ University of Public Service, Budapest)
 Ferrell](bios/ferrell.md), Concordia University)
 - [Adam Smith and the Division of Labor](abstracts/smith.md) (Maria Pia Paganelli, Trinity University)
 - Hegel
-- Ruge
-- Marx and Alienation (Jonathan D. Askonas, Catholic University of America)
-- Kierkegaard (Nathanael Blake)
+- Marx's Theory of Work ([Jonathan D. Askonas](bios/askonas.md), Catholic University of America)
+- Kierkegaard ([Nathanael Blake](bios/blake.md))
 - Nietzsche
 - [Work in Catholic Social Teaching](abstracts/cst.md) ([Gene Callahan](bios/callahan.md), New York University)
 - Weber: The Protestant Ethic ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
-- Veblen: The Theory of the Leisure Class
 - G.K. Chesterton ([Lucie Miryetka](bios/miryetka.md), Catholic University of America)
 - [Mises: The Disutility of Labor](abstracts/mises.md) ([Gabriel
 Benzecry](bios/benzecry.md), Middle Tennessee State
