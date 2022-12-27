@@ -44,7 +44,7 @@ University of Public Service, Budapest)
 Ferrell](bios/ferrell.md), Concordia University)
 - [Adam Smith and the Division of Labor](abstracts/smith.md) (Maria Pia Paganelli, Trinity University)
 - Hegel
-- Marx's Theory of Work ([Jonathan D. Askonas](bios/askonas.md), Catholic University of America)
+- [Marx's Theory of Work](abstracts/marx.md) ([Jonathan D. Askonas](bios/askonas.md), Catholic University of America)
 - Kierkegaard ([Nathanael Blake](bios/blake.md))
 - Nietzsche
 - [Work in Catholic Social Teaching](abstracts/cst.md) ([Gene Callahan](bios/callahan.md), New York University)
