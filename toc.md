@@ -35,7 +35,7 @@ work!'" -- The editor's wife
 McIntyre](bios/mcintyre.md), Sam Houston State University)
 - [Work in the New Testament](abstracts/newtestament.md) ([James
 Alexander](bios/alexander.md), Bilkent University)
-- [Aquinas on work](abstracts/aquinas.md) ([Nyirkos Tamás](bios/nyirkos.md), Research Institute for Politics and Government /
+- [Aquinas on Work](abstracts/aquinas.md) ([Nyirkos Tamás](bios/nyirkos.md), Research Institute for Politics and Government /
 University of Public Service, Budapest)
 - Luther: The Idea of a Vocation
 - [Francis Bacon: Science Relieving the Burden of Labor](abstracts/bacon.md)
@@ -45,7 +45,7 @@ Ferrell](bios/ferrell.md), Concordia University)
 - [Adam Smith and the Division of Labor](abstracts/smith.md) (Maria Pia Paganelli, Trinity University)
 - Hegel
 - [Marx's Theory of Work](abstracts/marx.md) ([Jonathan D. Askonas](bios/askonas.md), Catholic University of America)
-- Kierkegaard ([Nathanael Blake](bios/blake.md))
+- [Kierkegaard on the Laborer](abstracts/kierkegaard.md) ([Nathanael Blake](bios/blake.md))
 - Nietzsche
 - [Work in Catholic Social Teaching](abstracts/cst.md) ([Gene Callahan](bios/callahan.md), New York University)
 - Weber: The Protestant Ethic ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
@@ -53,7 +53,9 @@ Ferrell](bios/ferrell.md), Concordia University)
 - [Mises: The Disutility of Labor](abstracts/mises.md) ([Gabriel
 Benzecry](bios/benzecry.md), Middle Tennessee State
 University)
-- Arendt: *Homo Faber* ([Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes)
+- [Hannah Arendt on *Homo Faber* and the Fragility of Human
+Action](abstracts/arendt.md) ([Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes)
+- [The Woman’s Soul as "Shelter": Edith Stein on the Work of Women](stein.md) ([Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes)
 - [Michael Oakeshott on "The Deadliness of Doing"](abstracts/oakeshott.md) ([W. John
 Coats](bios/coats.md), Connecticut College)
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and
