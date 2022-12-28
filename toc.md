@@ -55,7 +55,7 @@ Benzecry](bios/benzecry.md), Middle Tennessee State
 University)
 - [Hannah Arendt on *Homo Faber* and the Fragility of Human
 Action](abstracts/arendt.md) ([Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes)
-- [The Woman’s Soul as "Shelter": Edith Stein on the Work of Women](stein.md) ([Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes)
+- [The Woman’s Soul as "Shelter": Edith Stein on the Work of Women](abstracts/stein.md) ([Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes)
 - [Michael Oakeshott on "The Deadliness of Doing"](abstracts/oakeshott.md) ([W. John
 Coats](bios/coats.md), Connecticut College)
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and
