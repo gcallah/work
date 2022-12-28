@@ -1,6 +1,6 @@
 # Kierkegaard on the Laborer
 
-[Nathanael Blake](bios/blake.md)
+[Nathanael Blake](../bios/blake.md)
 
 The most straight-forward answer to the question of what Kierkegaard thought
 about labor is that he didn't. Though he worked hard on his writings, he lived

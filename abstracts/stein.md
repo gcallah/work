@@ -1,6 +1,6 @@
 # The Woman’s Soul as "Shelter": Edith Stein on the Work of Women
 
-[Sarah Jane Wilford](bios/wilford.md)
+[Sarah Jane Wilford](../bios/wilford.md)
 
 Though sometimes overlooked, the distinct category of the work of women is
 essential to a thorough intellectual history of the idea of work. In the vein

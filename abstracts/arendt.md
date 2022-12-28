@@ -1,6 +1,6 @@
 # Hannah Arendt on *Homo Faber* and the Fragility of Human Action
 
-[Sarah Jane Wilford](bios/wilford.md)
+[Sarah Jane Wilford](../bios/wilford.md)
 
 Hannah Arendt (1906-1975) is renowned for grappling with grave themes
 throughout her opus, from the problem of evil to the conditions for revolution.
