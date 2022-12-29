@@ -48,6 +48,7 @@ Ferrell](bios/ferrell.md), Concordia University)
 - [Kierkegaard on the Laborer](abstracts/kierkegaard.md) ([Nathanael Blake](bios/blake.md))
 - Nietzsche
 - [Work in Catholic Social Teaching](abstracts/cst.md) ([Gene Callahan](bios/callahan.md), New York University)
+- Durkheim and Anomie
 - Weber: The Protestant Ethic ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
 - G.K. Chesterton ([Lucie Miryetka](bios/miryetka.md), Catholic University of America)
 - [Mises: The Disutility of Labor](abstracts/mises.md) ([Gabriel
