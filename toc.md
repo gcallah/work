@@ -49,7 +49,8 @@ Ferrell](bios/ferrell.md), Concordia University)
 - Nietzsche
 - [Work in Catholic Social Teaching](abstracts/cst.md) ([Gene Callahan](bios/callahan.md), New York University)
 - Durkheim on Anomie
-- Giovanni Gentile on the Humanism of Labor, Spartaco Pupo, Università della Calabria
+- Giovanni Gentile on the Humanism of Labor (Spartaco Pupo, Università della
+Calabria)
 - Weber: The Protestant Ethic ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
 - G.K. Chesterton ([Lucie Miryetka](bios/miryetka.md), Catholic University of America)
 - [Mises: The Disutility of Labor](abstracts/mises.md) ([Gabriel
