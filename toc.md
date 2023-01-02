@@ -37,7 +37,8 @@ McIntyre](bios/mcintyre.md), Sam Houston State University)
 Alexander](bios/alexander.md), Bilkent University)
 - [Aquinas on Work](abstracts/aquinas.md) ([Nyirkos Tamás](bios/nyirkos.md), Research Institute for Politics and Government /
 University of Public Service, Budapest)
-- Luther: The Idea of a Vocation
+- Luther: The Idea of a Vocation (Orsolya Horvath, Károli Gáspár University of
+the Reformed Church in Hungary)
 - [Francis Bacon: Science Relieving the Burden of Labor](abstracts/bacon.md)
 ([Tyler Chamberlain](bios/chamberlain.md), Trinity Western University))
 - [Locke: Ownership from Labor](abstracts/locke.md) ([Jason
