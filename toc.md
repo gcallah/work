@@ -40,7 +40,7 @@ University of Public Service, Budapest)
 - Luther: The Idea of a Vocation (Orsolya Horvath, Károli Gáspár University of
 the Reformed Church in Hungary)
 - [Francis Bacon: Science Relieving the Burden of Labor](abstracts/bacon.md)
-([Tyler Chamberlain](bios/chamberlain.md), Trinity Western University))
+([Tyler Chamberlain](bios/chamberlain.md), Trinity Western University)
 - [Locke: Ownership from Labor](abstracts/locke.md) ([Jason
 Ferrell](bios/ferrell.md), Concordia University)
 - [Adam Smith and the Division of Labor](abstracts/smith.md) ([Maria Pia
