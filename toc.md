@@ -24,7 +24,7 @@ people do this in modern society? Very few. That's why they're all totally mad,
 frustrated, angry and hateful." -- Charles Bukowski
 
 "When he ought to have been working, instead he was 'contemplating the idea of
-work!'" -- The editor's wife
+work'!" -- The editor's wife
 
 
 ## Table of Contents
