@@ -5,8 +5,13 @@ aquinas
 bacon
 locke
 smith
+kierkegaard
 marx
 cst
+gentile
+arendt
+stein
 mises
 pieper
 oakeshott
+nnlt
