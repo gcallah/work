@@ -45,7 +45,8 @@ the Reformed Church in Hungary)
 Ferrell](bios/ferrell.md), Concordia University)
 - [Adam Smith and the Division of Labor](abstracts/smith.md) ([Maria Pia
 Paganelli](bios/paganelli.md), Trinity University)
-- Hegel (William Lombardo, Boston College)
+- [Hegel on Work’s Two-Sidedness](abstracts/hegel.md) ([William
+Lombardo](bios/lombardo.md), Boston College)
 - [Marx's Theory of Work](abstracts/marx.md) ([Jonathan D. Askonas](bios/askonas.md), Catholic University of America)
 - [Kierkegaard on the Laborer](abstracts/kierkegaard.md) ([Nathanael Blake](bios/blake.md))
 - Nietzsche

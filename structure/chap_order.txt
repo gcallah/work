@@ -5,6 +5,7 @@ aquinas
 bacon
 locke
 smith
+hegel
 kierkegaard
 marx
 cst
