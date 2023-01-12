@@ -9,7 +9,7 @@ could say material or political—connection between Americans and their work.
 Alexis de Tocqueville perceived just this connection in 1831, during his
 9-month journey throughout the United States.
 Unlike Max Weber, who thought that Americans understood their passion for
-labor, or industry, as evidence of having received divine saving grace
+labor, or industry, as evidence of having received divine saving grace,
 Tocqueville saw Americans' predilection for labor as a
 by-product of the equality of conditions--that is to say, of democracy itself.
 Because there is no landed aristocracy or primogeniture in America, all people
