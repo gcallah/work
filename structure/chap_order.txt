@@ -6,6 +6,7 @@ bacon
 locke
 smith
 hegel
+tocqueville
 kierkegaard
 marx
 cst

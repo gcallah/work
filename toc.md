@@ -47,9 +47,9 @@ Ferrell](bios/ferrell.md), Concordia University)
 Paganelli](bios/paganelli.md), Trinity University)
 - [Hegel on Work’s Two-Sidedness](abstracts/hegel.md) ([William
 Lombardo](bios/lombardo.md), Boston College)
+- [Tocqueville, Americans, and Honorable Work](abstracts/tocqueville.md) (Jacob Wolf, Regent University)
 - [Marx's Theory of Work](abstracts/marx.md) ([Jonathan D. Askonas](bios/askonas.md), Catholic University of America)
 - [Kierkegaard on the Laborer](abstracts/kierkegaard.md) ([Nathanael Blake](bios/blake.md))
-- Nietzsche
 - [Work in Catholic Social Teaching](abstracts/cst.md) ([Gene Callahan](bios/callahan.md), New York University)
 - Durkheim on Anomie
 - [Giovanni Gentile on the Humanism of Labor](abstracts/gentile.md) ([Spartaco Pupo](bios/pupo.md), Università della
