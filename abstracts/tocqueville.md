@@ -4,11 +4,11 @@ Jacob Wolf, Regent University
 
 To people outside the United States, Americans are virtually synonymous with
 work and with labor. To ascertain the identity of someone in America, one
-tends to ask, "What do you do for a living?"  There is a deeply rooted—one
-could say material or political—connection between Americans and their work.
+tends to ask, "What do you do for a living?"  There is a deeply rooted--one
+could say material or political--connection between Americans and their work.
 Alexis de Tocqueville perceived just this connection in 1831, during his
 9-month journey throughout the United States.
-Unlike Max Weber, who thought that Americans understood their passion for
+Unlike Max Weber, who argued that Americans understood their passion for
 labor, or industry, as evidence of having received divine saving grace,
 Tocqueville saw Americans' predilection for labor as a
 by-product of the equality of conditions--that is to say, of democracy itself.
@@ -32,5 +32,5 @@ built an entire nation in short order; however, that very love of work can also
 lead to materialism, which he sees as the primary threat to democratic nations.
 To ensure continued national flourishing, Tocqueville counsels Americans to
 continue loving work, without somehow loving exclusively the material objects
-one can obtain through that work—a paradox of the highest order.
+one can obtain through that work--a paradox of the highest order.
 
