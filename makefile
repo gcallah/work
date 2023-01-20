@@ -1,3 +1,5 @@
+include $(INI_HOME)/common.mk
+
 export WORD_DIR = ./word_docs
 export PUB_DIR = ./to_publisher
 export BIO_DIR = ./bios

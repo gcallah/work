@@ -15,7 +15,7 @@ to any of you." -- Paul, Second Letter to the Thessalonians
 "I had only one faith, one source of strength: work... Work! Consider, gentlemen:
 work forms the only law of the world. Life has no other purpose, there is no
 other reason for existence, we all come into being only in order to do our
-share of the work, and then vanish." -- Emile Zola
+share of the work, and then vanish." -- Émile Zola
 
 "This is very important -- to take leisure time. Pace is the essence. Without
 stopping entirely and doing nothing at all for great periods, you're gonna lose
@@ -37,7 +37,7 @@ McIntyre](bios/mcintyre.md), Sam Houston State University)
 Alexander](bios/alexander.md), Bilkent University)
 - [Aquinas on Work](abstracts/aquinas.md) ([Nyirkos Tamás](bios/nyirkos.md), Research Institute for Politics and Government /
 University of Public Service, Budapest)
-- Luther: The Idea of a Vocation (Orsolya Horvath, Károli Gáspár University of
+- [Luther on Vocation](abstracts/luther.md) ([Orsolya Horváth](bios/horvath.md), Károli Gáspár University of
 the Reformed Church in Hungary)
 - [Francis Bacon: Science Relieving the Burden of Labor](abstracts/bacon.md)
 ([Tyler Chamberlain](bios/chamberlain.md), Trinity Western University)
@@ -54,7 +54,7 @@ Lombardo](bios/lombardo.md), Boston College)
 - Durkheim on Anomie
 - [Giovanni Gentile on the Humanism of Labor](abstracts/gentile.md) ([Spartaco Pupo](bios/pupo.md), Università della
 Calabria)
-- [Weber: The Protestant Ethic](abstracts/weber.md) ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
+- [Weber on Work](abstracts/weber.md) ([Gülşen Seven](bios/seven.md), Turkish Education Association University)
 - G.K. Chesterton ([Lucie Miryetka](bios/miryetka.md), Catholic University of America)
 - [Mises: The Disutility of Labor](abstracts/mises.md) ([Gabriel
 Benzecry](bios/benzecry.md), Middle Tennessee State
