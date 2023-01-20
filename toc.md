@@ -30,7 +30,7 @@ work'!" -- The editor's wife
 ## Table of Contents
 
 - [Introduction](abstracts/intro.md) ([Gene Callahan](bios/callahan.md), New York University)
-- Plato and Aristotle on Work ([James B. Murphy](bios/murphy.md), Dartmouth College)
+- [Plato and Aristotle on Work](abstracts/plato.md) ([James B. Murphy](bios/murphy.md), Dartmouth College)
 - [The Greeks Cynics on Work and Wealth](abstracts/cynics.md) ([Kenneth
 McIntyre](bios/mcintyre.md), Sam Houston State University)
 - [Work in the New Testament](abstracts/newtestament.md) ([James
