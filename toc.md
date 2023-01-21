@@ -39,16 +39,16 @@ Alexander](bios/alexander.md), Bilkent University
 University of Public Service, Budapest
 - [Luther on Vocation](abstracts/luther.md), [Orsolya Horváth](bios/horvath.md), Károli Gáspár University of
 the Reformed Church in Hungary
-- [Francis Bacon: Science Relieving the Burden of Labor](abstracts/bacon.md
-([Tyler Chamberlain](bios/chamberlain.md), Trinity Western University
+- [Francis Bacon: Science Relieving the Burden of Labor](abstracts/bacon.md),
+[Tyler Chamberlain](bios/chamberlain.md), Trinity Western University
 - [Locke: Ownership from Labor](abstracts/locke.md), [Jason
 Ferrell](bios/ferrell.md), Concordia University
 - [Adam Smith and the Division of Labor](abstracts/smith.md), [Maria Pia
 Paganelli](bios/paganelli.md), Trinity University
 - [Hegel on Work’s Two-Sidedness](abstracts/hegel.md), [William
 Lombardo](bios/lombardo.md), Boston College
-- [Tocqueville, Americans, and Honorable Work](abstracts/tocqueville.md
-([Jacob Wolf](bios/wolf.md), Regent University
+- [Tocqueville, Americans, and Honorable Work](abstracts/tocqueville.md), 
+[Jacob Wolf](bios/wolf.md), Regent University
 - [Marx's Theory of Work](abstracts/marx.md), [Jonathan D. Askonas](bios/askonas.md), Catholic University of America
 - [Kierkegaard on the Laborer](abstracts/kierkegaard.md), [Nathanael Blake](bios/blake.md)
 - [Work in Catholic Social Teaching](abstracts/cst.md), [Gene Callahan](bios/callahan.md), New York University
@@ -67,8 +67,8 @@ Action](abstracts/arendt.md), [Sarah Jane Wilford](bios/wilford.md), Universidad
 - [Michael Oakeshott on "The Deadliness of Doing"](abstracts/oakeshott.md), [W. John
 Coats](bios/coats.md), Connecticut College
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and
-Culture](abstracts.pieper.md
-([Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,
+Culture](abstracts.pieper.md), 
+[Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,
 Hungary
 - [Work in New Natural Law Theory](abstracts/nnlt.md), [Christopher Tollefsen](bios/tollefsen.md), University of South
 Carolina
