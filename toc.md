@@ -57,7 +57,6 @@ School of Economics
 - [Giovanni Gentile on the Humanism of Labor](abstracts/gentile.md), [Spartaco Pupo](bios/pupo.md), Università della
 Calabria
 - [Weber on Work](abstracts/weber.md), [Gülşen Seven](bios/seven.md), Turkish Education Association University
-- G.K. Chesterton, [Lucie Miryetka](bios/miryetka.md), Catholic University of America
 - [Mises: The Disutility of Labor](abstracts/mises.md), [Gabriel
 Benzecry](bios/benzecry.md), Middle Tennessee State
 University
