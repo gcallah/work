@@ -16,3 +16,6 @@ part of living the best life.
 How did this almost schizophrenic view of work come about? And how did various
 thinkers defend their positive or negative evaluations of work?
 
+These questions are vital to contemporary liberalism, and to its critics, as a
+vital issue dividing liberals from their critics -- Marxist, distributist,
+post-liberal, etc. -- is the role of work in human life.

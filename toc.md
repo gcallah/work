@@ -52,7 +52,7 @@ Lombardo](bios/lombardo.md), Boston College
 - [Marx's Theory of Work](abstracts/marx.md), [Jonathan D. Askonas](bios/askonas.md), Catholic University of America
 - [Kierkegaard on the Laborer](abstracts/kierkegaard.md), [Nathanael Blake](bios/blake.md)
 - [Work in Catholic Social Teaching](abstracts/cst.md), [Gene Callahan](bios/callahan.md), New York University
-- Durkheim on Anomie, [J. McKenzie Alexander](bios/jmalexander.md), The London
+- [Durkheim on Anomie](abstracts/dirkheim.md), [J. McKenzie Alexander](bios/jmalexander.md), The London
 School of Economics
 - [Giovanni Gentile on the Humanism of Labor](abstracts/gentile.md), [Spartaco Pupo](bios/pupo.md), Università della
 Calabria
