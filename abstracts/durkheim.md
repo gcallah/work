@@ -13,3 +13,8 @@ things larger than themselves, were likely to engage in anti-social activity,
 or, at the extreme, commit suicide (the title of one of his major works),
 either because they find life purposeless, or because their unchecked desires
 can never by fulfilled.
+
+Durkheim believed that the way past this condition was a new religion that he
+called "the cult of the individual," as exemplified, for example, in the French
+Revolution's "Declaration of the Rights of Man and of the Citizen." 
+A century after Durkheim, how has his analysis withstood the test of time?
