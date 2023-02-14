@@ -35,7 +35,7 @@ existence." — Karl Marx, *Capital*
 happiness can be obtained only through honest effort." -- Henry Ford, *My Life
 and Work*
 
-"Earning a wage is a prison occupation
+"Earning a wage is a prison occupation / 
 And a wage-earner is a sort of gaol-bird" -- D.H. Lawrence, *Wages*
 
 "This is very important -- to take leisure time. Pace is the essence. Without
