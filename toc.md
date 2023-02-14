@@ -32,7 +32,8 @@ share of the work, and then vanish." -- Émile Zola
 existence." — Karl Marx, *Capital*
 
 "The natural thing to do is to work — to recognize that prosperity and
-happiness can be obtained only through honest effort." -- Henry Ford, 
+happiness can be obtained only through honest effort." -- Henry Ford, *My Life
+and Work*
 
 "Earning a wage is a prison occupation
 And a wage-earner is a sort of gaol-bird" -- D.H. Lawrence, *Wages*
