@@ -9,13 +9,33 @@ all the days of your life. It will produce thorns and thistles for you,
 and you will eat the plants of the field. By the sweat of your brow
 you will eat your food until you return to the ground..." -- Genesis 3
 
+"The race of men that the immortals who dwell on Olympus made first of all was
+of gold... They lived like gods, with carefree heart, remote from toil and
+misery." -- Hesiod, *Works and Days*
+
+"The citizen must not live the life of mechanics or shopkeepers, which is
+ignoble and inimical to goodness. Nor can those who are to be citizens engage
+in farming: leisure is a necessity, both for growth in goodness, and for the
+pursuit of political activities." — Aristotle, *Politics*
+
 "we worked night and day, laboring and toiling so that we would not be a burden
 to any of you." -- Paul, Second Letter to the Thessalonians
+
+"Every man is, or hopes to be, and idler.” — Samuel Johnson, *The Idler*
 
 "I had only one faith, one source of strength: work... Work! Consider, gentlemen:
 work forms the only law of the world. Life has no other purpose, there is no
 other reason for existence, we all come into being only in order to do our
 share of the work, and then vanish." -- Émile Zola
+
+"The labor process is the everlasting nature impose condition of human
+existence." — Karl Marx, *Capital*
+
+"The natural thing to do is to work — to recognize that prosperity and
+happiness can be obtained only through honest effort." -- Henry Ford, 
+
+"Earning a wage is a prison occupation
+And a wage-earner is a sort of gaol-bird" -- D.H. Lawrence, *Wages*
 
 "This is very important -- to take leisure time. Pace is the essence. Without
 stopping entirely and doing nothing at all for great periods, you're gonna lose
