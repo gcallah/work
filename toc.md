@@ -28,7 +28,7 @@ work forms the only law of the world. Life has no other purpose, there is no
 other reason for existence, we all come into being only in order to do our
 share of the work, and then vanish." -- Émile Zola
 
-"The labor process is the everlasting nature impose condition of human
+"The labor process is the everlasting nature-imposed condition of human
 existence." — Karl Marx, *Capital*
 
 "The natural thing to do is to work — to recognize that prosperity and
