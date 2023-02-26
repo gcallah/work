@@ -31,6 +31,12 @@ share of the work, and then vanish." -- Émile Zola
 "The labor process is the everlasting nature-imposed condition of human
 existence." — Karl Marx, *Capital*
 
+"The truth seems to be that, as human nature is constituted, man rapidly
+degenerates unless he has some hard work to do, some difficulties to overcome,
+and that strenuous exertion is necessary for physical and moral health." --
+Alfred Marshall, *Principles of Economics*
+
+
 "The natural thing to do is to work — to recognize that prosperity and
 happiness can be obtained only through honest effort." -- Henry Ford, *My Life
 and Work*
