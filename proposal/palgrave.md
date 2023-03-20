@@ -2,7 +2,7 @@
 
 1.	Proposed title and subtitle
 
-*By the Sweat of Your Brow: A History of Thought on Work*
+*By the Sweat of Your Brow: Philosophical Perspectives on Work*
 
 
 2.	Brief description of project’s scope and content

@@ -1,6 +1,6 @@
 # By the Sweat of Your Brow
 
-A history of the idea of work.
+Philosophical Perspectives on Work
 
 __________
 

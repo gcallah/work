@@ -1,6 +1,6 @@
 # By the Sweat of Your Brow
 
-A history of the idea of work.
+Philosophical Perspectives on Work
 
 __________
 
@@ -49,9 +49,6 @@ stopping entirely and doing nothing at all for great periods, you're gonna lose
 everything... just to do nothing at all, very, very important. And how many
 people do this in modern society? Very few. That's why they're all totally mad,
 frustrated, angry and hateful." -- Charles Bukowski
-
-"When he ought to have been working, instead he was 'contemplating the idea of
-work'!" -- The editor's wife
 
 
 ## Table of Contents
