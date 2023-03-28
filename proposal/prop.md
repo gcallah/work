@@ -29,7 +29,7 @@ frustrated, angry and hateful." -- Charles Bukowski
 
 As exhibited in the above quotes,
 Western civlization exhibits a near schizophrenic condition in its
-attitude towards laboring. Is work is a curse, or is work the very purpose of life!
+attitude towards laboring. Is work is a curse, or is work the very purpose of life?
 Should we be proud of how hard we have worked... or should we be ashamed we
 have not had more leisure? This divide rears its head in popular culture, where
 we find countless articles about things like "work/life balance," as the
@@ -42,9 +42,15 @@ found the section fascinating, at the same time, I realized that it only
 covered about 80 years, and for the most part 
 dealt with thinkers from a single country (Germany). And while there are many
 histories of work itself, of commerce, of labor movements, and so on, I am
-unable to locate any significant survey of the *history of thought* about work.
+there has been less done on the *history of thought* about work.
 And I believe such a work will prove quite valuable in clarifying how we
 arrived at where we are in our attitudes towards work.
+
+Our selections for thinkers to cover are, of course, far from complete: many
+people have thought about work, and a volume like this cannot possibly cover
+them all. But we believe we have selected thinkers who have been particularly
+influential, or who have offered a unique perspective (such as
+Edith Stein on women's work or Michael Oakeshott on the deadliness of doing).
 
 Our first choice for publisher, Palgrave McMillan, has a specific form to fill
 out regarding things like market potential. That form is included in the
