@@ -1,58 +1,42 @@
 # By the Sweat of Your Brow
 
-Philosophical Perspectives on Work
+An Intellectual History of Work from the Greeks to Sen and Nussbaum
 
 __________
 
-Although this is not the usual procedure, I would like to begin this proposal
-by offering a few quotes relating to work and leisure from across the
-centuries:
+This book offers a concise overview of the intellectual history of work in the
+Western context. While Western philosophy has for a long time been interested
+in the liberative aspects of politics, including justice, liberty or equality.
+and its canon includes major works on the culture of play, work seems to have been
+left out from its primary focus. This is the more astonishing as since the
+middle of the 19th century the world of work seems to be in the centre of
+political fight and social conflict. This volume aims to fill this gap, by
+providing the first concise, yet substantial account of the intellectual
+history of work, a collection of essays about the relevant ideas on work by
+major Western philosophers.
 
-"Cursed is the ground because of you; through painful toil you will eat food from it
-all the days of your life. It will produce thorns and thistles for you,
-and you will eat the plants of the field. By the sweat of your brow
-you will eat your food until you return to the ground..." -- Genesis 3
+The book’s chapters follow in a chronological order the major developments and
+some of the crucial authors of the history of European philosophy. The
+internationally diverse group of our contributors will give concise accounts of
+their primary research material on their chosen single thinker or movement or
+school of thought. This will make the work interesting for those who are
+researching on these authors beyond their views on work, as well.
 
-"we worked night and day, laboring and toiling so that we would not be a burden
-to any of you." -- Paul, Second Letter to the Thessalonians
+While the book aims to sum up two and a half thousand years of Western thought,
+the selection of its authors will have a spatio-temporal focus. It will
+concentrate on those periods (basically 19th-20th century) and area (Northern
+and Western Europe, as well as the US) where social movements were first and
+most vehemently initiated on a large scale to better the working conditions of
+the everyday labourer, and in particular those of the physical workers,
+including children and women. It was in this context that reflections on work
+were more frequent among influential philosophers. We paid special attention to
+represent the plurality of political views from Marx to the social teachings of
+the church, and also of the new generation of female philosophers from the
+early twentieth century (Edith Stein, Hannah Arendt) to our time (Martha
+Nussbaum). We also wanted to show that theorist and historians of capitalism
+(Adam Smith or Max Weber) can easily find their place beside critics of
+capitalism, including the social teaching of the church or new natural law
+theory. On the advice of our reviewer, we are happy to include a chapter on
+Veblen, and another one on a recent author, to bring our story up-to-date, on
+Martha Nussbaum’s cooperation with Amartya Sen on the capability approach.
 
-"I had only one faith, one source of strength: work... Work! Consider, gentlemen:
-work forms the only law of the world. Life has no other purpose, there is no
-other reason for existence, we all come into being only in order to do our
-share of the work, and then vanish." -- Emile Zola
-
-"This is very important -- to take leisure time. Pace is the essence. Without
-stopping entirely and doing nothing at all for great periods, you're gonna lose
-everything... just to do nothing at all, very, very important. And how many
-people do this in modern society? Very few. That's why they're all totally mad,
-frustrated, angry and hateful." -- Charles Bukowski
-
-As exhibited in the above quotes,
-Western civlization exhibits a near schizophrenic condition in its
-attitude towards laboring. Is work is a curse, or is work the very purpose of life?
-Should we be proud of how hard we have worked... or should we be ashamed we
-have not had more leisure? This divide rears its head in popular culture, where
-we find countless articles about things like "work/life balance," as the
-working and living are two separate activities.
-
-My attention was first drawn to the possibility of an historical study of
-how this situation developed by the work of Karl Löwith, in particular his
-section on "The Problem of Work" in his book, *From Hegel to Nietzsche*. While I
-found the section fascinating, at the same time, I realized that it only
-covered about 80 years, and for the most part 
-dealt with thinkers from a single country (Germany). And while there are many
-histories of work itself, of commerce, of labor movements, and so on, I am
-there has been less done on the *history of thought* about work.
-And I believe such a work will prove quite valuable in clarifying how we
-arrived at where we are in our attitudes towards work.
-
-Our selections for thinkers to cover are, of course, far from complete: many
-people have thought about work, and a volume like this cannot possibly cover
-them all. But we believe we have selected thinkers who have been particularly
-influential, or who have offered a unique perspective (such as
-Edith Stein on women's work or Michael Oakeshott on the deadliness of doing).
-
-Our first choice for publisher, Palgrave McMillan, has a specific form to fill
-out regarding things like market potential. That form is included in the
-archive: `palgrave.docx`. If we pitch to a different publisher, we will, no
-doubt, fill out some similar form for them, and include it as well.
