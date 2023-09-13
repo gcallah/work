@@ -75,12 +75,11 @@ Lombardo](bios/lombardo.md), Boston College
 [Jacob Wolf](bios/wolf.md), Regent University
 - [Marx's Theory of Work](abstracts/marx.md), [Jonathan D. Askonas](bios/askonas.md), Catholic University of America
 - [Kierkegaard on the Laborer](abstracts/kierkegaard.md), [Nathanael Blake](bios/blake.md)
-- [Work in Catholic Social Teaching](abstracts/cst.md), [Gene Callahan](bios/callahan.md), New York University
 - [Durkheim on Anomie](abstracts/durkheim.md), [J. McKenzie Alexander](bios/jmalexander.md), The London
 School of Economics
 - [Giovanni Gentile on the Humanism of Labor](abstracts/gentile.md), [Spartaco Pupo](bios/pupo.md), Università della
 Calabria
-- [Weber on Work](abstracts/weber.md), [Gülşen Seven](bios/seven.md), Turkish Education Association University
+- [Weber's Work Ethic](abstracts/weber.md), [Gene Callahan](bios/callahan.md), New York University
 - [Mises: The Disutility of Labor](abstracts/mises.md), [Gabriel
 Benzecry](bios/benzecry.md), Middle Tennessee State
 University
@@ -95,4 +94,5 @@ Culture](abstracts.pieper.md),
 Hungary
 - [Work in New Natural Law Theory](abstracts/nnlt.md), [Christopher Tollefsen](bios/tollefsen.md), University of South
 Carolina
+- Work and Its Discontents: Geuss and Graber, [Gülşen Seven](bios/seven.md), Turkish Education Association University
 
