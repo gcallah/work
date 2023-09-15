@@ -1,6 +1,6 @@
 # By the Sweat of Your Brow
 
-Philosophical Perspectives on Work
+Some Concepts of Work in the History of Western Thought
 
 __________
 
