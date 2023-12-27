@@ -1,6 +1,22 @@
-Weber?
+# The Protestant Hypothesis and the Spirit of Weber 
 
-Weber's theory of Ideal Types
+Gene Callahan
+
+## Introduction
+
+In his famous book, *The Protestant Ethic and the Spirit of Capitalism*,
+Max Weber famously explained the rise of capitalism by pointing to the Protestant ethic, which, he claimed, was an new
+attitude towards work. A number of scholars have since disputed his explanation. This paper will examine the critiques,
+and see if Weber can answer them..
+
+But before we even look at Weber's thesis on the rise of capitalism, it will be helpful to visit his theory of ideal
+types.
+
+
+## Weber's Theory of Ideal Types
+
+
+## Weber's Thesis
 
 The puzzle to be explained: Protestants held more high positions in industry visa-a-visa Catholics, even in places where Catholics are the majority.
 
@@ -18,7 +34,7 @@ Catholic higher education tended to be in the humanities.
 
 Protestant training--technical and managerial.
 
-Weber does not hold that these are permanent tendencies – over time, other groups come to follow the “logic” of the capitalist economy as well.
+Weber does not hold that these are permanent tendencies – over time, other groups come to follow the "logic" of the capitalist economy as well.
 
 Catholics in the minority have not followed Jews, Chinese into business success. Protestants have been successful even in majority.
 
@@ -90,6 +106,24 @@ Calvinism is the strain of Protestantism that most promotes capitalism.
 It is the combination of predestination – with worldly success as the sign of having been chosen -- and *disdain for consumption*
 that leads to unlimited acquisition.
 
+
+## The Critics
+
+So what is Wrong with Weber's thesis, for those of rejected it completely or in part?
+
+
+### Campbell
+
+Noting that Weber's survey of Protestant thought essentially stops at around 1700, Campbell claims:
+
+"This means that Weber's position must be taken to be one in which Protestantism as he outlined it constituted its
+fully develop form, and that all that subsequently happened was a process of slow decline and decay in the face of the forces
+of secularization and rationalization..." (165).
+
+However, no, such thing "must be taken": all of that this shows is the Weber did not consider developments in
+Protestantism after that time to be particularly relevant to his thesis. There simply is no implication that subsequent
+developments were not important theologically or socially: Weber simply doesn't find them relevant for explaining the
+*spirit of capitalism*.
 
 
 

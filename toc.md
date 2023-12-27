@@ -79,7 +79,7 @@ Lombardo](bios/lombardo.md), Boston College
 School of Economics
 - [Giovanni Gentile on the Humanism of Labor](abstracts/gentile.md), [Spartaco Pupo](bios/pupo.md), Università della
 Calabria
-- [Weber's Work Ethic](abstracts/weber.md), [Gene Callahan](bios/callahan.md), New York University
+- [The Protestant Hypothesis and the Spirit of Weber](abstracts/weber.md), [Gene Callahan](bios/callahan.md), New York University
 - [Mises: The Disutility of Labor](abstracts/mises.md), [Gabriel
 Benzecry](bios/benzecry.md), Middle Tennessee State
 University
