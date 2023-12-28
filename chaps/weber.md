@@ -126,11 +126,24 @@ developments were not important theologically or socially: Weber simply doesn't 
 *spirit of capitalism*.
 
 
+### Acemoglu and Robinson
+
+"What about Max Weber’s Protestant ethic? Though it may be true that predominantly Protestant countries, such as the
+Netherlands and England, were the first economic successes of the modern era, there is little relationship between
+religion and economic success. France, a predominantly Catholic country, quickly mimicked the economic performance of
+the Dutch and English in the nineteenth century, and Italy is as prosperous as any of these nations today. Looking
+farther east, you’ll see that none of the economic successes of East Asia have anything to do with any form of Christian
+religion, so there is not much support for a special relationship between Protestantism and economic success there,
+either."
+
+One wonders here if Acemoglu and Robinson have even read Weber's book?
+
 
 ## Bibliography
 
-- Campbell C. (2018). The Romantic Ethic and the Spirit of Modern Consumerism (New extended). Palgrave Macmillan.
+- Acemoglu D. & Robinson J. A. (2012). Why Nations Fail: The Origins of Power, Prosperity, and Poverty (First). Crown
 
+- Campbell C. (2018). The Romantic Ethic and the Spirit of Modern Consumerism (New extended). Palgrave Macmillan.
 
 
 
