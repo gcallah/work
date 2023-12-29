@@ -39,11 +39,12 @@ types, as, I contend, that is the setting in which *The Protestant Ethic* must b
 
 ## Weber's Thesis
 
-The puzzle to be explained: Protestants held more high positions in industry visa-a-visa Catholics, even in places where Catholics are the majority.
+Weber begins his work with an observation that raises a question: in Germany at that time (1905), 
+Protestants held more high positions in industry than Catholics, even in places where Catholics are in the majority.
+Here, he is acting as a proper "social detective": given a curious situation, let us search for an explanation.
+Furthermore, Weber suspects that solving this mystery might help us understand the origins of capitalism.
 
-Explaining that puzzle will, Weber thinks, help us understand the origins of capitalism.
-
-* What is the explanation for the Protestant-Catholic difference?
+He begins by evaluating several popular explanations of this discrepancy.
 
 1. Historical circumstances: Wealthy towns wound up being Protestant.
 
@@ -130,7 +131,7 @@ that leads to unlimited acquisition.
 
 ## The Critics
 
-So what is Wrong with Weber's thesis, for those of rejected it completely or in part?
+So what is Wrong with Weber's thesis, for those who rejected it completely or in part?
 
 
 ### Campbell
@@ -147,10 +148,11 @@ developments were not important theologically or socially: Weber simply doesn't 
 *spirit of capitalism*.
 
 
-
 ## Bibliography
 
 - Acemoglu D. & Robinson J. A. (2012). Why Nations Fail: The Origins of Power, Prosperity, and Poverty (First). Crown
+
+- Callahan G. (2007). Ideal types and the historical method. Collingwood and British Idealism Studies 53–68.
 
 - Campbell C. (2018). The Romantic Ethic and the Spirit of Modern Consumerism (New extended). Palgrave Macmillan.
 
