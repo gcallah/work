@@ -6,11 +6,32 @@ Gene Callahan
 
 In his famous book, *The Protestant Ethic and the Spirit of Capitalism*,
 Max Weber famously explained the rise of capitalism by pointing to the Protestant ethic, which, he claimed, was an new
-attitude towards work. A number of scholars have since disputed his explanation. This paper will examine the critiques,
-and see if Weber can answer them..
+attitude towards work and accumulation. A number of scholars have since disputed his explanation.
+
+I had taught Weber's book in several of my classes, and thus had read it several times, before encountering his critics.
+When I did encounter them, I was stunned to find that many prominent criticisms of Weber's hypothesis had already been
+answered in his book. In this introduction, I will offer just one salient example, so the reader can see kind of
+problem I was discovering. Daron Acemoglu and James A. Robinson "reject" Weber's theory for the following reason:
+
+"What about Max Weber’s Protestant ethic? Though it may be true that predominantly Protestant countries, such as the
+Netherlands and England, were the first economic successes of the modern era, there is little relationship between
+religion and economic success. France, a predominantly Catholic country, quickly mimicked the economic performance of
+the Dutch and English in the nineteenth century, and Italy is as prosperous as any of these nations today. Looking
+farther east, you’ll see that none of the economic successes of East Asia have anything to do with any form of Christian
+religion, so there is not much support for a special relationship between Protestantism and economic success there,
+either."
+
+But in *The Protestant Ethic*, Weber very explicitly states that, once the "spirit of capitalism" was *birthed in
+Protestant countries (for the reasons he explains), its material success would naturally result in its spreading to
+non-Protestant areas. So he had, right in the work they are supposedly critiquing, already explained the facts that
+Acemoglu and Robinson suppose refute him.
+
+As I will illustrate, this is true of many other attempts to refute Weber's thesis. I certainly do not contend that
+Weber's thesis is *irrefutable*, only that any attempt to refute it should at least pay careful attention to what he
+actually said.
 
 But before we even look at Weber's thesis on the rise of capitalism, it will be helpful to visit his theory of ideal
-types.
+types, as, I contend, that is the setting in which *The Protestant Ethic* must be placed to be properly understood.
 
 
 ## Weber's Theory of Ideal Types
@@ -125,18 +146,6 @@ Protestantism after that time to be particularly relevant to his thesis. There s
 developments were not important theologically or socially: Weber simply doesn't find them relevant for explaining the
 *spirit of capitalism*.
 
-
-### Acemoglu and Robinson
-
-"What about Max Weber’s Protestant ethic? Though it may be true that predominantly Protestant countries, such as the
-Netherlands and England, were the first economic successes of the modern era, there is little relationship between
-religion and economic success. France, a predominantly Catholic country, quickly mimicked the economic performance of
-the Dutch and English in the nineteenth century, and Italy is as prosperous as any of these nations today. Looking
-farther east, you’ll see that none of the economic successes of East Asia have anything to do with any form of Christian
-religion, so there is not much support for a special relationship between Protestantism and economic success there,
-either."
-
-One wonders here if Acemoglu and Robinson have even read Weber's book?
 
 
 ## Bibliography
