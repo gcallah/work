@@ -134,6 +134,9 @@ that leads to unlimited acquisition.
 So what is Wrong with Weber's thesis, for those who rejected it completely or in part?
 
 
+### Braudel
+
+
 ### Campbell
 
 Noting that Weber's survey of Protestant thought essentially stops at around 1700, Campbell claims:
@@ -150,11 +153,14 @@ developments were not important theologically or socially: Weber simply doesn't 
 
 ## Bibliography
 
-- Acemoglu D. & Robinson J. A. (2012). Why Nations Fail: The Origins of Power, Prosperity, and Poverty (First). Crown
+- Acemoglu D. & Robinson J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*.
+New York: Currency.
 
-- Callahan G. (2007). Ideal types and the historical method. Collingwood and British Idealism Studies 53–68.
+- Braudel, F. (1977) *Afterthoughts on Material Civilization and Capitalism*. Baltimore: Johns Hopkins University Press.
 
-- Campbell C. (2018). The Romantic Ethic and the Spirit of Modern Consumerism (New extended). Palgrave Macmillan.
+- Callahan G. (2007). "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
+
+- Campbell C. (2018). *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
 
 
 
