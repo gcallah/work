@@ -131,14 +131,46 @@ that leads to unlimited acquisition.
 
 ## The Critics
 
-So what is Wrong with Weber's thesis, for those who rejected it completely or in part?
+So what is Wrong with Weber's thesis, for those who rejected it completely or in part? Given that this is a paper and
+not a book, no attempt will be made here to do an exhaustive survey; hopefully, however, it will be a representative
+one.
 
 
 ### Braudel
 
+Fernand Braudel's (1977) criticisms of Weber are both brief and insubstantial. He first states that "For Max Weber,
+capitalism in the modern sense of the word was no more and no less than the creation of Protestantism, or, to be even
+more accurate, of Puritanism" (65-66).
+
+One sees Braudel going wrong here right from the start: a more accurate summary might read, "For Max Weber, the *spirit*
+of capitalism was given birth by Puritanism." The latter is clearly a more subtle thesis, and would be much harder
+for Braudel to cavalierly dismiss, as he proceeds to do to his straw Weber:
+
+"All historians have opposed this tenuous theory, although they have not managed to be rid of it once and for all. Yet it
+is clearly false. The northern countries took over the place that earlier and so long and so brilliantly been occupied
+by the old capitalist centers of the Mediterranean. They invented nothing, either in technology or in business
+management." (66)
+
+The problems here should, at this point, be obvious: Weber explicitly acknowledges the existence of large,
+capital-intensive enteprises before the Protestant Reformation. And he made no claims about the northern countries
+inventiveness. So although Braudel's assertion that the northern countries "invented nothing" seems absurd on
+its face, it is will be neither necessary nor helpful to explore it here, since it has nothing to do with Weber's
+thesis.
+
+Braudel concludes his discussion of Weber by writing, "I believe Max Weber's error stems essentially from his
+exaggeration of capitalism's role as promoter of the modern world" (67). It is hard to know what to make of this, for,
+after all, Weber did not write a book called *The Protestant Ethic and the Spirit of the Modern World": he was exploring
+the origin of capitalism, so naturally, his focus was on... capitalism. And this last claim does not even dovetail well
+with Braudel's earlier one, which is that Weber simply got capitalism's origin story *wrong*: here it seems he just
+placed too much emphasis on it!
 
 ### Campbell
 
+Colin Campbell's under-appreciated *The Romantic Ethic and the Spirit of Modern Consumerism* is, in general,
+complementary to Weber's book, in that Campbell largely accepts that Weber offers a good explanation for the origins of
+the production side of ther modern economy; he sets out to do the same for the change that occurred in consumption.
+
+Nevertheless, Campbell offers a minor criticism of Weber that is still worth addressing.
 Noting that Weber's survey of Protestant thought essentially stops at around 1700, Campbell claims:
 
 "This means that Weber's position must be taken to be one in which Protestantism as he outlined it constituted its
