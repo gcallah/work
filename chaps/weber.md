@@ -26,12 +26,19 @@ Protestant countries (for the reasons he explains), its material success would n
 non-Protestant areas. So he had, right in the work they are supposedly critiquing, already explained the facts that
 Acemoglu and Robinson suppose refute him.
 
-As I will illustrate, this is true of many other attempts to refute Weber's thesis. I certainly do not contend that
+I will illustrate that this is true of many other attempts to refute Weber's thesis. I certainly do not contend that
 Weber's thesis is *irrefutable*, only that any attempt to refute it should at least pay careful attention to what he
-actually said.
+actually said. As Stephen Kallberg argues in the introduction to his translation of *The Protestant Ethic*, "most of
+Weber's critics never mastered his complex argument" (2011: 50).
 
-But before we even look at Weber's thesis on the rise of capitalism, it will be helpful to visit his theory of ideal
-types, as, I contend, that is the setting in which *The Protestant Ethic* must be placed to be properly understood.
+Of necessity, this paper can only examine a small sample of those misinterpreting Weber. As Kallberg notes, quoting
+Chalcraft, "Every year sees new contributions in various fields [of *Protestant Ethic* scholarship]
+and it would undoubtedly take a lifetime to become
+fully conversant with all the literature germane to PE" (2011: 57). Nevertheless, this sample will provide evidence that
+the problem is as pervasive as Kallberg contends.
+
+But before we turn our attention to Weber's thesis on the rise of capitalism, it will be helpful to visit his theory of ideal
+types, as that is the setting in which *The Protestant Ethic* must be viewed, in order to be properly understood.
 
 
 ## Weber's Theory of Ideal Types
@@ -188,13 +195,16 @@ developments were not important theologically or socially: Weber simply doesn't 
 - Acemoglu D. & Robinson J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*.
 New York: Currency.
 
+- Becker, G. (2009). "The Continuing Path of Distortion: The Protestant Ethic and Max Weber’s School Enrolment Statistics".
+*Acta Sociologica*, Volume 52, Issue 3 195-301
+
 - Braudel, F. (1977) *Afterthoughts on Material Civilization and Capitalism*. Baltimore: Johns Hopkins University Press.
 
 - Callahan G. (2007). "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
 
 - Campbell C. (2018). *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
 
-
+- Weber, Max. Trans. Stephen Kalberg. 2011. *The Protestant Ethic and the Spirit of Capitalism*. New York: Oxford University Press.
 
 
 
