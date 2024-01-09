@@ -149,9 +149,11 @@ Fernand Braudel's (1977) criticisms of Weber are both brief and insubstantial. H
 capitalism in the modern sense of the word was no more and no less than the creation of Protestantism, or, to be even
 more accurate, of Puritanism" (65-66).
 
-One sees Braudel going wrong here right from the start: a more accurate summary might read, "For Max Weber, the *spirit*
-of capitalism was given birth by Puritanism." The latter is clearly a more subtle thesis, and would be much harder
-for Braudel to cavalierly dismiss, as he proceeds to do to his straw Weber:
+But what does Weber actually say on this point? Is modern capitalism the creation of a single factor? No, for Weber, it
+is "a development that grew out of innumerable, fragmented historical forces" (2011: 108). In fact, Weber goes so far as
+to state the idea that "capitalism as an *economic system* was a creation of the Reformation" is a "foolish
+and doctrinaire" thesis (2011: 108). So Weber explicitly ridicules the very idea that Braudel claims to be his central
+thesis!
 
 "All historians have opposed this tenuous theory, although they have not managed to be rid of it once and for all. Yet it
 is clearly false. The northern countries took over the place that earlier and so long and so brilliantly been occupied
@@ -192,17 +194,17 @@ developments were not important theologically or socially: Weber simply doesn't 
 
 ## Bibliography
 
-- Acemoglu D. & Robinson J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*.
+- Acemoglu D. & Robinson J. A. 2012. *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*.
 New York: Currency.
 
-- Becker, G. (2009). "The Continuing Path of Distortion: The Protestant Ethic and Max Weber’s School Enrolment Statistics".
+- Becker, G. 2009. "The Continuing Path of Distortion: The Protestant Ethic and Max Weber’s School Enrolment Statistics".
 *Acta Sociologica*, Volume 52, Issue 3 195-301
 
-- Braudel, F. (1977) *Afterthoughts on Material Civilization and Capitalism*. Baltimore: Johns Hopkins University Press.
+- Braudel, F. 1977 *Afterthoughts on Material Civilization and Capitalism*. Baltimore: Johns Hopkins University Press.
 
-- Callahan G. (2007). "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
+- Callahan G. 2007. "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
 
-- Campbell C. (2018). *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
+- Campbell C. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
 
 - Weber, Max. Trans. Stephen Kalberg. 2011. *The Protestant Ethic and the Spirit of Capitalism*. New York: Oxford University Press.
 
