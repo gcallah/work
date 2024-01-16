@@ -4,45 +4,29 @@ Gene Callahan
 
 ## Introduction
 
-In his famous book, *The Protestant Ethic and the Spirit of Capitalism*,
-Max Weber famously explained the rise of capitalism by pointing to the Protestant ethic, which, he claimed, was an new
-attitude towards work and accumulation. A number of scholars have since disputed his explanation.
+In his famous book, *The Protestant Ethic and the Spirit of Capitalism* (henceforth *PE*),
+Max Weber famously explained the rise of capitalism by pointing to the Protestant ethic, which, he claimed, was a new
+attitude towards work and capital accumulation. A number of scholars have since disputed his explanation.
 
-I had taught Weber's book in several of my classes, and thus had read it several times, before encountering his critics.
-When I did encounter them, I was stunned to find that many prominent criticisms of Weber's hypothesis had already been
-answered in his book. In this introduction, I will offer just one salient example, so the reader can see kind of
-problem I was discovering. Daron Acemoglu and James A. Robinson "reject" Weber's theory for the following reason:
-
-"What about Max Weber’s Protestant ethic? Though it may be true that predominantly Protestant countries, such as the
-Netherlands and England, were the first economic successes of the modern era, there is little relationship between
-religion and economic success. France, a predominantly Catholic country, quickly mimicked the economic performance of
-the Dutch and English in the nineteenth century, and Italy is as prosperous as any of these nations today. Looking
-farther east, you’ll see that none of the economic successes of East Asia have anything to do with any form of Christian
-religion, so there is not much support for a special relationship between Protestantism and economic success there,
-either."
-
-But in *The Protestant Ethic*, Weber very explicitly states that, once the "spirit of capitalism" was *birthed in
-Protestant countries (for the reasons he explains), its material success would naturally result in its spreading to
-non-Protestant areas. So he had, right in the work they are supposedly critiquing, already explained the facts that
-Acemoglu and Robinson suppose refute him.
-
-I will illustrate that this is true of many other attempts to refute Weber's thesis. I certainly do not contend that
-Weber's thesis is *irrefutable*, only that any attempt to refute it should at least pay careful attention to what he
-actually said. As Stephen Kallberg argues in the introduction to his translation of *The Protestant Ethic*, "most of
-Weber's critics never mastered his complex argument" (2011: 50).
+In this paper, I will attempt to offer a summary of some notable, recent debate on Weber's thesis, with the goal of
+indicating whether that thesis is still viable. In the course of doing so, it will become apparent that in some
+prominent cases, as Stephen Kallberg argues in the introduction to his translation of *PE*, "Weber's critics never
+mastered his complex argument" (2011: 50).
 
 Of necessity, this paper can only examine a small sample of those misinterpreting Weber. As Kallberg notes, quoting
-Chalcraft, "Every year sees new contributions in various fields [of *Protestant Ethic* scholarship]
+Chalcraft, "Every year sees new contributions in various fields [of *PE* scholarship]
 and it would undoubtedly take a lifetime to become
 fully conversant with all the literature germane to PE" (2011: 57). Nevertheless, this sample will provide evidence that
 the problem is as pervasive as Kallberg contends.
 
 But before we turn our attention to Weber's thesis on the rise of capitalism, it will be helpful to visit his theory of ideal
-types, as that is the setting in which *The Protestant Ethic* must be viewed, in order to be properly understood.
+types, as that is the setting in which *PE* must be viewed, in order to be properly understood.
 
 
 ## Weber's Theory of Ideal Types
 
+Lastly, I will note that history by invocation of ideal types has been criticized as "an unstable level of historical
+understanding" (Oakeshott, 1999: 65): see Callahan (2007) for more on this point.
 
 ## Weber's Thesis
 
@@ -138,10 +122,29 @@ that leads to unlimited acquisition.
 
 ## The Critics
 
-So what is Wrong with Weber's thesis, for those who rejected it completely or in part? Given that this is a paper and
-not a book, no attempt will be made here to do an exhaustive survey; hopefully, however, it will be a representative
-one.
+So what is Wrong with Weber's thesis, for those who rejected it completely or in part? As mentioned in the introduction,
+no attempt will be made here to do an exhaustive survey; hopefully, however, it will be an interesting one.
 
+
+### Acemoglu and Robinson
+
+Daron Acemoglu and James A. Robinson, in their acclaimed book *Why Nations Fail* (2012),
+reject Weber's theory for the following reason:
+
+"What about Max Weber's Protestant ethic? Though it may be true that predominantly Protestant countries, such as the
+Netherlands and England, were the first economic successes of the modern era, there is little relationship between
+religion and economic success. France, a predominantly Catholic country, quickly mimicked the economic performance of
+the Dutch and English in the nineteenth century, and Italy is as prosperous as any of these nations today. Looking
+farther east, you'll see that none of the economic successes of East Asia have anything to do with any form of Christian
+religion, so there is not much support for a special relationship between Protestantism and economic success there,
+either." (60)
+
+But in *PE*, Weber very explicitly states that, once the "spirit of capitalism" was *birthed* in
+Protestant countries (for the reasons he explains), its material success would naturally result in its spreading to
+non-Protestant areas: "Victorious capitalism, in any case, ever since it came to rest on a mechanical foundation, no
+longer needs [Protestant] asceticism as a supporting pillar" (2011: 177).
+
+So Weber had already offered an explanation for the facts that Acemoglu and Robinson suppose refute him.
 
 ### Braudel
 
@@ -191,20 +194,55 @@ Protestantism after that time to be particularly relevant to his thesis. There s
 developments were not important theologically or socially: Weber simply doesn't find them relevant for explaining the
 *spirit of capitalism*.
 
+### Becker
+
+George Becker, in his paper "The Continuing Path of Distortion" (2009), implies that Weber had a partisan interest in
+reaching the conclusions he did in *PE*:
+
+"Weber's idealist interpretation of Offenbacher's school enrolment statistics provides a foremost
+example of a scholarly claim with decided political overtones that are closely in line with Weber's and the liberal
+Protestants' cultural agenda...
+Weber's idealist interpretation of Offenbacher's data is also a statementof cultural criticism with partisan overtones
+and decidedly political implications" (199-200).
+
+I am not a mind reader, and certainly cannot read the mind of the long-gone Max Weber. But if what he was up to was
+really a pitch for Protestantism, he did not make a very good job of it, to wit:
+
+"Entirely realistically, the Catholic Church concluded that the human species was *not* an absolutely and clearly
+determined unity to be valued as such" (2011:128).
+
+Or:
+
+"There was no mention [in Calvinism] of that genuinely humane cycle, followed by the Catholic, of sin, repentance,
+pentinence, relief, and then further sin" (2011: 129).
+
+Or, contrasting the Calvinist attitude towards sinners with the Catholic one:
+
+"Hence, in light of his sinfulness, an attitude of compassionate helpfulness towards one's neighbor -- coming from an
+awareness of one's own weakness -- could not be the appropriate response of the elect who, because chosen by the grace
+of God, were saints. More suitable instead was a hatred and contempt for the sinner as an enemy of God..." (2011: 132-133).
+
+If the above statements were intended by Weber as "partisan" endorsements of Protestantism as superior to Catholicism, I
+would recommend against hiring him as a marketer.
+
+## Conclusion
+
 
 ## Bibliography
 
 - Acemoglu D. & Robinson J. A. 2012. *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*.
 New York: Currency.
 
-- Becker, G. 2009. "The Continuing Path of Distortion: The Protestant Ethic and Max Weber’s School Enrolment Statistics".
+- Becker, G. 2009. "The Continuing Path of Distortion: The Protestant Ethic and Max Weber's School Enrolment Statistics".
 *Acta Sociologica*, Volume 52, Issue 3 195-301
 
-- Braudel, F. 1977 *Afterthoughts on Material Civilization and Capitalism*. Baltimore: Johns Hopkins University Press.
+- Braudel, F. 1977. *Afterthoughts on Material Civilization and Capitalism*. Baltimore: Johns Hopkins University Press.
 
 - Callahan G. 2007. "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
 
 - Campbell C. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
+
+- Oakeshott, M. (1999) *On History and Other Essays*, Indianapolis, Indiana: Liberty Fund.
 
 - Weber, Max. Trans. Stephen Kalberg. 2011. *The Protestant Ethic and the Spirit of Capitalism*. New York: Oxford University Press.
 
