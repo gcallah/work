@@ -25,6 +25,8 @@ types, as that is the setting in which *PE* must be viewed, in order to be prope
 
 ## Weber's Theory of Ideal Types
 
+Explain how Weber is doing ideal type history.
+
 Lastly, I will note that history by invocation of ideal types has been criticized as "an unstable level of historical
 understanding" (Oakeshott, 1999: 65): see Callahan (2007) for more on this point.
 
@@ -41,7 +43,7 @@ He begins by evaluating several popular explanations of this discrepancy.
 
 2. Protestants were left freer, more indivualism.
 
-	But Puritanism led to a much stricter control of life than did Catholicism!
+But Puritanism led to a much stricter control of life than did Catholicism!
 
 Catholic higher education tended to be in the humanities.
 
@@ -53,7 +55,7 @@ Catholics in the minority have not followed Jews, Chinese into business success.
 
 Common view of ideals of religions – Catholic is ascetic, Protestant is worldly.
 
-	But this idea is contradicted by evidence- Pgs. 8-9
+But this idea is contradicted by evidence- Pgs. 8-9
 
 Pg. 11 -- the English: most pious and most commercial.
 
