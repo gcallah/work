@@ -148,6 +148,7 @@ longer needs [Protestant] asceticism as a supporting pillar" (2011: 177).
 
 So Weber had already offered an explanation for the facts that Acemoglu and Robinson suppose refute him.
 
+
 ### Braudel
 
 Fernand Braudel's (1977) criticisms of Weber are both brief and insubstantial. He first states that "For Max Weber,
@@ -227,6 +228,14 @@ of God, were saints. More suitable instead was a hatred and contempt for the sin
 If the above statements were intended by Weber as "partisan" endorsements of Protestantism as superior to Catholicism, I
 would recommend against hiring him as a marketer.
 
+
+### Tawney
+
+In some ways, R.H. Tawney's 1926 work, *Religion and the rise of capitalism*, Is the most interesting of all the critics we
+have examined. Tawney was writing a couple of decades after the original publication of *PE*, and much of his material
+on Luther and Calvin strongly supports Weber's conclusions. For example, 
+
+
 ## Conclusion
 
 
@@ -244,7 +253,9 @@ New York: Currency.
 
 - Campbell C. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
 
-- Oakeshott, M. (1999) *On History and Other Essays*, Indianapolis, Indiana: Liberty Fund.
+- Oakeshott, M. 1999 *On History and Other Essays*, Indianapolis, Indiana: Liberty Fund.
+
+- Tawney, R.H. 2021 [1926]. *Religion and the Rise of Capitalism: A Historical Study*, Brooklyn: Angelico Press.
 
 - Weber, Max. Trans. Stephen Kalberg. 2011. *The Protestant Ethic and the Spirit of Capitalism*. New York: Oxford University Press.
 
