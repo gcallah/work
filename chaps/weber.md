@@ -231,12 +231,71 @@ would recommend against hiring him as a marketer.
 
 ### Tawney
 
-In some ways, R.H. Tawney's 1926 work, *Religion and the rise of capitalism*, Is the most interesting of all the critics we
+In some ways, R.H. Tawney's 1926 work, *Religion and the Rise of Capitalism*, Is the most interesting of all the critics we
 have examined. Tawney was writing a couple of decades after the original publication of *PE*, and much of his material
-on Luther and Calvin strongly supports Weber's conclusions. For example, 
+on Luther and Calvin strongly supports Weber's conclusions. A few quotes here should suffice to demonstrate this:
+
+**On Luther and the idea of a calling:**
+
+"The honest smith or shoemaker is a priest" (92).
+
+**On the importance of Calvin:**
+
+"No contrast could be more striking than that between [Luther's] social theory and the outlook
+of Calvin. Calvin... accepted the main institutions of a commercial civilization, and supplied a creed to the classes
+which were to dominate the future." (94)
+
+"Calvin, and still more his later interpreters... [unlike Luther did not] regard with suspicion the mere fact of capitalist enterprise
+in commerce and finance" (104).
+
+**On this-wordly asceticism:**
+
+"Monasticism was, so to speak, secularized" (98).
+
+[Calvinism's] enemy is not the accumulation of riches, but their misuse for purposes of self-indulgence or
+ostentation" (105).
+
+**On good works in  Calvinism:**
+
+"The aim is not personal salvation, but the glorification of God, to be sought... by
+action -- the sanctification of the world by strife and labour... Good works are not a way of attaining  salvation, but
+they are indispensable as a proof that salvation has been attained." (109)
+
+**Calvinist values and economic success:**
+
+"The very qualities which economic success demanded -- thrift, diligence, sobriety, frugality -- were themselves, after
+all, the foundation... of the Christian virtues..." (110).
+
+"[The Swiss reformers] See you start the attitudes cultivated by the life of business and affairs, stamped on them a
+new sanctification, and use them as the warp of a society..." (110).
+
+"the Christian must conduct his business with a high seriousness, as in itself a kind of religion" (111).
+
+"Such teaching... was admirably designed to liberate economic energies, and weld into a disciplined social force the
+rising bourgeoisie...
+
+Any one of the above quotes could be slipped into a new edition of *PE*, and only the most assiduous reader would notice
+the addition. So what comes as a real surprise is that, when Tawney actually addresses Weber, he voices these complaints:
+
+"Weber seems to me to explain by reference to moral and intellectual influences developments which have their principal
+explanation in another region altogether. There was plenty of 'capitalist spirit' in fifteenth-century Venice and
+Florence..." (319).
+
+
+"But it seems a little artificial to talk as though capitalist enterprise could not appear till religious changes had produced
+a capitalist spirit" (320).
+
+
+"he speaks as though all English Puritans in the seventeenth century held much the same view of social duties and
+expediency" (320)
+
+But what does Weber say on this point? "Certainly, in the midst of these considerations, we should not forget the Puritanism
+contained within itself a world of contradictions" (PE, 168).
 
 
 ## Conclusion
+
+
 
 
 ## Bibliography
