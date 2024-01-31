@@ -288,7 +288,13 @@ Florence..." (319).
 - "But it seems a little artificial to talk as though capitalist enterprise could not appear till religious changes had produced
 a capitalist spirit" (320).
 
-Weber:
+Weber: "How is it to be explained historically that in Florence, the center of
+capitalist development in the fourteenth and fifteenth
+centuries and the marketplace for money and capital for all the great political powers, striving for profit was viewed as
+either morally questionable or at best tolerated?" (96)
+
+Here we see Weber noting that "capitalist enterprise" most certainly *did* appear before "religious changes had produced
+a capitalist spirit," but that what that spirit changed was the *esteem* in which such enterprises were held.
 
 - "[Weber] speaks as though all English Puritans in the seventeenth century held much the same view of social duties and
 expediency" (320)
