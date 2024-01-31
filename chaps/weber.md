@@ -27,8 +27,12 @@ types, as that is the setting in which *PE* must be viewed, in order to be prope
 
 Explain how Weber is doing ideal type history.
 
+"The *ideal type* of the capitalist employer..." (93).
+
 Lastly, I will note that history by invocation of ideal types has been criticized as "an unstable level of historical
-understanding" (Oakeshott, 1999: 65): see Callahan (2007) for more on this point.
+understanding" (Oakeshott, 1999: 65): see Callahan (2007) for more on this point. It may be worth examining, in another
+paper, to what extent this instability has contributed to the confusion over Weber's hypothesis.
+
 
 ## Weber's Thesis
 
@@ -277,20 +281,31 @@ rising bourgeoisie...
 Any one of the above quotes could be slipped into a new edition of *PE*, and only the most assiduous reader would notice
 the addition. So what comes as a real surprise is that, when Tawney actually addresses Weber, he voices these complaints:
 
-"Weber seems to me to explain by reference to moral and intellectual influences developments which have their principal
+- "Weber seems to me to explain by reference to moral and intellectual influences developments which have their principal
 explanation in another region altogether. There was plenty of 'capitalist spirit' in fifteenth-century Venice and
 Florence..." (319).
 
-
-"But it seems a little artificial to talk as though capitalist enterprise could not appear till religious changes had produced
+- "But it seems a little artificial to talk as though capitalist enterprise could not appear till religious changes had produced
 a capitalist spirit" (320).
 
+Weber:
 
-"he speaks as though all English Puritans in the seventeenth century held much the same view of social duties and
+- "[Weber] speaks as though all English Puritans in the seventeenth century held much the same view of social duties and
 expediency" (320)
 
-But what does Weber say on this point? "Certainly, in the midst of these considerations, we should not forget the Puritanism
+Weber: "Certainly, in the midst of these considerations, we should not forget the Puritanism
 contained within itself a world of contradictions" (PE, 168).
+
+- "Weber ignores, or at least touches upon to lightly, intellectual movements, which were favorable to the growth of
+business enterprise and an individualist attitude towards economic relations, but which had little to do with
+religion" (320).
+
+Weber: "In turn, it must be recognize that these vantage points... by no means constitute the only ones possible in
+reference to which the historical cases under consideration can be analyzed. Other vantage points would identify other
+features of our historical cases as 'essential'..." (76-77).
+
+In other words, Weber explicitly recognizes these "other vantage points" and is just choosing to focus on one in
+particular.
 
 
 ## Conclusion
