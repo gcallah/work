@@ -126,7 +126,8 @@ It is the combination of predestination – with worldly success as the sign of 
 that leads to unlimited acquisition.
 
 
-## The Critics
+
+## The Blinkered Critics
 
 So what is Wrong with Weber's thesis, for those who rejected it completely or in part? As mentioned in the introduction,
 no attempt will be made here to do an exhaustive survey; hopefully, however, it will be an interesting one.
@@ -288,30 +289,42 @@ Florence..." (319).
 - "But it seems a little artificial to talk as though capitalist enterprise could not appear till religious changes had produced
 a capitalist spirit" (320).
 
-Weber: "How is it to be explained historically that in Florence, the center of
+**Weber:** "How is it to be explained historically that in Florence, the center of
 capitalist development in the fourteenth and fifteenth
 centuries and the marketplace for money and capital for all the great political powers, striving for profit was viewed as
 either morally questionable or at best tolerated?" (96)
 
 Here we see Weber noting that "capitalist enterprise" most certainly *did* appear before "religious changes had produced
-a capitalist spirit," but that what that spirit changed was the *esteem* in which such enterprises were held.
+a capitalist spirit," but that what changed was the *esteem* in which such enterprises were held.
 
 - "[Weber] speaks as though all English Puritans in the seventeenth century held much the same view of social duties and
 expediency" (320)
 
-Weber: "Certainly, in the midst of these considerations, we should not forget the Puritanism
+**Weber:** "Certainly, in the midst of these considerations, we should not forget the Puritanism
 contained within itself a world of contradictions" (PE, 168).
 
 - "Weber ignores, or at least touches upon to lightly, intellectual movements, which were favorable to the growth of
 business enterprise and an individualist attitude towards economic relations, but which had little to do with
 religion" (320).
 
-Weber: "In turn, it must be recognize that these vantage points... by no means constitute the only ones possible in
+**Weber:** "In turn, it must be recognize that these vantage points... by no means constitute the only ones possible in
 reference to which the historical cases under consideration can be analyzed. Other vantage points would identify other
 features of our historical cases as 'essential'..." (76-77).
 
 In other words, Weber explicitly recognizes these "other vantage points" and is just choosing to focus on one in
 particular.
+
+
+## Valid Criticisms
+
+### The Education Study
+
+
+That being said, Weber's thesis does not actually depend on any contemporary differences between Catholics and
+protestants in terms of economic performance or educational choice. Having stated, but the capitalist spirit no longer
+relies on the Protestant ethic, all these studies, which show anyway, is that the Protestant ethic still had some
+lingering effect at that time. If they turn out to be mistaken, and I did not, Weber could easily (and honestly)
+respond, "Well, that effect dissipated sooner than I had thought."
 
 
 ## Conclusion
