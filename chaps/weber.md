@@ -45,85 +45,30 @@ He begins by evaluating several popular explanations of this discrepancy.
 
 1. Historical circumstances: Wealthy towns wound up being Protestant.
 
-2. Protestants were left freer, more indivualism.
+2. Protestants were left freer, more indivualistic.
 
 But Puritanism led to a much stricter control of life than did Catholicism!
 
-Catholic higher education tended to be in the humanities.
-
-Protestant training--technical and managerial.
-
 Weber does not hold that these are permanent tendencies – over time, other groups come to follow the "logic" of the capitalist economy as well.
-
-Catholics in the minority have not followed Jews, Chinese into business success. Protestants have been successful even in majority.
-
-Common view of ideals of religions – Catholic is ascetic, Protestant is worldly.
-
-But this idea is contradicted by evidence- Pgs. 8-9
-
-Pg. 11 -- the English: most pious and most commercial.
-
-Pg. 13- the capitalist is an historical individual.
-
-Pg. 14 – Weber is taking one standpoint amongst many.
-
-Pg. 14-16- Franklin 
-
-The duty of the industrialist is to increase his capital- this is an ethical maxim for Franklin.
-
-Pg. 17- utility of virtue.
-
-Pile up capital without enjoyment – sink into the grave under a great weight of goods!
-
-A man diligent in business stands before kings.
-
-Virtue and profession in a calling.
-
-Duty in calling.
-
-Pg. 19-20 -- In the present day, everyone must adapt to conditions.
-
-Pg. 21 -- Franklin's spirit would have been condemned earlier.
-
-Pg. 24 -- traditional amount of consumption.
-
-Pg. 25 -- In the new attitude, labour is an end in itself.
-
-Pg. 28 -- parvenus.
-
-Pg. 29 -- life of the putter-out met traditional needs in a traditional manner.
-
-Pg. 29-30 -- description of change.
-
-Pg. 31 -- distrust of innovation.
-
-Pg. 37 -- rational calculation became the basis of economic life.
-
-Even Catholic capitalists thought their profession dangerous to salvation.
-
-Give gifts to the Church to make up for making money.
 
 Pg. 36- Marxist idea that ideas conform to the material base structure is nonsense here – much more materially developed
 Florence and Venice were behind the backwoods of PA in regard to the development of capitalist attitudes.
 
-Luther
+A brief outline of Weber's historical thesis:
 
-A Calling -- vocation
-
---New Idea fulfilling one's worldly duties was the highest form of worldly activity.
-
-The monastic life is a life of selfishness.
-
-Labour in a calling expression of brotherly love.
-
-But as Luther became more conservative, the calling came to be seen as accepting one's place in the current order.
-
-Calvin
-
-Calvinism is the strain of Protestantism that most promotes capitalism.
-
-It is the combination of predestination – with worldly success as the sign of having been chosen -- and *disdain for consumption*
-that leads to unlimited acquisition.
+1. Traditional societies were extremely suspicious of money lenders, speculators, middlemen, and so on. The unchecked
+   pursuit of wealth was definitely a vice. In Cathlocism, in fact, the (theoretically) most admired life was that of a
+   monk with no possessions who might spend his life praying.
+2. Luther rejected monasticism as self-indulgent, and stressed the idea of a worldly vocation, elevating the status of
+   "secular" work.
+3. But Luther was still very conservative here: one's calling was one's inherited station in life. In economics, he was
+   still a Scholastic.
+4. Calvin accepted contemporary economic developments, rejected this-worldly pleasures, and stressed predestination.
+5. The emphasis on predestination led to a search for evidence as to who was saved, and worldly success came to be seen
+   as good evidence in this regard.
+6. Combined with the rejection of worldly pleasures, the result was an ethic that justified the acquisition of wealth,
+   but condemned the enjoyment of the wealth so acquired.
+7. The end result an ethic very favorable to the building up of capital.
 
 
 
@@ -236,7 +181,7 @@ would recommend against hiring him as a marketer.
 
 ### Tawney
 
-In some ways, R.H. Tawney's 1926 work, *Religion and the Rise of Capitalism*, Is the most interesting of all the critics we
+In some ways, R.H. Tawney's 1926 work, *Religion and the Rise of Capitalism*, is the most interesting of all the critics we
 have examined. Tawney was writing a couple of decades after the original publication of *PE*, and much of his material
 on Luther and Calvin strongly supports Weber's conclusions. A few quotes here should suffice to demonstrate this:
 
@@ -271,13 +216,36 @@ they are indispensable as a proof that salvation has been attained." (109)
 "The very qualities which economic success demanded -- thrift, diligence, sobriety, frugality -- were themselves, after
 all, the foundation... of the Christian virtues..." (110).
 
-"[The Swiss reformers] See you start the attitudes cultivated by the life of business and affairs, stamped on them a
-new sanctification, and use them as the warp of a society..." (110).
+"[The Swiss reformers] seized on the aptitudes cultivated by the life of business and affairs, stamped on them a
+new sanctification, and used them as the warp of a society..." (110).
 
 "the Christian must conduct his business with a high seriousness, as in itself a kind of religion" (111).
 
 "Such teaching... was admirably designed to liberate economic energies, and weld into a disciplined social force the
 rising bourgeoisie...
+
+**The Puritans**
+
+"[The Puritan movement] had at once given a whole-hearted *imprimatur* to the life of business enterprise, which most
+earlier moralists had regarded with suspicion, and had laid upon it the restraining hand of an inquisitorial discipline"
+(234).
+
+"The enemy, however, was not riches, but the bad habits sometimes associated with them..." (240).
+
+**Weber:** "What is actually morally reprehensible [to the Puritan] is... the *resting* upon one's possessions and the
+*enjoyment* of wealth" 159).
+
+"The labour which he idealizes... is itself a kind of ascetic discipline, more rigorous than that demanded of any order
+of medicants..." (242).
+
+"What is required of the Puritan is not individual meritorious acts, but... a system in which every element is grouped around
+a central idea, the service of god, from which all disturbing irrelevancies have been pruned..." (242).
+
+"The transition from the anabaptist to the company promoter was less abrupt than might at first sight be supposed. It had been
+prepared, however, unintentionally, by Puritan moralists." (248)
+
+(FOOTNOTE: We might note, at this point, the Tawney's work gives lie to Braudel's claim that "All historians have opposed this
+tenuous theory...")
 
 Any one of the above quotes could be slipped into a new edition of *PE*, and only the most assiduous reader would notice
 the addition. So what comes as a real surprise is that, when Tawney actually addresses Weber, he voices these complaints:
@@ -311,9 +279,13 @@ religion" (320).
 reference to which the historical cases under consideration can be analyzed. Other vantage points would identify other
 features of our historical cases as 'essential'..." (76-77).
 
-In other words, Weber explicitly recognizes these "other vantage points" and is just choosing to focus on one in
-particular.
+And Weber states that after his study (*PE*), "an attempt can be made to estimate to what degree the historical origin
+of the values and ideas of our modern life can be attributed to religious forces stemming from the Reformation, and to
+what degree other forces" (109).
 
+In other words, in *PE* Weber is only attempting to show that there is *some* connection between the Reformation and
+"our modern life," and is specifically delegating to future studies how important that connection was compared to other
+factors.
 
 ## Valid Criticisms
 
