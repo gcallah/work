@@ -247,7 +247,15 @@ prepared, however, unintentionally, by Puritan moralists." (248)
 (FOOTNOTE: We might note, at this point, the Tawney's work gives lie to Braudel's claim that "All historians have opposed this
 tenuous theory...")
 
-Any one of the above quotes could be slipped into a new edition of *PE*, and only the most assiduous reader would notice
+And finally, I offer a quote which would serve as an excellent one paragraph summary of *PE*:
+
+"Among the numerous forces which had gone to form [the new economic ideal], some not inconsiderable part may
+reasonably be ascribed to the emphasis on the life of business enterprise as the appropriate field for Christian
+endeavour, and on the qualities needed for success in it, which was characteristic of Puritanism. These qualities, and the
+admiration of them, remained, when the religious reference, and the restraints which it imposed, had weakened or
+disappeared." (273)
+
+Indeed, any one of the above quotes could be slipped into a new edition of *PE*, and only the most assiduous reader would notice
 the addition. So what comes as a real surprise is that, when Tawney actually addresses Weber, he voices these complaints:
 
 - "Weber seems to me to explain by reference to moral and intellectual influences developments which have their principal
