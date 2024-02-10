@@ -301,14 +301,26 @@ factors.
 
 ## Valid Criticisms
 
-### The Education Study
-
+### The Validity of the Education Study
 
 That being said, Weber's thesis does not actually depend on any contemporary differences between Catholics and
 protestants in terms of economic performance or educational choice. Having stated, but the capitalist spirit no longer
 relies on the Protestant ethic, all these studies, which show anyway, is that the Protestant ethic still had some
 lingering effect at that time. If they turn out to be mistaken, and I did not, Weber could easily (and honestly)
 respond, "Well, that effect dissipated sooner than I had thought."
+
+### Is the 'Spirit of Capitalism' a Cause or a Feature of Capitalism?
+
+The problem here is that Weber seems to both treat the "spirit of capitalism" as one of the causes giving rise to modern
+capitalism, while at the same time, defining "modern capitalism" as capitalism that exhibits such a spirit. To the
+extent that he is actually doing this, he is guilty of a vicious circularity, because, of course, if "modern
+capitalism" is *defined* as an economic system exhibiting such a spirit, then it cannot possibly come about in
+the absence of that spirit.
+
+
+
+As Gordon Marshall puts it, "Weber Fails to specify whether the 'spirit of capitalism'... [is an attribute] of the
+phenomenon of modern capitalism or [an] empirical [condition] which favoured... its development" (1982: 57).
 
 
 ## Conclusion
@@ -346,6 +358,9 @@ New York: Currency.
 - Callahan G. 2007. "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
 
 - Campbell C. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
+
+- Gordon, M. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
+New York: Columbia University Press.
 
 - Oakeshott, M. 1999 *On History and Other Essays*, Indianapolis, Indiana: Liberty Fund.
 
