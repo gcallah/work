@@ -309,6 +309,23 @@ respond, "Well, that effect dissipated sooner than I had thought."
 
 ## Conclusion
 
+There are many valid criticisms of Weber's work. However, as we have seen, many critics have "had a go at him" without,
+apparently, carefully reading his work. Why have so many people been anxious to dismiss at work of which they knew little?
+I suggest that, upon hearing a Cliff-Notes version of Weber's thesis, People belonging to various groups had various
+reasons to treat it dismissively.
+
+- Marxists did not like Weber's thesis because religion was supposed to be a mere superstructure that was the byproduct of
+economic conditions, and not their cause.
+- Progressive protestants did not like his thesis, because it seemed to "blame" them for capitalism.
+- Liberal Catholics did not like his thesis, because it seemed to imply the Catholicism was somehow "backwards."
+- Secular liberals did not like his thesis, because liberalism was supposed to be the outcome of enlightenment
+rationalism, chastely untouched by religious superstitions.
+
+Of course, rejecting a thesis because you don't like where it leads is not a particularly scientific attitude.
+Nevertheless, it is a common attitude.
+
+In any case, although there are problems and puzzles, and Weber's work, this survey of his critics demonstrates that
+the "Protestant hypothesis" is still alive and kicking.
 
 
 
