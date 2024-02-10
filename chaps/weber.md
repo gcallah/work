@@ -6,7 +6,9 @@ Gene Callahan
 
 In his famous book, *The Protestant Ethic and the Spirit of Capitalism* (henceforth *PE*),
 Max Weber famously explained the rise of capitalism by pointing to the Protestant ethic, which, he claimed, was a new
-attitude towards work and capital accumulation. A number of scholars have since disputed his explanation.
+attitude towards work and towards capital accumulation. (It is the former aspect, of course, that justifies examing the book in
+a volume devoted to thoughts about work.)
+A number of scholars have since disputed his explanation.
 
 In this paper, I will attempt to offer a summary of some notable, recent debate on Weber's thesis, with the goal of
 indicating whether that thesis is still viable. In the course of doing so, it will become apparent that in some
@@ -19,11 +21,13 @@ and it would undoubtedly take a lifetime to become
 fully conversant with all the literature germane to PE" (2011: 57). Nevertheless, this sample will provide evidence that
 the problem is as pervasive as Kallberg contends.
 
-But before we turn our attention to Weber's thesis on the rise of capitalism, it will be helpful to visit his theory of ideal
-types, as that is the setting in which *PE* must be viewed, in order to be properly understood.
+But before we turn our attention to Weber's thesis on the rise of capitalism, it will be helpful to briefly examine the
+theoretical presuppositions of the work.
 
 
-## Weber's Theory of Ideal Types
+## The Theoretical Background
+
+The *methodenstreit*.
 
 Explain how Weber is doing ideal type history.
 
