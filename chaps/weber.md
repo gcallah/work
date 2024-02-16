@@ -304,8 +304,8 @@ factors.
 
 Interestingly, Marxists represent a significant body of commentators who agree with Weber on the relationship between
 Calvinism and capitalism. But for them, the causality runs (almost?) entirely *from* capitalism *to* Calvinism, in
-keeping with the Marxist principle that religion and other worldviews are mere "superstructure," produced by material,
-economic "forces."[^1]
+keeping with the Marxist principle that religions, philosophies, and political positions
+are mere "superstructure," produced by material, economic "forces."[^1]
 
 
 
@@ -346,16 +346,6 @@ imposed by the extant data – open to empirical discussion." (1982: 168)
 There are many valid criticisms of Weber's work. However, as we have seen, many critics have "had a go at him" without,
 apparently, carefully reading his work. Why have so many people been anxious to dismiss at work of which they knew little?
 
-
-I suggest that, upon hearing a Cliff-Notes version of Weber's thesis, People belonging to various groups had various
-reasons to treat it dismissively.
-
-- Marxists did not like Weber's thesis because religion was supposed to be a mere superstructure that was the byproduct of
-economic conditions, and not their cause.
-- Progressive protestants did not like his thesis, because it seemed to "blame" them for capitalism.
-- Liberal Catholics did not like his thesis, because it seemed to imply the Catholicism was somehow "backwards."
-- Secular liberals did not like his thesis, because liberalism was supposed to be the outcome of enlightenment
-rationalism, chastely untouched by religious superstitions.
 
 Of course, rejecting a thesis because you don't like where it leads is not a particularly scientific attitude.
 Nevertheless, it is a common attitude.
