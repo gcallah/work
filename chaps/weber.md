@@ -299,6 +299,17 @@ In other words, in *PE* Weber is only attempting to show that there is *some* co
 "our modern life," and is specifically delegating to future studies how important that connection was compared to other
 factors.
 
+
+## Weber's Mirror-Image: Marxists and the Protestant Ethic
+
+Interestingly, Marxists represent a significant body of commentators who agree with Weber on the relationship between
+Calvinism and capitalism. But for them, the causality runs (almost?) entirely *from* capitalism *to* Calvinism, in
+keeping with the Marxist principle that religion and other worldviews are mere "superstructure," produced by material,
+economic "forces."[^1]
+
+
+
+
 ## Valid Criticisms
 
 ### The Validity of the Education Study
@@ -325,8 +336,17 @@ phenomenon of modern capitalism or [an] empirical [condition] which favoured... 
 
 ## Conclusion
 
+As Marshall put it:
+
+"the masterly argument of the protestant ethic and the spirit of capitalism has but sporadically been matched in quality
+during the course of the debate occasion by this text. Despite certain quite significant weaknesses in Weber’s essays,
+he presents a thesis that is sociologically sophisticated, historically specific, and – within the practical limitations
+imposed by the extant data – open to empirical discussion." (1982: 168)
+
 There are many valid criticisms of Weber's work. However, as we have seen, many critics have "had a go at him" without,
 apparently, carefully reading his work. Why have so many people been anxious to dismiss at work of which they knew little?
+
+
 I suggest that, upon hearing a Cliff-Notes version of Weber's thesis, People belonging to various groups had various
 reasons to treat it dismissively.
 
@@ -343,6 +363,12 @@ Nevertheless, it is a common attitude.
 In any case, although there are problems and puzzles, and Weber's work, this survey of his critics demonstrates that
 the "Protestant hypothesis" is still alive and kicking.
 
+[^1]: Engels himself was much more sophisticated on this point than many subsequent Marxists, writing:
+
+"Marks and I are ourselves partly to blame for the fact that younger writers sometimes lay more stress on the
+economic side than is due to it. We had to emphasize this main principle in opposition to our adversaries... And we had
+not always the time, the place or the opportunity to allow the other elements involved in the interaction to come into their
+rights." (1936: ?)
 
 
 ## Bibliography
@@ -361,6 +387,8 @@ New York: Currency.
 
 - Gordon, M. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
 New York: Columbia University Press.
+
+- Marx, Karl, Friedrich Engels, V. V Adoratskiĭ, and Dona Torr. 1936. *Karl Marx and Friedrich Engels: Correspondence 1846-1895*.
 
 - Oakeshott, M. 1999 *On History and Other Essays*, Indianapolis, Indiana: Liberty Fund.
 
