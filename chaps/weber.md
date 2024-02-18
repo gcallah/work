@@ -346,12 +346,30 @@ imposed by the extant data – open to empirical discussion." (1982: 168)
 There are many valid criticisms of Weber's work. However, as we have seen, many critics have "had a go at him" without,
 apparently, carefully reading his work. Why have so many people been anxious to dismiss at work of which they knew little?
 
+Once again, we must agree with Marshall, who wrote: "we might see the whole 'Protestant ethic controversy' to have been
+dogged from the outset by the grinding of particular religious, political, or theoretical axes..." (1982: 169).
 
-Of course, rejecting a thesis because you don't like where it leads is not a particularly scientific attitude.
-Nevertheless, it is a common attitude.
+In particular cases:
+
+- Many Marxists did not like Weber's thesis because religion is supposed to be a mere superstructure that is
+the byproduct of economic conditions, and not their (even partial) cause.
+- Progressive protestants did not like his thesis, because it seemed to "blame" them for capitalism.
+- Liberal Catholics did not like his thesis, because it seemed to imply the Catholicism was somehow "backwards."
+- Secular liberals did not like his thesis, because liberalism was supposed to be the outcome of enlightenment rationalism,
+not "religious superstitions."
+
+Marshall adds another problem with the dicussion, namely, "A widespread tendency to over simplify Weber's argument
+through increasing reliance, an inaccurate secondary expositions of it" (1982: 169).
+For example, although Acemoglu and Robinson cite *PE*, it is hard to believe either of them ever thoroughly read the work:
+It is much easier for me to believe the two such intelligent people became a little careless in the research, then it is
+to believe that they understood so little of what they were reading.
+
+
 
 In any case, although there are problems and puzzles, and Weber's work, this survey of his critics demonstrates that
 the "Protestant hypothesis" is still alive and kicking.
+
+## Notes
 
 [^1]: Engels himself was much more sophisticated on this point than many subsequent Marxists, writing:
 
