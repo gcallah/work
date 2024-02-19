@@ -151,7 +151,7 @@ Protestantism after that time to be particularly relevant to his thesis. There s
 developments were not important theologically or socially: Weber simply doesn't find them relevant for explaining the
 *spirit of capitalism*.
 
-### Becker
+### Becker: Weber as Protestant Partisan
 
 George Becker, in his paper "The Continuing Path of Distortion" (2009), implies that Weber had a partisan interest in
 reaching the conclusions he did in *PE*:
@@ -159,14 +159,14 @@ reaching the conclusions he did in *PE*:
 "Weber's idealist interpretation of Offenbacher's school enrolment statistics provides a foremost
 example of a scholarly claim with decided political overtones that are closely in line with Weber's and the liberal
 Protestants' cultural agenda...
-Weber's idealist interpretation of Offenbacher's data is also a statementof cultural criticism with partisan overtones
+Weber's idealist interpretation of Offenbacher's data is also a statement of cultural criticism with partisan overtones
 and decidedly political implications" (199-200).
 
 I am not a mind reader, and certainly cannot read the mind of the long-gone Max Weber. But if what he was up to was
 really a pitch for Protestantism, he did not make a very good job of it, to wit:
 
 "Entirely realistically, the Catholic Church concluded that the human species was *not* an absolutely and clearly
-determined unity to be valued as such" (2011:128).
+determined unity to be valued as such" (2011: 128).
 
 Or:
 
@@ -180,7 +180,7 @@ awareness of one's own weakness -- could not be the appropriate response of the 
 of God, were saints. More suitable instead was a hatred and contempt for the sinner as an enemy of God..." (2011: 132-133).
 
 If the above statements were intended by Weber as "partisan" endorsements of Protestantism as superior to Catholicism, I
-would recommend against hiring him as a marketer.
+would recommend against hiring him as a marketing consultant.
 
 
 ### Tawney
