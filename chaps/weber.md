@@ -27,11 +27,20 @@ theoretical presuppositions of the work.
 
 ## The Theoretical Background
 
-The *methodenstreit*.
+It may be of interest to some readers that Weber's work can be understood as a salvo in the *methodenstreit* occupying
+much attention in German-language social theory during the late-nineteenth and early-twentieth centuries, in that it
+stresses careful examination of historical circumstances in explaining economic phenomena.
 
-Explain how Weber is doing ideal type history.
+Furthermore, in *PE*, Weber is engaged in "ideal-type history": he attempts to isolate certain conceptual complexes,
+e.g., "the *ideal type* of the capitalist employer..." (93), and use them to explain particularhistorical passages.
+These complexes are *ideal* in that they are essentially distilled essences of characteristics found to a mixed degree
+in real people or institutions: no actual person is thought to have perfectly embodied the ideal type "capitalist
+employer." Other ideal types employed in *PE* include:
 
-"The *ideal type* of the capitalist employer..." (93).
+- The traditional businessman
+- The traditional worker
+- The Puritan saint
+-
 
 Lastly, I will note that history by invocation of ideal types has been criticized as "an unstable level of historical
 understanding" (Oakeshott, 1999: 65): see Callahan (2007) for more on this point. It may be worth examining, in another
@@ -43,22 +52,15 @@ paper, to what extent this instability has contributed to the confusion over Web
 Weber begins his work with an observation that raises a question: in Germany at that time (1905), 
 Protestants held more high positions in industry than Catholics, even in places where Catholics are in the majority.
 Here, he is acting as a proper "social detective": given a curious situation, let us search for an explanation.
-Furthermore, Weber suspects that solving this mystery might help us understand the origins of capitalism.
+Furthermore, Weber suspects that solving this mystery might help us understand the origins of modern capitalism.
 
-He begins by evaluating several popular explanations of this discrepancy.
+He begins by evaluating and ultimately rejecting several popular explanations of this discrepancy.
+Along the way, Weber rejects, at least in this instance,
+the Marxist concept that the ideas of an era are those called for by its "material base": 
+much more materially developed Florence and Venice were "behind" the backwoods of PA in regard to the development of
+capitalist attitudes. (36)
 
-1. Historical circumstances: Wealthy towns wound up being Protestant.
-
-2. Protestants were left freer, more indivualistic.
-
-But Puritanism led to a much stricter control of life than did Catholicism!
-
-Weber does not hold that these are permanent tendencies – over time, other groups come to follow the "logic" of the capitalist economy as well.
-
-Pg. 36- Marxist idea that ideas conform to the material base structure is nonsense here – much more materially developed
-Florence and Venice were behind the backwoods of PA in regard to the development of capitalist attitudes.
-
-A brief outline of Weber's historical thesis:
+In the interest of brevity, I now offer a highly compressed outline of Weber's thesis:
 
 1. Traditional societies were extremely suspicious of money lenders, speculators, middlemen, and so on. The unchecked
    pursuit of wealth was definitely a vice. In Cathlocism, in fact, the (theoretically) most admired life was that of a
