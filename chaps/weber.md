@@ -4,14 +4,15 @@ Gene Callahan
 
 ## Introduction
 
-In his famous book, *The Protestant Ethic and the Spirit of Capitalism* (henceforth *PE*),
-Max Weber famously explained the rise of capitalism by pointing to the Protestant ethic, which, he claimed, was a new
-attitude towards work and towards capital accumulation. (It is the former aspect, of course, that justifies examing the book in
-a volume devoted to thoughts about work.)
-A number of scholars have since disputed his explanation.
+In his most renowned book, *The Protestant Ethic and the Spirit of Capitalism* (henceforth *PE*),
+Max Weber famously explained the rise of "modern capitalism" by pointing to the Protestant ethic,
+which, he claimed, was a new attitude towards work and towards capital accumulation.
+(It is the former aspect, of course, that justifies examing the book in
+a volume devoted to thoughts about work.) But while this thesis is (in)famous, it has often been dismissed, sometimes as
+a nice attempt that on examination failed, and at other times as simply preposterous.
 
-In this paper, I will attempt to offer a summary of some notable, recent debate on Weber's thesis, with the goal of
-indicating whether that thesis is still viable. In the course of doing so, it will become apparent that in some
+In this paper, I will attempt to offer a summary of some highlights of the debate on Weber's thesis, with the goal of
+indicating whether that it is still viable. In the course of doing so, it will become apparent that in many
 prominent cases, as Stephen Kallberg argues in the introduction to his translation of *PE*, "Weber's critics never
 mastered his complex argument" (2011: 50).
 
@@ -19,9 +20,11 @@ Of necessity, this paper can only examine a small sample of those misinterpretin
 Chalcraft, "Every year sees new contributions in various fields [of *PE* scholarship]
 and it would undoubtedly take a lifetime to become
 fully conversant with all the literature germane to PE" (2011: 57). Nevertheless, this sample will provide evidence that
-the problem is as pervasive as Kallberg contends.
+the problem is as pervasive as Kallberg contends. We will also see that this problem was clearly highlighted in
+a decades-old summary of the *PE* debate (Marshall, 1982), and yet the lacunae clearly described at that time persist to
+this day.
 
-But before we turn our attention to Weber's thesis on the rise of capitalism, it will be helpful to briefly examine the
+But before we turn our attention to Weber's thesis on the rise of modern capitalism, it will be helpful to briefly examine the
 theoretical presuppositions of the work.
 
 
@@ -32,15 +35,16 @@ much attention in German-language social theory during the late-nineteenth and e
 stresses careful examination of historical circumstances in explaining economic phenomena.
 
 Furthermore, in *PE*, Weber is engaged in "ideal-type history": he attempts to isolate certain conceptual complexes,
-e.g., "the *ideal type* of the capitalist employer..." (93), and use them to explain particularhistorical passages.
-These complexes are *ideal* in that they are essentially distilled essences of characteristics found to a mixed degree
+e.g., "the *ideal type* of the capitalist employer..." (93), and use them to explain particular historical passages.
+These complexes are *ideal* in that they are distilled essences of characteristics found to a mixed degree
 in real people or institutions: no actual person is thought to have perfectly embodied the ideal type "capitalist
 employer." Other ideal types employed in *PE* include:
 
 - The traditional businessman
 - The traditional worker
+- The capitalist worker
 - The Puritan saint
--
+- The modern rationalist
 
 Lastly, I will note that history by invocation of ideal types has been criticized as "an unstable level of historical
 understanding" (Oakeshott, 1999: 65): see Callahan (2007) for more on this point. It may be worth examining, in another
