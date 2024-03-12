@@ -342,7 +342,16 @@ phenomenon of modern capitalism or [an] empirical [condition] which favoured... 
 
 ## Conclusion
 
-As Marshall put it:
+Weber's thesis, while certainly not "proven" (as if social theory were like mathematics!), is still a plausible story
+today. Those who contend that it has been debunked generally have in mind some caricature of what Weber wrote. As
+Baechler put it:
+
+"[Weber] shows that Protestantism is *one* of the currents that has contributed to the expansion of capitalism, and that it has
+influenced *certain* aspects of Western capitalism. In a word, without Protestantism, there still would have been
+capitalism, but it would have been different. If this interpretation of Weber’s argument is accepted, most of the
+controversy, which his essay has for decades sustained, is found to be beside the point." (1975: 28)
+
+Or, per Marshall:
 
 "the masterly argument of the protestant ethic and the spirit of capitalism has but sporadically been matched in quality
 during the course of the debate occasion by this text. Despite certain quite significant weaknesses in Weber’s essays,
@@ -393,9 +402,11 @@ New York: Currency.
 - Becker, G. 2009. "The Continuing Path of Distortion: The Protestant Ethic and Max Weber's School Enrolment Statistics".
 *Acta Sociologica*, Volume 52, Issue 3 195-301
 
+- Baechler, Jean. Trans. Barry Cooper. 1975. *The Origins of Capitalism*. Oxford: Basil Blackwell.
+
 - Braudel, F. 1977. *Afterthoughts on Material Civilization and Capitalism*. Baltimore: Johns Hopkins University Press.
 
-- Callahan G. 2007. "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
+- Callahan, Gene. 2007. "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
 
 - Campbell C. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
 
@@ -404,7 +415,7 @@ New York: Columbia University Press.
 
 - Marx, Karl, Friedrich Engels, V. V Adoratskiĭ, and Dona Torr. 1936. *Karl Marx and Friedrich Engels: Correspondence 1846-1895*.
 
-- Oakeshott, M. 1999 *On History and Other Essays*, Indianapolis, Indiana: Liberty Fund.
+- Oakeshott, Michael. 1999 *On History and Other Essays*, Indianapolis, Indiana: Liberty Fund.
 
 - Tawney, R.H. 2021 [1926]. *Religion and the Rise of Capitalism: A Historical Study*, Brooklyn: Angelico Press.
 
