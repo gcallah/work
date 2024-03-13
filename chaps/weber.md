@@ -5,7 +5,7 @@ Gene Callahan
 ## Introduction
 
 In his most renowned book, *The Protestant Ethic and the Spirit of Capitalism* (henceforth *PE*),
-Max Weber famously explained the rise of "modern capitalism" by pointing to the Protestant ethic,
+Max Weber famously explained the rise of "modern capitalism" as partially due to the "Protestant ethic,"
 which, he claimed, was a new attitude towards work and towards capital accumulation.
 (It is the former aspect, of course, that justifies examing the book in
 a volume devoted to thoughts about work.) But while this thesis is (in)famous, it has often been dismissed, sometimes as
