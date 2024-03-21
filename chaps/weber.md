@@ -388,10 +388,10 @@ the "Protestant hypothesis" is still alive and kicking.
 
 [^1]: Engels himself was much more sophisticated on this point than many subsequent Marxists, writing:
 
-"Marks and I are ourselves partly to blame for the fact that younger writers sometimes lay more stress on the
+"Marx and I are ourselves partly to blame for the fact that younger writers sometimes lay more stress on the
 economic side than is due to it. We had to emphasize this main principle in opposition to our adversaries... And we had
 not always the time, the place or the opportunity to allow the other elements involved in the interaction to come into their
-rights." (1936: ?)
+rights." (1942: 477
 
 
 ## Bibliography
@@ -413,11 +413,12 @@ New York: Currency.
 - Gordon, M. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
 New York: Columbia University Press.
 
-- Marx, Karl, Friedrich Engels, V. V Adoratskiĭ, and Dona Torr. 1936. *Karl Marx and Friedrich Engels: Correspondence 1846-1895*.
+- Marx, Karl and Friedrich Engels. Trans. Dona Torr. 1942. *Karl Marx and Friedrich Engels: Correspondence 1846-1895*.
+    New York: International Publishers.
 
-- Oakeshott, Michael. 1999 *On History and Other Essays*, Indianapolis, Indiana: Liberty Fund.
+- Oakeshott, Michael. 1999 *On History and Other Essays*. Indianapolis, Indiana: Liberty Fund.
 
-- Tawney, R.H. 2021 [1926]. *Religion and the Rise of Capitalism: A Historical Study*, Brooklyn: Angelico Press.
+- Tawney, R.H. 2021 [1926]. *Religion and the Rise of Capitalism: A Historical Study*. Brooklyn: Angelico Press.
 
 - Weber, Max. Trans. Stephen Kalberg. 2011. *The Protestant Ethic and the Spirit of Capitalism*. New York: Oxford University Press.
 
