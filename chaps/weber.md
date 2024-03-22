@@ -315,8 +315,11 @@ Let us begin with Winthrop S. Hudson, who first asserts, "Weber set forth the th
 modern capitalism" (1959: 56). But, as we have seen, this was quite defintely *not* what Weber "set forth": he thought
 that Puritanism was a *factor* in the birth of modern capitalism. He further contends that when the modern capitalist
 spirit was fully embraced, "Puritanism ceased to be Puritanism" (1959: 61). But, of course, Weber knew this, and
-described it. Hudson actually devotes most of his time critiquing Tawney, and one suspects he really only knew of Weber
-through him.
+described it. Hudson actually gives the whole game away when he writes "Emphasizing as they did the economic virtues
+of diligence and thrift as religious duties, it was inevitable that the Puritans should prosper and advance in economic
+status" (1959: 61). Yes, and that is Weber's main contention, along with the idea that, having so advanced, gradually
+Mammon would win them over, and Puritanism would cease "to be Puritanism." Hudson has affirmed Weber's thesis in
+attempting to refute it.
 
 
 ## Weber's Mirror-Image: Marxists and the Protestant Ethic
