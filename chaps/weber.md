@@ -321,6 +321,12 @@ status" (1959: 61). Yes, and that is Weber's main contention, along with the ide
 Mammon would win them over, and Puritanism would cease "to be Puritanism." Hudson has affirmed Weber's thesis in
 attempting to refute it.
 
+Meanwhile, Henri Sée contends that "For Max Weber... economic and social life are determined to a decisive degree by
+psychological elements in historical development" (1959: 63). But I cannot find anything in *PE* that supports this
+contention at all. He then complains that "ome should not ignore... political and social circumstances... 
+Max Weber, it may be noted, refers rarely enough to general history" (1959:64). But, as we have seen, Weber does not
+*ignore* thse factors any more than someone researching the effect of lead pipes on Roman decline *ignores* barbarian
+invasions: no, they are just focusing on a particular factor.
 
 ## Weber's Mirror-Image: Marxists and the Protestant Ethic
 
@@ -437,6 +443,8 @@ New York: Columbia University Press.
     New York: International Publishers.
 
 - Oakeshott, Michael. 1999 *On History and Other Essays*. Indianapolis, Indiana: Liberty Fund.
+
+- Sée, Henri. 1959. "The Contribution of the Puritans to the Evolution of Modern Capitalism." In Green, pp. 62-64.
 
 - Tawney, R.H. 2021 [1926]. *Religion and the Rise of Capitalism: A Historical Study*. Brooklyn: Angelico Press.
 
