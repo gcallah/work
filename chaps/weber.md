@@ -306,6 +306,19 @@ In other words, in *PE* Weber is only attempting to show that there is *some* co
 factors.
 
 
+### Various and Sundry
+
+Here I will take up a number of authors who only provide limited examples of misinterpreting Weber, and thus do not
+require a section of their own.
+
+Let us begin with Winthrop S. Hudson, who first asserts, "Weber set forth the thesis that Calvinism was the parent of
+modern capitalism" (1959: 56). But, as we have seen, this was quite defintely *not* what Weber "set forth": he thought
+that Puritanism was a *factor* in the birth of modern capitalism. He further contends that when the modern capitalist
+spirit was fully embraced, "Puritanism ceased to be Puritanism" (1959: 61). But, of course, Weber knew this, and
+described it. Hudson actually devotes most of his time critiquing Tawney, and one suspects he really only knew of Weber
+through him.
+
+
 ## Weber's Mirror-Image: Marxists and the Protestant Ethic
 
 Interestingly, Marxists represent a significant body of commentators who agree with Weber on the relationship between
@@ -316,7 +329,7 @@ are mere "superstructure," produced by material, economic "forces."[^1]
 
 
 
-## Valid Criticisms
+## Some Valid Criticisms
 
 ### The Validity of the Education Study
 
@@ -408,10 +421,14 @@ New York: Currency.
 
 - Callahan, Gene. 2007. "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
 
-- Campbell C. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
+- Campbell, Colin. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
 
 - Gordon, M. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
 New York: Columbia University Press.
+
+- Green, Robert W. (ed.). 1959. *Protestantism and Capitalism: the Weber Thesis and its Critics*. Boston: Heath.
+
+- Hudson, Winthrop S. 1959. "Puritanism and the Spirit of Capitalism." In Green, pp. 56-62.
 
 - Marx, Karl and Friedrich Engels. Trans. Dona Torr. 1942. *Karl Marx and Friedrich Engels: Correspondence 1846-1895*.
     New York: International Publishers.
