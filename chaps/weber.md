@@ -366,7 +366,10 @@ Talcott Parsons wrote a paper critcizing Robertson on this point, noting:
 "Though Dr. Robertson does not explicitly deny that Weber introduced qualifications into his thesis, he continually
 writes in a vein which allows the reader to think that Weber was putting forward a 'monistic' view of capitalistic
 development such that the demonstra- tion of the importance of any factors other than the Protestant ethic was quite
-sufficient to refute Weber's position. Obviously such is not the case." (1935: 689)
+sufficient to refute Weber's position. Obviously such is not the case. Even the demonstration of the importance of the
+influence of capitalistic interests on the Protestant ethic itself is not in the least conclusive unless it goes so far
+as a proof that this influence completely accounts for it. Though he sometimes seems to claim this, I am sure a
+disinterested reader will agree with me that Dr. Robertson has furnished no such proof" (1935: 689)
 
 In any case, Weber never undertook to state just how important he found the "Protestant factor" to be in the rise of
 modern capitalism, and explicitly stated that should be the topic of a separate study.
