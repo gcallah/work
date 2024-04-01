@@ -328,25 +328,63 @@ Max Weber, it may be noted, refers rarely enough to general history" (1959:64). 
 *ignore* thse factors any more than someone researching the effect of lead pipes on Roman decline *ignores* barbarian
 invasions: no, they are just focusing on a particular factor.
 
+
+
+## Some Problems with Weber's Thesis
+
+It's not the purpose of this paper to pretend that Weber's thesis is without blemishes. To that end, I will note a few
+here, although again, the list is far from comprehensive.
+
+
+### The Idea of a "Calling," or *Beruf*
+
+Weber makes a great deal of Luther is introduction of the idea of a calling (in German, *Beruf*). For him, who adds
+religious sanction for devoting oneself to secular work. He sees this as a step towards the infamous "Protestant work
+ethic" (although it took Calvin and then the Puritans to complete the move, since for Luther the calling meant
+acceptance of one's given station in life).
+
+H.M. Robertson (1959: 68-75) vigorously rejects Weber on this point, claiming that the latter is wrong to see Luther's
+usage as an innovation, claiming it goes back at least to St. Paul. Hover, in the same volume of essays, Kemper
+Fullerton (1959: 10) argues that "Luther's conception of secular life as a "calling" involved a complete break with
+[previous Christian] theory." Adjudicating this disagreement with require a deep plunge into Hebrew, biblical Greek,
+ecclesiastical Latin, and German, something clearly beyond the scope of this paper. But given that Robertson was an
+economist, while Fullerton was a specialist in the languages of the Old Testament, my Bayesian prior is going to be that
+Fullerton would emerge victorious after one surfaced from such a dive.
+
+
 ## Weber's Mirror-Image: Marxists and the Protestant Ethic
 
-Interestingly, Marxists represent a significant body of commentators who agree with Weber on the relationship between
-Calvinism and capitalism. But for them, the causality runs (almost?) entirely *from* capitalism *to* Calvinism, in
-keeping with the Marxist principle that religions, philosophies, and political positions
-are mere "superstructure," produced by material, economic "forces."[^1]
+Interestingly, Marxists represent a significant body of commentators who agree with Weber on a close
+relationship between Calvinism and capitalism. But for them, the causality runs (almost?) entirely *from* capitalism
+*to* Calvinism, in keeping with the Marxist principle that religions, philosophies, and political positions are mere
+"superstructure," produced by material, economic "forces."[^1] Robertson, while not a Marxist, generally agrees with
+them on this point, writing "I wish to show that the spirit of capitalism has arisen rather from the material conditions
+of civilization than from some religious impulse" (1959:10).
 
+Talcott Parsons wrote a paper critcizing Robertson on this point, noting:
 
+"Though Dr. Robertson does not explicitly deny that Weber introduced qualifications into his thesis, he continually
+writes in a vein which allows the reader to think that Weber was putting forward a 'monistic' view of capitalistic
+development such that the demonstra- tion of the importance of any factors other than the Protestant ethic was quite
+sufficient to refute Weber's position. Obviously such is not the case." (1935: 689)
 
+In any case, Weber never undertook to state just how important he found the "Protestant factor" to be in the rise of
+modern capitalism, and explicitly stated that should be the topic of a separate study.
 
-## Some Valid Criticisms
 
 ### The Validity of the Education Study
 
+Both Hamilton (1996) and Becker (2009) point out that there are outright errors as well as possible data collection
+problems in the school enrollment study of Offenbacher (1900), which Weber cites as supposedly showing that in Baden, 
+Protestants were much more concentrated in training for commercial careers than were Catholics, who focused more on the
+humanities.
+
 That being said, Weber's thesis does not actually depend on any contemporary differences between Catholics and
-protestants in terms of economic performance or educational choice. Having stated, but the capitalist spirit no longer
-relies on the Protestant ethic, all these studies, which show anyway, is that the Protestant ethic still had some
-lingering effect at that time. If they turn out to be mistaken, and I did not, Weber could easily (and honestly)
+Protestants in terms of economic performance or educational choice. Since Weber has stated that the capitalist spirit no longer
+relies on the Protestant ethic, all this study is supposed to show is that the Protestant ethic still had some
+lingering effect at that time. If it turns out to be completely mistaken, Weber could easily (and honestly)
 respond, "Well, that effect dissipated sooner than I had thought."
+
 
 ### Is the 'Spirit of Capitalism' a Cause or a Feature of Capitalism?
 
@@ -355,8 +393,6 @@ capitalism, while at the same time, defining "modern capitalism" as capitalism t
 extent that he is actually doing this, he is guilty of a vicious circularity, because, of course, if "modern
 capitalism" is *defined* as an economic system exhibiting such a spirit, then it cannot possibly come about in
 the absence of that spirit.
-
-
 
 As Gordon Marshall puts it, "Weber Fails to specify whether the 'spirit of capitalism'... [is an attribute] of the
 phenomenon of modern capitalism or [an] empirical [condition] which favoured... its development" (1982: 57).
@@ -401,8 +437,6 @@ For example, although Acemoglu and Robinson cite *PE*, it is hard to believe eit
 It is much easier for me to believe the two such intelligent people became a little careless in the research, then it is
 to believe that they understood so little of what they were reading.
 
-
-
 In any case, although there are problems and puzzles, and Weber's work, this survey of his critics demonstrates that
 the "Protestant hypothesis" is still alive and kicking.
 
@@ -435,6 +469,11 @@ New York: Currency.
 - Gordon, M. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
 New York: Columbia University Press.
 
+- Hamilton, Richard F. 1996. *The Social Misconstruction of Reality: Validity and Verification in the Scholarly
+    Community*. New Haven and London: Yale University Press.
+
+- Fullerton, Kemper. 1959. "Calvinism and Capitalism." In Green, pp. 6-20.
+
 - Green, Robert W. (ed.). 1959. *Protestantism and Capitalism: the Weber Thesis and its Critics*. Boston: Heath.
 
 - Hudson, Winthrop S. 1959. "Puritanism and the Spirit of Capitalism." In Green, pp. 56-62.
@@ -443,6 +482,14 @@ New York: Columbia University Press.
     New York: International Publishers.
 
 - Oakeshott, Michael. 1999 *On History and Other Essays*. Indianapolis, Indiana: Liberty Fund.
+
+- Offenbacher, Martin. 1900. *Konfession und soziale Schichtung: Eine Studie über die wirtschaftliche Lage der
+    Katholiken und Protestanten in Baden*. Tübingen and Leipzig: J.C.B. Mohr. 
+
+- Parson, Talcott. 1935. "H. M. Robertson on Max Weber and His School."  *Journal of Political Economy*, Oct., 1935, Vol.
+    43, No. 5 (Oct., 1935), pp. 688-696. Stable URL: https://www.jstor.org/stable/1823317.
+ 
+- Robertson, H.M. 1959. "A Criticism of Max Weber and His School." In Green, pp. 65-86.
 
 - Sée, Henri. 1959. "The Contribution of the Puritans to the Evolution of Modern Capitalism." In Green, pp. 62-64.
 
