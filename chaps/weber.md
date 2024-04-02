@@ -352,7 +352,7 @@ economist, while Fullerton was a specialist in the languages of the Old Testamen
 Fullerton would emerge victorious after one surfaced from such a dive.
 
 
-## Weber's Mirror-Image: Marxists and the Protestant Ethic
+### Weber's Mirror-Image: Marxists and the Protestant Ethic
 
 Interestingly, Marxists represent a significant body of commentators who agree with Weber on a close
 relationship between Calvinism and capitalism. But for them, the causality runs (almost?) entirely *from* capitalism
