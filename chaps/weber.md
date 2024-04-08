@@ -477,7 +477,7 @@ New York: Currency.
 
 - Callahan, Gene. 2007. "Ideal types and the historical method". *Collingwood and British Idealism Studies* 53–68.
 
-- Campbell, Colin. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). Palgrave Macmillan.
+- Campbell, Colin. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). London: Palgrave Macmillan.
 
 - Gordon, M. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
 New York: Columbia University Press.
