@@ -446,7 +446,6 @@ the "Protestant hypothesis" is still alive and kicking.
 ## Notes
 
 [^1]: Engels himself was much more sophisticated on this point than many subsequent Marxists, writing:
-
 "Marx and I are ourselves partly to blame for the fact that younger writers sometimes lay more stress on the
 economic side than is due to it. We had to emphasize this main principle in opposition to our adversaries... And we had
 not always the time, the place or the opportunity to allow the other elements involved in the interaction to come into their
@@ -457,6 +456,9 @@ rights." (1942: 477
 
 - Acemoglu D. & Robinson J. A. 2012. *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*.
 New York: Currency.
+
+- Aron, Raymond. Trans. Richard Howard and Helen Weaver. 2019. *Main Currents in Sociological Thought: Volume Two:
+    Durkheim, Pareto, Weber*. New York: Routledge.
 
 - Becker, G. 2009. "The Continuing Path of Distortion: The Protestant Ethic and Max Weber's School Enrolment Statistics".
 *Acta Sociologica*, Volume 52, Issue 3 195-301
@@ -499,9 +501,6 @@ New York: Columbia University Press.
 - Tawney, R.H. 2021 [1926]. *Religion and the Rise of Capitalism: A Historical Study*. Brooklyn: Angelico Press.
 
 - Weber, Max. Trans. Stephen Kalberg. 2011. *The Protestant Ethic and the Spirit of Capitalism*. New York: Oxford University Press.
-
-
-
 
 
 
