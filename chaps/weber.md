@@ -61,8 +61,8 @@ Furthermore, Weber suspects that solving this mystery might help us understand t
 He begins by evaluating and ultimately rejecting several popular explanations of this discrepancy.
 Along the way, Weber rejects, at least in this instance,
 the Marxist concept that the ideas of an era are those called for by its "material base": 
-much more materially developed Florence and Venice were "behind" the backwoods of PA in regard to the development of
-capitalist attitudes. (36)
+much more materially developed Florence and Venice were "behind" the backwoods of Pennsylvania
+in regard to the development of capitalist attitudes. (36)
 
 In the interest of brevity, I now offer a highly compressed outline of Weber's thesis:
 
@@ -84,7 +84,7 @@ In the interest of brevity, I now offer a highly compressed outline of Weber's t
 
 ## The Blinkered Critics
 
-So what is Wrong with Weber's thesis, for those who rejected it completely or in part? As mentioned in the introduction,
+So what is wrong with Weber's thesis, for those who rejected it completely or in part? As mentioned in the introduction,
 no attempt will be made here to do an exhaustive survey; hopefully, however, it will be an interesting one.
 
 
@@ -121,12 +121,14 @@ to state the idea that "capitalism as an *economic system* was a creation of the
 and doctrinaire" thesis (2011: 108). So Weber explicitly ridicules the very idea that Braudel claims to be his central
 thesis!
 
+Braudel continues:
+
 "All historians have opposed this tenuous theory, although they have not managed to be rid of it once and for all. Yet it
 is clearly false. The northern countries took over the place that earlier and so long and so brilliantly been occupied
 by the old capitalist centers of the Mediterranean. They invented nothing, either in technology or in business
 management." (66)
 
-The problems here should, at this point, be obvious: Weber explicitly acknowledges the existence of large,
+But... Weber explicitly acknowledges the existence of large,
 capital-intensive enteprises before the Protestant Reformation. And he made no claims about the northern countries
 inventiveness. So although Braudel's assertion that the northern countries "invented nothing" seems absurd on
 its face, it is will be neither necessary nor helpful to explore it here, since it has nothing to do with Weber's
@@ -134,7 +136,7 @@ thesis.
 
 Braudel concludes his discussion of Weber by writing, "I believe Max Weber's error stems essentially from his
 exaggeration of capitalism's role as promoter of the modern world" (67). It is hard to know what to make of this, for,
-after all, Weber did not write a book called *The Protestant Ethic and the Spirit of the Modern World": he was exploring
+after all, Weber did not write a book called *The Protestant Ethic and the Spirit of the Modern World*: he was exploring
 the origin of capitalism, so naturally, his focus was on... capitalism. And this last claim does not even dovetail well
 with Braudel's earlier one, which is that Weber simply got capitalism's origin story *wrong*: here it seems he just
 placed too much emphasis on it!
@@ -162,7 +164,7 @@ developments were not important theologically or socially: Weber simply doesn't 
 George Becker, in his paper "The Continuing Path of Distortion" (2009), implies that Weber had a partisan interest in
 reaching the conclusions he did in *PE*:
 
-"Weber's idealist interpretation of Offenbacher's school enrolment statistics provides a foremost
+"Weber's idealist interpretation of Offenbacher's school enrollment statistics provides a foremost
 example of a scholarly claim with decided political overtones that are closely in line with Weber's and the liberal
 Protestants' cultural agenda...
 Weber's idealist interpretation of Offenbacher's data is also a statement of cultural criticism with partisan overtones
@@ -187,6 +189,34 @@ of God, were saints. More suitable instead was a hatred and contempt for the sin
 
 If the above statements were intended by Weber as "partisan" endorsements of Protestantism as superior to Catholicism, I
 would recommend against hiring him as a marketing consultant.
+
+
+### Weber's Mirror-Image: Marxists and the Protestant Ethic
+
+Interestingly, Marxists represent a significant body of commentators who agree with Weber on a close
+relationship between Calvinism and capitalism. But for them, the causality runs (almost?) entirely *from* capitalism
+*to* Calvinism, in keeping with the Marxist principle that religions, philosophies, and political positions are mere
+"superstructure," produced by material, economic "forces."[^1] H.M. Robertson writes, on this point,
+"I wish to show that the spirit of capitalism has arisen rather from the material conditions
+of civilization than from some religious impulse" (1959:10).
+
+Talcott Parsons wrote a paper responding to Robertson, noting:
+
+"Though Dr. Robertson does not explicitly deny that Weber introduced qualifications into his thesis, he continually
+writes in a vein which allows the reader to think that Weber was putting forward a 'monistic' view of capitalistic
+development such that the demonstration of the importance of any factors other than the Protestant ethic was quite
+sufficient to refute Weber's position. Obviously such is not the case. Even the demonstration of the importance of the
+influence of capitalistic interests on the Protestant ethic itself is not in the least conclusive unless it goes so far
+as a proof that this influence completely accounts for it. Though he sometimes seems to claim this, I am sure a
+disinterested reader will agree with me that Dr. Robertson has furnished no such proof" (1935: 689)
+
+As Raymond Aron put it:
+
+"it was not Weber's intention to reverse the doctrine of historical materialism in order to substitute a causality of
+religious forces for the causality of economic forces" (2019: 201).
+
+In short, Weber never undertook to state just how important he found the "Protestant factor" to be in the rise of
+modern capitalism, and explicitly stated that should be the topic of a separate study.
 
 
 ### Tawney
@@ -242,8 +272,8 @@ earlier moralists had regarded with suspicion, and had laid upon it the restrain
 
 "The enemy, however, was not riches, but the bad habits sometimes associated with them..." (240).
 
-**Weber:** "What is actually morally reprehensible [to the Puritan] is... the *resting* upon one's possessions and the
-*enjoyment* of wealth" 159).
+(**Weber:** "What is actually morally reprehensible [to the Puritan] is... the *resting* upon one's possessions and the
+*enjoyment* of wealth" [159].)
 
 "The labour which he idealizes... is itself a kind of ascetic discipline, more rigorous than that demanded of any order
 of medicants..." (242).
@@ -268,11 +298,11 @@ disappeared." (273)
 Indeed, any one of the above quotes could be slipped into a new edition of *PE*, and only the most assiduous reader would notice
 the addition. So what comes as a real surprise is that, when Tawney actually addresses Weber, he voices these complaints:
 
-- "Weber seems to me to explain by reference to moral and intellectual influences developments which have their principal
+**Tawney:** "Weber seems to me to explain by reference to moral and intellectual influences developments which have their principal
 explanation in another region altogether. There was plenty of 'capitalist spirit' in fifteenth-century Venice and
 Florence..." (319).
 
-- "But it seems a little artificial to talk as though capitalist enterprise could not appear till religious changes had produced
+"But it seems a little artificial to talk as though capitalist enterprise could not appear till religious changes had produced
 a capitalist spirit" (320).
 
 **Weber:** "How is it to be explained historically that in Florence, the center of
@@ -283,13 +313,13 @@ either morally questionable or at best tolerated?" (96)
 Here we see Weber noting that "capitalist enterprise" most certainly *did* appear before "religious changes had produced
 a capitalist spirit," but that what changed was the *esteem* in which such enterprises were held.
 
-- "[Weber] speaks as though all English Puritans in the seventeenth century held much the same view of social duties and
+**Tawney:** "[Weber] speaks as though all English Puritans in the seventeenth century held much the same view of social duties and
 expediency" (320)
 
-**Weber:** "Certainly, in the midst of these considerations, we should not forget the Puritanism
+**Weber:** "Certainly, in the midst of these considerations, we should not forget that Puritanism
 contained within itself a world of contradictions" (PE, 168).
 
-- "Weber ignores, or at least touches upon to lightly, intellectual movements, which were favorable to the growth of
+**Tawney:** "Weber ignores, or at least touches upon too lightly, intellectual movements, which were favorable to the growth of
 business enterprise and an individualist attitude towards economic relations, but which had little to do with
 religion" (320).
 
@@ -323,10 +353,10 @@ attempting to refute it.
 
 Meanwhile, Henri Sée contends that "For Max Weber... economic and social life are determined to a decisive degree by
 psychological elements in historical development" (1959: 63). But I cannot find anything in *PE* that supports this
-contention at all. He then complains that "ome should not ignore... political and social circumstances... 
+contention at all. He then complains that "one should not ignore... political and social circumstances... 
 Max Weber, it may be noted, refers rarely enough to general history" (1959:64). But, as we have seen, Weber does not
 *ignore* thse factors any more than someone researching the effect of lead pipes on Roman decline *ignores* barbarian
-invasions: no, they are just focusing on a particular factor.
+invasions: no, they are just focusing on something else.
 
 
 
@@ -338,41 +368,18 @@ here, although again, the list is far from comprehensive.
 
 ### The Idea of a "Calling," or *Beruf*
 
-Weber makes a great deal of Luther is introduction of the idea of a calling (in German, *Beruf*). For him, who adds
+Weber makes a great deal of Luther's introduction of the idea of a calling (in German, *Beruf*). For him, who adds
 religious sanction for devoting oneself to secular work. He sees this as a step towards the infamous "Protestant work
 ethic" (although it took Calvin and then the Puritans to complete the move, since for Luther the calling meant
 acceptance of one's given station in life).
 
-H.M. Robertson (1959: 68-75) vigorously rejects Weber on this point, claiming that the latter is wrong to see Luther's
-usage as an innovation, claiming it goes back at least to St. Paul. Hover, in the same volume of essays, Kemper
+Robertson (1959: 68-75) vigorously rejects Weber on this point, claiming that the latter is wrong to see Luther's
+usage as an innovation, claiming it goes back at least to St. Paul. However, in the same volume of essays, Kemper
 Fullerton (1959: 10) argues that "Luther's conception of secular life as a "calling" involved a complete break with
-[previous Christian] theory." Adjudicating this disagreement with require a deep plunge into Hebrew, biblical Greek,
+[previous Christian] theory." Adjudicating this disagreement would require a deep plunge into Hebrew, biblical Greek,
 ecclesiastical Latin, and German, something clearly beyond the scope of this paper. But given that Robertson was an
 economist, while Fullerton was a specialist in the languages of the Old Testament, my Bayesian prior is going to be that
 Fullerton would emerge victorious after one surfaced from such a dive.
-
-
-### Weber's Mirror-Image: Marxists and the Protestant Ethic
-
-Interestingly, Marxists represent a significant body of commentators who agree with Weber on a close
-relationship between Calvinism and capitalism. But for them, the causality runs (almost?) entirely *from* capitalism
-*to* Calvinism, in keeping with the Marxist principle that religions, philosophies, and political positions are mere
-"superstructure," produced by material, economic "forces."[^1] Robertson, while not a Marxist, generally agrees with
-them on this point, writing "I wish to show that the spirit of capitalism has arisen rather from the material conditions
-of civilization than from some religious impulse" (1959:10).
-
-Talcott Parsons wrote a paper critcizing Robertson on this point, noting:
-
-"Though Dr. Robertson does not explicitly deny that Weber introduced qualifications into his thesis, he continually
-writes in a vein which allows the reader to think that Weber was putting forward a 'monistic' view of capitalistic
-development such that the demonstra- tion of the importance of any factors other than the Protestant ethic was quite
-sufficient to refute Weber's position. Obviously such is not the case. Even the demonstration of the importance of the
-influence of capitalistic interests on the Protestant ethic itself is not in the least conclusive unless it goes so far
-as a proof that this influence completely accounts for it. Though he sometimes seems to claim this, I am sure a
-disinterested reader will agree with me that Dr. Robertson has furnished no such proof" (1935: 689)
-
-In any case, Weber never undertook to state just how important he found the "Protestant factor" to be in the rise of
-modern capitalism, and explicitly stated that should be the topic of a separate study.
 
 
 ### The Validity of the Education Study
@@ -397,9 +404,10 @@ extent that he is actually doing this, he is guilty of a vicious circularity, be
 capitalism" is *defined* as an economic system exhibiting such a spirit, then it cannot possibly come about in
 the absence of that spirit.
 
-As Gordon Marshall puts it, "Weber Fails to specify whether the 'spirit of capitalism'... [is an attribute] of the
+As Gordon Marshall puts it, "Weber fails to specify whether the 'spirit of capitalism'... [is an attribute] of the
 phenomenon of modern capitalism or [an] empirical [condition] which favoured... its development" (1982: 57).
 
+Exploring this issue could easily contribute several more papers to the lifetime's worth of literature on *PE*.
 
 ## Conclusion
 
@@ -491,7 +499,7 @@ New York: Columbia University Press.
 - Offenbacher, Martin. 1900. *Konfession und soziale Schichtung: Eine Studie über die wirtschaftliche Lage der
     Katholiken und Protestanten in Baden*. Tübingen and Leipzig: J.C.B. Mohr. 
 
-- Parson, Talcott. 1935. "H. M. Robertson on Max Weber and His School."  *Journal of Political Economy*, Oct., 1935, Vol.
+- Parson, Talcott. 1935. "H.M. Robertson on Max Weber and His School."  *Journal of Political Economy*, Oct., 1935, Vol.
     43, No. 5 (Oct., 1935), pp. 688-696. Stable URL: https://www.jstor.org/stable/1823317.
  
 - Robertson, H.M. 1959. "A Criticism of Max Weber and His School." In Green, pp. 65-86.
