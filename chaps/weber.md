@@ -365,6 +365,27 @@ invasions: no, they are just focusing on something else.
 It's not the purpose of this paper to pretend that Weber's thesis is without blemishes. To that end, I will note a few
 here, although again, the list is far from comprehensive.
 
+### Were Calvinists Really So Worried About Whether They Were of the Elect?
+
+Weber makes a great deal of the anxiety produced in Calvinists by the doctrine of predestination. The agonizing suspense
+of not knowing whether one was one of the elect supposedly led Calvinists to seek signs of their elect status in
+worldly success. And this, naturally, would lead great diligence in their attitudes toward work and business.
+
+But Hamiltion summarizes this aspect of Weber's argument as follows:
+
+"Salvation, anxiety stemming from predestinarian views. Not adequately, supported by Weber; rejected in subsequent
+research. Greyerz's review of the limited evidence available for seventeenth-century England showed predestination playing a
+'relatively minor role.' Claims about the psychological outlooks of 'the masses' in previous centuries are close to
+untestable." (1996: 86)
+
+While rejecting a claim just two sentences before declaring it 'close to untestable' is curious, nevertheless Hamilton
+has a point here: Weber himself makes this an important point in his argument, writing, for instance, "*Work without
+rest in a vocational calling* was recommended as the best possible means to *acquire* the self-confidence that one
+belonged among the elect" (2011: 125).
+
+In his introduction to his translation of *PE* Kalberg responds to critics such as Hamilton by claiming "The anxiety of
+the faithful plays only a limited part in Weber's multifaceted argument" (2011: 54). Still it would be nice to have more
+evidence from 'the masses' of the time in question.
 
 ### The Idea of a "Calling," or *Beruf*
 
