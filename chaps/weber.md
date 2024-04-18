@@ -1,4 +1,4 @@
-# The Protestant Hypothesis and the Spirit of Weber 
+# Does Weber's Thesis as to How Work Transformed Due to the "Protestant Ethic" Still Stand?
 
 Gene Callahan
 
@@ -14,7 +14,9 @@ a nice attempt that on examination failed, and at other times as simply preposte
 In this paper, I will attempt to offer a summary of some highlights of the debate on Weber's thesis, with the goal of
 indicating whether that it is still viable. In the course of doing so, it will become apparent that in many
 prominent cases, as Stephen Kallberg argues in the introduction to his translation of *PE*, "Weber's critics never
-mastered his complex argument" (2011: 50).
+mastered his complex argument" (2011: 50). As Kaelber puts it, "the book's two basic premises -- that ascetic
+Protestantism had an affinity with rationalized innerworldly conduct, and that religious asceticism translated into
+secular rationalism -- still stand" (2005a: xxviii).
 
 Of necessity, this paper can only examine a small sample of those misinterpreting Weber. As Kallberg notes, quoting
 Chalcraft, "Every year sees new contributions in various fields [of *PE* scholarship]
@@ -414,7 +416,9 @@ That being said, Weber's thesis does not actually depend on any contemporary dif
 Protestants in terms of economic performance or educational choice. Since Weber has stated that the capitalist spirit no longer
 relies on the Protestant ethic, all this study is supposed to show is that the Protestant ethic still had some
 lingering effect at that time. If it turns out to be completely mistaken, Weber could easily (and honestly)
-respond, "Well, that effect dissipated sooner than I had thought."
+respond, "Well, that effect dissipated sooner than I had thought." As Kaelber puts it, per Weber's thesis, Calvinists
+would only have an edge "in the *potentially short period* before those other groups... could adopt the same economic
+conduct" (2005b: 140).
 
 
 ### Is the 'Spirit of Capitalism' a Cause or a Feature of Capitalism?
@@ -490,7 +494,7 @@ New York: Currency.
     Durkheim, Pareto, Weber*. New York: Routledge.
 
 - Becker, G. 2009. "The Continuing Path of Distortion: The Protestant Ethic and Max Weber's School Enrolment Statistics".
-*Acta Sociologica*, Volume 52, Issue 3 195-301
+    *Acta Sociologica*, Volume 52, Issue 3 195-301
 
 - Baechler, Jean. Trans. Barry Cooper. 1975. *The Origins of Capitalism*. Oxford: Basil Blackwell.
 
@@ -500,9 +504,6 @@ New York: Currency.
 
 - Campbell, Colin. 2018. *The Romantic Ethic and the Spirit of Modern Consumerism* (New extended). London: Palgrave Macmillan.
 
-- Gordon, M. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
-New York: Columbia University Press.
-
 - Hamilton, Richard F. 1996. *The Social Misconstruction of Reality: Validity and Verification in the Scholarly
     Community*. New Haven and London: Yale University Press.
 
@@ -511,6 +512,13 @@ New York: Columbia University Press.
 - Green, Robert W. (ed.). 1959. *Protestantism and Capitalism: the Weber Thesis and its Critics*. Boston: Heath.
 
 - Hudson, Winthrop S. 1959. "Puritanism and the Spirit of Capitalism." In Green, pp. 56-62.
+
+- Kaelber, Lutz. 2005a. "Introduction." In Swatos *et al.*, pp. xv-xxxii.
+
+- Kaelber, Lutz. 2005b. "Capitalism, Traditionalism, and Adventure Capitalism." In Swatos *et al.*, pp. 139-163.
+
+- Marshall, Gordon. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
+    New York: Columbia University Press.
 
 - Marx, Karl and Friedrich Engels. Trans. Dona Torr. 1942. *Karl Marx and Friedrich Engels: Correspondence 1846-1895*.
     New York: International Publishers.
@@ -526,6 +534,9 @@ New York: Columbia University Press.
 - Robertson, H.M. 1959. "A Criticism of Max Weber and His School." In Green, pp. 65-86.
 
 - Sée, Henri. 1959. "The Contribution of the Puritans to the Evolution of Modern Capitalism." In Green, pp. 62-64.
+
+- Swatos, William H., Jr. and Lutz Kaelber. 2005. *The Protestant Ethic Turns 100: Essays on the Centenary of the Weber
+    Thesis*. Boulder and London: Paradigm Publishers.
 
 - Tawney, R.H. 2021 [1926]. *Religion and the Rise of Capitalism: A Historical Study*. Brooklyn: Angelico Press.
 
