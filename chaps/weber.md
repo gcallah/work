@@ -420,6 +420,11 @@ respond, "Well, that effect dissipated sooner than I had thought." As Kaelber pu
 would only have an edge "in the *potentially short period* before those other groups... could adopt the same economic
 conduct" (2005b: 140).
 
+### Just Who Were These Calvinist Entrepreurs?
+
+As Kaelber notes, "Weber provided surprisingly little empirical evidence of capitalist entrepreneurs who went
+diligently and spartanly about their calling..." (2005b: 143).
+
 
 ### Is the 'Spirit of Capitalism' a Cause or a Feature of Capitalism?
 
