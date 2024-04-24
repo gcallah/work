@@ -360,9 +360,13 @@ Max Weber, it may be noted, refers rarely enough to general history" (1959:64). 
 *ignore* thse factors any more than someone researching the effect of lead pipes on Roman decline *ignores* barbarian
 invasions: no, they are just focusing on something else.
 
+Malcolm H. MacKinnon claims to have definitively debunked Weber, as he professes to show that the Puritans had no
+anxiety as to whether they were chosen at all: in fact, they had almost entirely abandoned Calvin's doctrine of
+predestination in favor of a doctrine of salvation by good works. (See his 1989a and 1989b.) However, David Zaret (1993)
+thoroughly refutes MacKinnon's claims.
 
 
-## Some Problems with Weber's Thesis
+## Some Outstanding Problems with Weber's Thesis
 
 It's not the purpose of this paper to pretend that Weber's thesis is without blemishes. To that end, I will note a few
 here, although again, the list is far from comprehensive.
@@ -522,6 +526,15 @@ New York: Currency.
 
 - Kaelber, Lutz. 2005b. "Capitalism, Traditionalism, and Adventure Capitalism." In Swatos *et al.*, pp. 139-163.
 
+- Lehmann, Hartmut and Guenther Roth, eds. 1993. *Weber's Protestant Ethic: Origins, Evidence, Contexts*. New York:
+    Cambridge University Press.
+
+- MacKinnon, Malcolm H. 1989a. "Part I: Calvinism and the Infallible Assurance of Grace: The Weber Thesis Reconsidered."
+    *British Journal of Sociology* 29, no. 1.
+
+- MacKinnon, Malcolm H. 1989b. "Part II: Weber's Exploration of Calvinism: The Undiscovered Provenance of Capitalism."
+    *British Journal of Sociology* 29, no. 2.
+
 - Marshall, Gordon. 1982. *In Search of the Spirit of Capitalism : An Essay on Max Weber’s Protestant Ethic Thesis*.
     New York: Columbia University Press.
 
@@ -547,6 +560,6 @@ New York: Currency.
 
 - Weber, Max. Trans. Stephen Kalberg. 2011. *The Protestant Ethic and the Spirit of Capitalism*. New York: Oxford University Press.
 
-
+- Zaret, David. 1993. "The Use and Abuse of Textual Data." In Lehmann and Roth, pp. 245-272.
 
 
