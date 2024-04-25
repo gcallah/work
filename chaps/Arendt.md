@@ -1,5 +1,4 @@
-# Hannah Arendt on the Triumph of *homo faber* and the Fragility of Human
-Action
+# Hannah Arendt on the Triumph of *homo faber* and the Fragility of Human Action
 
 Josefina Araos Bralic and Sarah J. Wilford
 
@@ -7,7 +6,7 @@ Contribution to volume *By the Sweat of Your Brow: Some Concepts of Work
 in the History of Western Thought* \[working title\] edited by Gene
 Callahan.
 
-Josefina Araos Bralic
+**Josefina Araos Bralic**
 
 Josefina Araos Bralic is a researcher at the Instituto de Estudios de la
 Sociedad (IES) in Santiago, Chile. She earned her Bachelor\'s and
@@ -16,7 +15,7 @@ Chile. Currently, she is pursuing a PhD in Philosophy at Universidad de
 los Andes (Chile). Her research focuses on populism, the crisis of
 liberal democracies, and the political philosophy of Hannah Arendt.
 
-Sarah J. Wilford
+**Sarah J. Wilford**
 
 Sarah J. Wilford is a Professor and Researcher at Centro Signos,
 Universidad de los Andes in Santiago, Chile. She received her PhD in
