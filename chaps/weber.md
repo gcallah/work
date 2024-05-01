@@ -1,4 +1,4 @@
-# Does Weber's Thesis as to How Work Transformed Due to the "Protestant Ethic" Still Stand?
+# Does Weber's Thesis on the Protestant Ethic Transforming Work Still Stand?
 
 Gene Callahan
 
