@@ -126,8 +126,7 @@ intelligently possible and appropriate, for their own sake, and in the
 present moment rather than for complicated future projects requiring the
 extensive use of others as mere means for one's own projects.
 
-## III. Implications of Oakeshott's Escapes from "the Deadliness of
-Doing"
+## III. Implications of Oakeshott's Escapes from "the Deadliness of Doing"
 
 In my view Oakeshott's view of contented living and the limited place of
 labor and meaningful work in the contemporary world is discerning,
