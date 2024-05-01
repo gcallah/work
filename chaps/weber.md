@@ -21,7 +21,7 @@ secular rationalism -- still stand" (2005a: xxviii).
 Of necessity, this paper can only examine a small sample of those misinterpreting Weber. As Kallberg notes, quoting
 Chalcraft, "Every year sees new contributions in various fields [of *PE* scholarship]
 and it would undoubtedly take a lifetime to become
-fully conversant with all the literature germane to PE" (2011: 57). Nevertheless, this sample will provide evidence that
+fully conversant with all the literature germane to *PE*" (2011: 57). Nevertheless, this sample will provide evidence that
 the problem is as pervasive as Kallberg contends. We will also see that this problem was clearly highlighted in
 a decades-old summary of the *PE* debate (Marshall, 1982), and yet the lacunae clearly described at that time persist to
 this day.
