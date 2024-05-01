@@ -21,7 +21,7 @@ pursuit of political activities." — Aristotle, *Politics*
 "we worked night and day, laboring and toiling so that we would not be a burden
 to any of you." -- Paul, Second Letter to the Thessalonians
 
-"Every man is, or hopes to be, and idler.” — Samuel Johnson, *The Idler*
+"Every man is, or hopes to be, an idler.” — Samuel Johnson, *The Idler*
 
 "I had only one faith, one source of strength: work... Work! Consider, gentlemen:
 work forms the only law of the world. Life has no other purpose, there is no
