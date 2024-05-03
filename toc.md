@@ -72,7 +72,7 @@ frustrated, angry and hateful." -- Charles Bukowski
 - [Does Weber's Thesis on the Protestant Ethic Transforming Work Still Stand?](chaps/weber.md), [Gene Callahan](bios/callahan.md), New York University
 - [Mises: The Disutility of Labor](abstracts/mises.md), [Gabriel Benzecry](bios/benzecry.md), Middle Tennessee State University
 - [Hannah Arendt on *Homo Faber* and the Fragility of Human Action](chaps/arendt.md), [Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes
-- [The Woman’s Soul as "Shelter": Edith Stein on the Work of Women](abstracts/stein.md), [Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes
+- [The Woman’s Soul as "Shelter": Edith Stein on the Work of Women](chaps/stein.md), [Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes
 - [Michael Oakeshott on "The Deadliness of Doing"](chaps/oakeshott.md), [W. John Coats](bios/coats.md), Connecticut College
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and Culture](abstracts.pieper.md), 
 [Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,
