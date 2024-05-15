@@ -404,7 +404,7 @@ a Christian Life, "Work, Subhuman Realities, and Property" (Grisez,
 1983). I turn now, however, to the relation of work in the NNLT to that
 theories larger theological claims.*
 
-III. The Theological Frame
+## III. The Theological Frame
 
 In this final section I offer only three brief remarks on the
 theological significance of the NNL account of the good of work.
