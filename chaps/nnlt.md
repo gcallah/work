@@ -226,7 +226,7 @@ identified four general norms, all in need of further specification, in
 the remainder of this section, I briefly discuss the ways in which each
 norm can be followed or violated.
 
-A.  No Intentional Damage or Destruction of an Instance of a Basic Good
+### A.  No Intentional Damage or Destruction of an Instance of a Basic Good
 
 Criticizing the norm against intentional damage or destruction of a
 basic good, Michael Pakaluk writes that in accordance with this norm, a
@@ -257,7 +257,7 @@ deliberately seek the privation of excellence in performance as an end
 or means will be genuinely to violate this norm, and thus is always to
 be ruled out by practical reason functioning without error.
 
-B.  Fairness
+### B.  Fairness
 
 Work is frequently -- perhaps most frequently -- pursued in community
 with others. Work is done within families to maintain households, within
@@ -326,7 +326,7 @@ relationship between employer and employee; in addition to the common
 good of whatever product or external reality the work of a group serves,
 it must always also serve the common good of good work itself.
 
-## III.  Work and Personal Vocation
+### C.  Work and Personal Vocation
 
 The lives of persons should manifest good order, and that order is
 brought about in many important respects through the making of
@@ -368,7 +368,7 @@ likely to be incompatible with a number of other pursuits that might be
 too time consuming, too risky, or perhaps inappropriate for someone with
 a physician's commitment to health to pursue.
 
-## IV.  The Appearance of Good Work
+### D.  The Appearance of Good Work
 
 In regard to many goods it is possible to distinguish between the
 reality of the good's pursuit, and the appearance of its pursuit, the
