@@ -77,6 +77,6 @@ frustrated, angry and hateful." -- Charles Bukowski
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and Culture](abstracts.pieper.md), 
 [Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,
 Hungary
-- [Work in New Natural Law Theory](abstracts/nnlt.md), [Christopher Tollefsen](bios/tollefsen.md), University of South Carolina
+- [Work in New Natural Law Theory](chaps/nnlt.md), [Christopher Tollefsen](bios/tollefsen.md), University of South Carolina
 - Work and Its Discontents: Geuss and Graber, [Gülşen Seven](bios/seven.md), Turkish Education Association University
 
