@@ -338,6 +338,37 @@ In other words, in *PE* Weber is only attempting to show that there is *some* co
 factors.
 
 
+### McCloskey
+
+As if to provide an illustration that the misinterpretations of Weber will never cease, McCloskey penned a short piece
+for *Reason Magazine* entitled "Max Weber Was Wrong" (2017). McCloskey chides the reader that "Reading this summary is
+*not* an excuse for skipping the actual book" (par. 4) but one wonders if our author is guilty of that.
+
+In the book summary, McCloskey claims that Weber contrasts "Protestant north Germans" with "the lazy, Catholic
+Barvarians" (par. 4), but Weber nowhere accuses what he calls "traditional workers" as being "lazy": in fact, he seems
+to find their attitude simply sensible.
+
+McCloskey next claims that "Spirit, *Geist*, runs things, [Weber] says" (par. 5). But Weber rejects this one-sided
+idealism just as much as he rejects one-sided materialism, as stated in the above quotes from Parsons and Aron. Or, as
+Weber himself writes at the close of *PE*, "Of course it cannot be the intention here to set a one-sided
+religion-oriented analysis of the causes of culture and history in place of an equally one-sided 'materialistic'
+analysis. *Both* are *equally possible*" (2011: 178-179).
+
+McCloskey next accuses Weber of taking "the comical speech Franklin wrote for *Poor Richard's Almanac*... to be exactly
+what Franklin believed" (par. 6). McCloskey even gives a quotation from Franklin's book, leading the reader to think that Weber
+quoted it. But the quote never occurs in *PE*, and the only works of Franklin's that Weber quotes from are *Necessary
+Hints to Those Who Would Be Rich* and *Advice to a Young Tradesman* (Weber, 2011: 290).
+
+McCloskey then states that "almost everyone who has looked seriously into the evidence behind Weber's theory finds it
+lacking" (par. 7). As illustrated in this paper, this claim is nonsense: Weber's thesis certainly has many critics, but
+also to this day many defenders.
+
+And, as an example of where Weber goes wrong, McCloskey writes, "it is not true that accumulation causes the modern
+Great Enrichment" (par. 8). That may be completely correct, but also shockingly beside the point: nowhere in *PE* does
+Weber posit a cause for a "Great Enrichment": the book seeks to connect a spirit of modern capitalism with certain
+strains of Protestantism. Nowhere is there anything resembling a claim that capital accumulation was the cause of modern
+wealth.
+
 ### Various and Sundry
 
 Here I will take up a number of authors who only provide limited examples of misinterpreting Weber, and thus do not
@@ -540,6 +571,9 @@ New York: Currency.
 
 - Marx, Karl and Friedrich Engels. Trans. Dona Torr. 1942. *Karl Marx and Friedrich Engels: Correspondence 1846-1895*.
     New York: International Publishers.
+
+- McCloskey, D. 2017. "Max Weber Was Wrong." *Reason Magazine*, November 2017, downloaded from
+    https://reason.com/2017/10/26/max-weber-was-wrong/ on June 1, 2024.
 
 - Oakeshott, Michael. 1999 *On History and Other Essays*. Indianapolis, Indiana: Liberty Fund.
 
