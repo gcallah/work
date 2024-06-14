@@ -55,7 +55,6 @@ frustrated, angry and hateful." -- Charles Bukowski
 
 - [Introduction](abstracts/intro.md), [Gene Callahan](bios/callahan.md), New York University
 - [Plato and Aristotle on Work](abstracts/plato.md), [James B. Murphy](bios/murphy.md), Dartmouth College
-- [The Greeks Cynics on Work and Wealth](abstracts/cynics.md), [Kenneth McIntyre](bios/mcintyre.md), Sam Houston State University
 - [Work in the New Testament](abstracts/newtestament.md), [James Alexander](bios/alexander.md), Bilkent University
 - [Aquinas on Work](abstracts/aquinas.md), [Nyirkos Tamás](bios/nyirkos.md), Research Institute for Politics and Government / University of Public Service, Budapest
 - [Luther on Vocation](abstracts/luther.md), [Orsolya Horváth](bios/horvath.md), Károli Gáspár University of the Reformed Church in Hungary

@@ -80,7 +80,8 @@ In the interest of brevity, I now offer a highly compressed outline of Weber's t
    as good evidence in this regard.
 6. Combined with the rejection of worldly pleasures, the result was an ethic that justified the acquisition of wealth,
    but condemned the enjoyment of the wealth so acquired.
-7. The end result an ethic very favorable to the building up of capital.
+7. The end result an ethic very favorable to the building up of capital and the rational organization of work to
+   maximize productivity.
 
 
 
@@ -139,7 +140,7 @@ thesis.
 Braudel concludes his discussion of Weber by writing, "I believe Max Weber's error stems essentially from his
 exaggeration of capitalism's role as promoter of the modern world" (67). It is hard to know what to make of this, for,
 after all, Weber did not write a book called *The Protestant Ethic and the Spirit of the Modern World*: he was exploring
-the origin of capitalism, so naturally, his focus was on... capitalism. And this last claim does not even dovetail well
+the origin of modern capitalism, so naturally, his focus was on... capitalism. And this last claim does not even dovetail well
 with Braudel's earlier one, which is that Weber simply got capitalism's origin story *wrong*: here it seems he just
 placed too much emphasis on it!
 
@@ -502,7 +503,7 @@ In particular cases:
 
 - Many Marxists did not like Weber's thesis because religion is supposed to be a mere superstructure that is
 the byproduct of economic conditions, and not their (even partial) cause.
-- Progressive protestants did not like his thesis, because it seemed to "blame" them for capitalism.
+- Progressive Protestants did not like his thesis, because it seemed to "blame" them for capitalism.
 - Liberal Catholics did not like his thesis, because it seemed to imply the Catholicism was somehow "backwards."
 - Secular liberals did not like his thesis, because liberalism was supposed to be the outcome of enlightenment rationalism,
 not "religious superstitions."
