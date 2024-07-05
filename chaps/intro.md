@@ -3,7 +3,7 @@
 Gene Callahan, New York University
 
 The genesis for this project was reading the material on work 
-from Karl Löwith’s *From Hegel to Nietzsche*
+from Karl Löwith's *From Hegel to Nietzsche*
 and being struck by how divergent the
 views of work were even on one continent (and mostly from one country!)
 during the course of one century.  I gradually began
@@ -46,4 +46,27 @@ oeuvre.[^3]
 Posited in her treatise *The Human Condition* (1958), her distinctions
 between labor, work, and action offer a typology of the human effort we
 call work. This chapter provides an overview of Arendt's categories of
+
+
+## Oakeshott
+
+In this titular poetic Oakeshottian phrase is contained a view of human life which does not prioritize practical
+existence (including labor), but rather employs poetic imagining and philosophical exploration as ways of superseding it
+without negating it ("the splendors of the firmament of time may be eclipsed but are extinguished not"). This essay
+explores the relevance of Oakeshott's arresting phrase, "the deadliness of doing,"1 to the theme of this edited volume
+on the place of labor in a human life. The steps in this exploration include:
+
+(1) Oakeshott's view of the limited place of all practical activity in a human life, distinguished from the view, for
+example, of a materialist philosopher such as Karl Marx that all human thought and abstraction is derivative from
+practical considerations;
+
+(2) Oakeshott's view that the most intelligent approach to human satisfaction is to nurture a life which as much as
+possible engages in activity which can be done largely for its own sake, rather than for some other, external benefit;
+that this is an intelligent approach to living because it mirrors the structure of human experience which is creative or
+poetic rather than prosaic; and how Oakeshott's view on the meaning of activity done for its own sake compares and
+contrasts with the views of Aristotle and Montaigne (one of Oakeshott's "heroes");
+
+(3) a discussion of the importance of ritualistic practices as an intelligent approach to achieving necessary and
+unavoidable practical outcomes in a less burdensome (and less "deadly") fashion, since rituals arguably are practices
+most amendable to being performed for their own sake, while also yielding some residual practical benefits; 
 
