@@ -22,6 +22,18 @@ post-liberal, etc. -- is the role of work in human life.
 
 
 
+## Hegel
+
+Hegel's daunting complexity and abstraction can obscure that labor—engagement with the physical, material world—plays a
+critical role in the development of the self-conscious individual and of the rational state. Indeed, as vociferous a
+critic as Marx observes (albeit critically) in the 1844 Manuscripts that Hegel "grasps labor as the essence of man."
+Without embracing Marx's totalizing claim, this chapter aims to highlight the importance of labor to Hegelian philosophy
+by focusing on two major texts. This task requires treating labor's crucial but often underappreciated role in the
+Phenomenology of Spirit before turning to some more familiar passages on labor in the Philosophy of Right.  The chapter
+will proceed in the following manner. We will first examine the Phenomenology to see how labor functions as a foundation
+for human self-consciousness before proceeding to an analysis of its role in the mature political philosophy of the
+Philosophy of Right. There, we shall see Hegel's analysis of a labor both embedded in civil society and under threat
+from the market.
 
 ## Arendt
 
