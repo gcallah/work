@@ -1,6 +1,6 @@
 William Lombardo
 
-July 10, 2024
+July 16, 2024
 
 Boston College
 
@@ -22,13 +22,13 @@ Right.*[^1] The chapter will proceed in the following manner. We will
 first examine the *Phenomenology* to see how labor functions as a
 foundation for human self-consciousness before proceeding to an analysis
 of its role in the mature political philosophy of the *Philosophy of
-Right*. There, we shall see Hegel's analysis of a labor both embedded in
+Right*. There, we shall see Hegel's analysis of labor both embedded in
 civil society and under threat from the market.
 
 Alongside its discussion of labor's role in these two major works of
 Hegel, this chapter aims to support another claim, namely that Hegel's
-thoughts on labor are of enduring, and not only historical, interest. To
-that end, the chapter will conclude with brief remarks on how Hegel
+thoughts on labor are of enduring, and not merely historical, interest.
+To that end, the chapter will conclude with brief remarks on how Hegel
 provides valuable material for thinking through the automation of labor,
 now perhaps aided by artificial intelligence. While Hegel is light on
 institutional solutions to such issues---and, indeed, this pessimism is
@@ -45,7 +45,7 @@ know and how consciousness can be sure of its knowing. To that end,
 consciousness proceeds through a series of necessary, logically
 predetermined shapes. These shapes increase in sophistication and
 complexity, but they all share in the following structure of the
-opposition of consciousness (see *PG* §81-87; 9:58-61). Briefly put,
+opposition of consciousness (see *PG* §81-87; 9:58-61): briefly put,
 each shape of consciousness is defined by two relations. The first is
 that of consciousness and the object it gives itself; there is some
 object that consciousness takes to be essential, the cognizing of which
@@ -84,7 +84,7 @@ must, rather, sublate something else essential, namely another
 self-consciousness: "self-consciousness finds its satisfaction only in
 another self-consciousness." It finds satisfaction only as a "recognized
 being" (§175; 9:108) In the duplication of self-consciousnesses,
-therefore, each strives to establish itself as the essential being, and
+therefore, each strives to establish himself as the essential being, and
 they engage in a life and death struggle. This is the beginning of the
 famous dialectic of master and servant (*Herr*/*Knecht*). The victor in
 the struggle assumes the role of master and sets the vanquished, the
@@ -95,11 +95,11 @@ labors on the inessential.
 
 Of course, the master's expectations are subverted, as the recognition
 of his essentiality is bound up in the self-consciousness of the
-servant. The master passes from the stage, and the servant becomes the
+servant. The master passes from the shape, and the servant becomes the
 self-consciousness which proceeds to successive shapes. The servile
 consciousness is "forced back into itself \[and\] will take the inward
-turn (*in sich gehen*)" (§193; 9:114), gaining for itself a "mind of its
-own" (§196; 9:115), the depth and reflexivity we associate with
+turn (*in sich gehen*)" (§193; 9:114), gaining for himself a "mind of
+his own" (§196; 9:115), the depth and reflexivity we associate with
 self-consciousness. Hegel explains that this is for two reasons. First,
 it is because of the servant's brush with death, in the face of which
 "all stable existence becomes absolutely fluid, \[which\] is the simple
@@ -116,14 +116,14 @@ negating of the object," that is, its consumption (ibid). And for this
 reason, the master's "satisfaction is itself only a vanishing, for it
 lacks the *objective* aspect, or *stable existence.*" The master
 replicates the problem of desire in general, namely that it is boundless
-and incapable of discriminating between objects. It is the servant
-which, in its servitude, must take a different stance toward the object
-of the master's desire. For the servant labors on the external world
-without the expectation that it will thereby consummate its desire.[^2]
-On the contrary, through its labor the servant maintains an enduring
-distance between itself and the object of its labor. Labor is thus,
-Hegel says, "desire held in check, it is vanishing *staved off*, or:
-work *cultivates and educates* (*Arbeit bildet*)."
+and incapable of discriminating between objects. It is the servant who,
+in his servitude, must take a different stance toward the object of the
+master's desire. For the servant labors on the external world without
+the expectation that he will thereby consummate his desire.[^2] On the
+contrary, through his labor the servant maintains an enduring distance
+between himself and the object of its labor. Labor is thus, Hegel says,
+"desire held in check, it is vanishing *staved off*, or: work
+*cultivates and educates* (*Arbeit bildet*)."
 
 This latter claim requires further elucidation, since if it is clear
 that laboring on an object requires suppressing one's desire to consume
@@ -131,35 +131,36 @@ that object, we must do further work to see how it thereby cultivates.
 The solution thus comes by way of seeing how permanency in the object of
 labor engenders a similar permanency in the laboring subject. Recall
 that the servant appears initially as an inessential consciousness to
-itself. Because it now labors on an object, the servile consciousness
+himself. Because he now labors on an object, the servile consciousness
 deals with an object that "endures" and that endures precisely because
 of "the negative mediating middle, this formative *doing* (*formirende
 Thun*)," namely labor (ibid). In the process of giving permanence to its
 object, the servile consciousness likewise "enters into the element of
-lasting (*Element des Bleibens*)." It "comes to an intuition of
+lasting (*Element des Bleibens*)." He "comes to an intuition of
 self-sufficient being *as its own self*" (ibid). By laboring on an
 external object and giving form to an object that endures, the subject
-comes to realize that it itself also endures, for its own permanence is
+comes to realize that he himself also endures, for his own permanence is
 necessary to give form to the object. What is more, he sees himself
-"externalized" in a free-standing, external object, as Oran Moked's
-discussion of this movement makes clear.[^3] Labor, as the mediating
-middle between subject and external object, mediates two enduring terms.
-The servile consciousness becomes an enduring, existing being *for
-itself.*
+"externalized" in a free-standing object, as Oran Moked's discussion of
+this movement makes clear.[^3] Moked clarifies that the servant
+recognizes the object as a testament to his labor, as something whose
+way of being results from his investment and nobody else's.[^4] Labor,
+as the mediating middle between subject and external object, mediates
+two enduring terms. The servile consciousness becomes an enduring,
+existing being *for itself.*
 
 We are now in a better position to understand how labor educates and
 cultivates the subject. In short, it helps to turn the subject into a
-temporally extended one that is of explicit and constant concern to
-itself. This is the kind of subject that is available for
-self-cultivation, that can make of itself an enduring project. As we
-have seen above, the *Phenomenology* follows the development and
-cultivation of consciousness, from natural consciousness to spirit to
-Absolute Knowing. This process ultimately demands that consciousness be
-for itself an object that is capable of development---a subject with
-permanence.
+temporally extended one of explicit and constant concern to himself.
+This is the kind of subject who is available for self-cultivation, who
+can make of himself an enduring project. As we have seen above, the
+*Phenomenology* follows the development and cultivation of
+consciousness, from natural consciousness to spirit to Absolute Knowing.
+This process ultimately demands that consciousness be an object capable
+of development---a subject with permanence.
 
 Within the *Phenomenology*, therefore, labor plays a crucial role not
-only in driving consciousness forward to a higher shape but also in
+only in driving consciousness forward to a higher stage but also in
 establishing a precondition for all later development. Within the
 movement just outlined, however, Hegel is also making claims about labor
 as such. It is labor, that is, that raises self-consciousness out of the
@@ -178,10 +179,9 @@ from and control over their desire and of undertaking projects to
 cultivate both the external world and themselves. It does not overstate
 things to claim that in the *Phenomenology* labor is a core,
 constitutive element of human self-consciousness. In the absence of
-labor, a possibility we will consider in the next two sections, we can
-expect not only impoverishment and alienation---though these are
-certainly symptoms---but also the unraveling of self-consciousness
-altogether.
+labor, a possibility we will consider in the next section, we can expect
+not only impoverishment and alienation---though these are certainly
+symptoms---but also the unraveling of self-consciousness altogether.
 
 *The Philosophy of Right: Labor in the Market*
 
@@ -220,7 +220,7 @@ agentless coordination of individual arbitrariness into a system that
 (potentially) satisfies the needs of all. This ought to evoke Smith's
 invisible hand, and indeed Hegel attributes his own understanding of
 political economy, which "finds the laws underlying a mass of contingent
-occurrences," to "Smith, Ricardo, and Say."[^4] The system of needs
+occurrences," to "Smith, Ricardo, and Say."[^5] The system of needs
 must, however, achieve this point of universal coordination. The
 universal satisfaction of needs must exist in actuality.
 
@@ -242,7 +242,7 @@ which do not need to be processed," and so "it is by the sweat and labor
 of human beings that man obtains the means to satisfy his needs"
 (§196A). Hegel dismisses Rousseau's notion of an original, harmonious
 equilibrium between human beings and their environment that obviated the
-need for laboring on nature. We have always, rather, had to transform
+need for laboring on nature. Rather, we have always had to transform
 what is naturally available into something fit for human consumption.
 This is but a restatement of the conclusion above that humans are always
 already laboring animals.
@@ -271,27 +271,27 @@ one hand, this is expected and even beneficial, as the individual "by a
 process of self-determination, makes himself a member of one of the
 moments of civil society" (§207). The laborer gains a concrete public
 existence by choosing what role he will play in civil society. On the
-other however, through division, labor becomes "simpler," "so that \[the
-Individual's\] skill (*Geschicklichkeit*) at his abstract work becomes
-greater, as does the volume of his output (*Productionen*)" (§198;
-14:169). The notion of abstraction here means that each laborer's
+other hand, however, through division, labor becomes "simpler," "so that
+\[the Individual's\] skill (*Geschicklichkeit*) at his abstract work
+becomes greater, as does the volume of his output (*Productionen*)"
+(§198; 14:169). The notion of abstraction here means that each laborer's
 contribution resembles less and less the product that goes to market. To
 borrow Adam Smith's famous example, of which Hegel made ample use in his
 lectures, each pin factory laborer produces ever more minute components
-of the pin.[^5]
+of the pin.[^6]
 
 From this division comes astronomical increases in productivity, yet
 this simplification is replete with its own dangers: "the abstraction of
 production makes work increasingly mechanical, so that the human being
-is able to step aside and let a machine take his place" (ibid).[^6] The
+is able to step aside and let a machine take his place" (ibid).[^7] The
 obvious implication of this remark---that simple, repetitive tasks are
 easier to mechanize---obscures a more ominous one, namely that the
 division of labor minimizes the distance between human beings and
-machines by making the former more like the latter.[^7] Here is Hegel's
+machines by making the former more like the latter.[^8] Here is Hegel's
 clearest indication that certain *kinds* of labor are corrosive of the
 laborer's humanity. However much factory work entails the discipline of
 desire, it prevents the worker from ascending beyond such
-discipline.[^8] These remarks are the end of Hegel's formal discussion
+discipline.[^9] These remarks are the end of Hegel's formal discussion
 of the nature of labor, and they leave the reader expecting a sublation
 (*Aufhebung*) of this limitation, some higher reconciliation wherein the
 threat of mechanization is overcome. Such a development never arrives,
@@ -300,34 +300,36 @@ in the state, never neatly absorbs this externality from the division of
 labor.
 
 Mechanization is not the only externality in the Hegelian labor market.
-Unlike in the classical model, in which the labor market clears if there
-is free competition among employers, Hegel posits that industrial market
-economies will produce a class of people to whom the opportunity for
-work is denied. Civil society's "own distinct resources are not
-sufficient...to prevent an excess of poverty and the formation of a
-rabble \[*Pöbel*\]" (§245; 14:194). According to Hegel, a general
+Unlike in the classical model, in which a labor market equilibrium
+results if there is free competition among employers, Hegel posits that
+industrial market economies will produce a class of people to whom the
+opportunity for work is denied. Civil society's "own distinct resources
+are not sufficient...to prevent an excess of poverty and the formation
+of a rabble \[*Pöbel*\]" (§245; 14:194). According to Hegel, a general
 equilibrium between supply and demand is unlikely to emerge across the
 entire economy, even if it obtains in discrete markets. Rather, the
-market will tend toward overproduction and, as resources shift, the
-resulting contraction will wipe out far more jobs than is required for
-full productivity. The result is a permanent population of the
-unemployed.[^9] Hegel thus refuses to idealize labor markets; the threat
-of unemployment, delivered by the impersonal market, hangs over the
-heads of all industrial laborers. Nor are laborers able simply to change
+market will always tend toward overproduction and, as resources shift,
+the resulting contraction will wipe out far more jobs than are required
+for full productivity (ibid). The result is a permanent population of
+the unemployed for whom there are no jobs or who always lack the skills
+for one.[^10] Hegel refuses to idealize labor markets; the threat of
+unemployment, delivered by the impersonal market, hangs over the heads
+of all industrial laborers. Nor are laborers able simply to change
 careers. As Lisa Herzog has emphasized, the Hegelian laborer's identity
 is in part constituted by an act of subjective freedom, a choice of
-career (§206; 14:173).[^10]
+career (§206; 14:173).[^11]
 
 Hegel does not, however, propose reforming the labor market as a way of
 overcoming this; there are only means of amelioration, of ensuring that
 "particular welfare (*besondere Wohl*) should be treated as a right and
-duly actualized" (§230; 14:189).[^11] But the institutions necessary for
-reducing the poverty of those denied work are less interesting for our
-purposes than Hegel's description of the "rabble," that laborless class
-inhabiting the "lowest level of subsistence" in a given society (§244
-and addition; 14:194). Taking a closer look at the rabble will enable us
-to conclude this section by unifying some of Hegel's other, disparate
-observations about modern labor.
+duly actualized" (§230; 14:189) or of the state taking over the (only
+ever temporary) role as employer (.[^12] But the institutions necessary
+for reducing the poverty of those denied work are less interesting for
+our purposes than Hegel's description of the "rabble," that laborless
+class inhabiting the "lowest level of subsistence" in a given society
+(§244 and addition; 14:194). Taking a closer look at the rabble will
+enable us to conclude this section by unifying some of Hegel's other,
+disparate observations about modern labor.
 
 The impoverishment of the rabble leads to the loss of the "feeling of
 right, integrity, and honor which comes from supporting oneself by one's
@@ -354,7 +356,7 @@ condition that one must labor to secure one's independence and to
 participate fully in civil society. This condition stands in sharp
 contrast to the classical conception of the healthy body politic,
 wherein exemption from labor frees the individual to fulfill the duties
-of citizenship.[^12] On the contrary, for Hegel labor is not exclusively
+of citizenship.[^13] On the contrary, for Hegel labor is not exclusively
 concerned with meeting individual needs but with contribution to the
 needs of civil society as a whole. It is, as we have seen, how the
 particular and universal moments of civil society come together. Labor
@@ -375,11 +377,11 @@ mine). In this description, skilled work is portrayed as a microcosm of
 freedom in general. Rational, self-determining activity in its most
 developed sense involves freely willing what one ought without
 experiencing a struggle between competing, countervailing desires (see
-§23-4; 14:42-3).[^13] While in context this applies to the produced
+§23-4; 14:42-3).[^14] While in context this applies to the produced
 object, labor also educates the laborer toward the observation of
 universal norms, that is toward moral freedom: "the particular must rise
 to the form of universality and seek and find its subsistence in this
-form" (§186).[^14] In acquiescing to the tastes of others and
+form" (§186).[^15] In acquiescing to the tastes of others and
 endeavoring to meet their needs, the individual limits his subjective,
 arbitrary freedom in the face of others' demands. While observing norms
 is ultimately for the *sake* of the individual, it nonetheless prepares
@@ -411,8 +413,9 @@ words, more and more of us would become members of the rabble. One might
 raise the question in response, however, of what is so worrisome about
 this condition of laborlessness assuming one's needs are met. Leisure
 is, after all, a good thing, and some measure of it is very likely a
-human need. Armed with both Hegel's arguments about labor in the
-*Phenomenology* and his diagnoses of the threats to labor in the
+human need, a thesis defended classically by Aristotle and more recently
+by Joseph Pieper.[^16] Armed with both Hegel's arguments about labor in
+the *Phenomenology* and his diagnoses of the threats to labor in the
 *Philosophy of Right*, we are in a position to respond to this
 objection.
 
@@ -432,7 +435,7 @@ human subject whom labor has already constituted. Labor creates the kind
 of subject who can, among other things, engage in critique. Whether or
 not capitalism has succeeded in securing the material conditions for
 such a laborless society, it is not clear on Hegel's account what kind
-of human beings would remain to enjoy it.
+of human beings would remain to enjoy it.[^17]
 
 [^1]: References to these texts will follow standard paragraph numbering
     and be provided in-text. In most cases, I have followed Terry
@@ -458,58 +461,68 @@ of human beings would remain to enjoy it.
     serve as an externalization of the subject (see *Philosophy of
     Right* §41-45).
 
-[^4]: See Lisa Herzog's excellent comparative study, *Inventing the
+[^4]: This dynamic anticipates Hegel's discussion of property and
+    "Abstract Right" in the *Philosophy of Right*, §41-45.
+
+[^5]: See Lisa Herzog's excellent comparative study, *Inventing the
     Market: Smith, Hegel, and Political Theory* (Oxford: Oxford
     University Press, 2013) and Norbert Waszek's exhaustive *The
     Scottish Enlightenment and Hegel's Account of 'Civil Society'*
     (Dordrecht: Kluwer Academic, 1988).
 
-[^5]: See Norbert Waszek, "Miscellanea: Adam Smith and Hegel on the Pin
+[^6]: See Norbert Waszek, "Miscellanea: Adam Smith and Hegel on the Pin
     Factory," *The Owl of Minerva* 16.2 (1985), 229-233.
 
-[^6]: Hegel's concern with mechanization emerges in his early writings.
+[^7]: Hegel's concern with mechanization emerges in his early writings.
     See Nathan Ross, *On Mechanism in Hegel's Social and Political
     Philosophy* (New York: Routledge, 2008), ch. 3. According to Ross,
     Hegel tasks the state with the regulation of the mechanicity of
     civil society. Yet mechanicity is a sliding scale, as Hegel makes
     clear, and more is worse for laborers.
 
-[^7]: Smith shares with Hegel an awareness that simple, repetitive tasks
+[^8]: Smith shares with Hegel an awareness that simple, repetitive tasks
     lead the laborer "to be mutilated and deformed." See *Wealth of
     Nations*, V.i.f.50-61.
 
-[^8]: See Joel Bock, "Technology, Freedom, and the Mechanization of
+[^9]: See Joel Bock, "Technology, Freedom, and the Mechanization of
     Labor in the Philosophies of Hegel and Adorno," *Philosophy &
     Technology* 34 (2021): 1263-85.
 
-[^9]: That Hegel leaves the problem of poverty unresolved has been
+[^10]: That Hegel leaves the problem of poverty unresolved has been
     remarked on many times. See, for example, Michael O. Hardimon,
     *Hegel's Social Philosophy* (New York: Cambridge University Press,
     1994), 236-250; Shlomo Avineri, *Hegel's Theory of the Modern State*
     (New York: Cambridge University Press, 1974), 154; Frank Ruda,
     *Hegel's Rabble* (New York: Continuum, 2011).
 
-[^10]: Herzog, *Inventing the Market*, ch. 4.
+[^11]: Herzog, *Inventing the Market*, ch. 4.
 
-[^11]: Hegel does suggest that the conversion of the rabble into
+[^12]: Hegel does suggest that the conversion of the rabble into
     overseas colonists might relieve pressure on the labor market (see
     §248A). Within the state itself, however, the problem is
     intractable. Nor does colonization represent a tidy resolution to
     the problem of unemployment, since there is not unlimited land to be
     colonized.
 
-[^12]: Cf. Aristotle, *Politics*, 1278a; Hannah Arendt, *The Human
+[^13]: Cf. Aristotle, *Politics*, 1278a; Hannah Arendt, *The Human
     Condition* (Chicago: The University of Chicago Press, 1958), §5.
     Hegel does retain a universal estate, whose needs are met by the
     state (§205). Yet Hegel never denies that this class is performing
     *labor*. The dichotomy labor/citizenship does not hold.
 
-[^13]: "Only in this freedom is the will completely with itself (*bei
+[^14]: "Only in this freedom is the will completely with itself (*bei
     sich*), because it has reference to nothing but itself, so that
     every relationship of dependence on something other than itself is
     thereby eliminated" (§23). See also Robert Pippin, *Hegel's
     Practical Philosophy* (New York: Cambridge University Press, 2008),
     ch. 5.
 
-[^14]: See Paul Franco, *Hegel's Philosophy of Freedom* (New Haven: Yale
+[^15]: See Paul Franco, *Hegel's Philosophy of Freedom* (New Haven: Yale
     University Press, 1999), 249-255.
+
+[^16]: Aristotle, *Ethics* 1177b and *Politics* 1337b; Joseph Pieper,
+    *Leisure, the Basis of Culture* (trans. Alexander Dru) (San
+    Francisco: Ignatius Press, 2009).
+
+[^17]: I am grateful to Paul Wilford and Susan Shell for discussions on
+    these topics that greatly improved this chapter.
