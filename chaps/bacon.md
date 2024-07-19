@@ -1,11 +1,9 @@
-# Francis Bacon on Work, Rest, and Man's Empire over Nature
+**Creation, Fall, and (Technological) Redemption: Francis Bacon on Work
+and Man's Right over Nature**
 
 Tyler Chamberlain, <Tyler.Chamberlain@twu.ca>
 
-\[Note: This is a draft. Please do not cite without written permission
-of the author.\]
-
-## Introduction
+**Introduction**
 
 Nature, in the modern imaginary, is an obstacle to human well-being and
 is therefore the subject of human power and technological innovation.
@@ -14,10 +12,10 @@ understanding of nature. This chapter will pay special attention to one
 element that played a particularly important role in how Bacon came to
 understand nature's resistance to human concerns, on the one hand, and
 the way in which something could be done about it: the Judeo-Christian
-concept of the Fall of man (as chronicled in Genesis 3).
+concept of the fall of man (as chronicled in Genesis 3).
 
 When we pay close attention to Bacon's historico-theological framing
-device of the Fall of man, we see that the central problem of human
+device of the fall of man, we see that the central problem of human
 existence is the fact that man has lost his dominion over nature such
 that *work*, and not *rest*, is his constant mode. Men must work to toil
 the ground and are in constant search for labour-saving devices to
@@ -50,7 +48,7 @@ method.[^3]
 Within this consensus, such as it is, lie some interesting
 disagreements, the navigating of which will help to clarify the argument
 of this chapter. One important debate concerns the role of religion in
-Bacon's thought. Robert Faulker, for example, argues that's Bacon's
+Bacon's thought. Robert Faulker, for example, argues that Bacon's
 attempt to appear pious is disingenuous, a mask over the subversive
 nature of his thought. Bacon, he writes, "revises Christianity toward a
 universal creed of humanity that will excuse war against Christian
@@ -82,27 +80,26 @@ project yet does so in distinctly modern and revolutionary terms.
 
 Bacon's work is replete with biblical references and allusions, some of
 which will be explored in what follows. For example, the introduction to
-[The Great Instauration]{.underline} refers to the biblical wisdom
-literature.[^7] The Old Testament book of Ecclesiastes is filled with
-repudiations of human ambition and wisdom, and would thus seem a strange
-ally for Bacon. For example, he refers to Ecclesiastes 1:14, which
-describes the works of man as "vanity and vexation of spirit."[^8] To
-avoid what appears to be a glaring rebuke of his technological project,
-he interprets this passage as referring to human works outside of God's
-design, and not to human activity that accords with divine ends. "If we
-labour in your works," Bacon writes, "you will make us to share in your
-vision and in your Sabbath."[^9] The reference to the Sabbath hints at
-the eschatological nature of the Baconian project. Throughout the old
-and new testaments, sharing in God's Sabbath rest refers to the reversal
-of the curse placed upon humanity in the Garden of Eden. Consider Saint
-Augustine's reference to resting in "the sabbath of eternal life" in his
-[Confessions]{.underline}, or the title of the concluding chapter of
-[The City of God]{.underline}: "Of the Eternal Felicity of the City of
-God, and of the Perpetual Sabbath." For Augustine, *the* theologian of
-medieval Christendom, God's sabbath rest referred to the Heavenly City
-in the age to come: "After this present age God will rest, as it were,
-on the seventh day, and he will cause us, who are the seventh day, to
-find our rest in him."[^10]
+*The Great Instauration* refers to the biblical wisdom literature.[^7]
+The Old Testament book of Ecclesiastes is filled with repudiations of
+human ambition and wisdom, and would thus seem a strange ally for Bacon.
+He refers to Ecclesiastes 1:14, which describes the works of man as
+"vanity and vexation of spirit."[^8] To avoid what appears to be a
+glaring rebuke of his technological project, he interprets this passage
+as referring to human works outside of God's design, and not to human
+activity that accords with divine ends. "If we labour in your works,"
+Bacon writes, "you will make us to share in your vision and in your
+Sabbath."[^9] The reference to the Sabbath hints at the eschatological
+nature of the Baconian project. Throughout the old and new testaments,
+sharing in God's Sabbath rest refers to the overcoming of the curse
+placed upon humanity in the Garden of Eden. Consider Saint Augustine's
+reference to resting in "the sabbath of eternal life" in his
+*Confessions*, or the title of the concluding chapter of *The City of
+God*: "Of the Eternal Felicity of the City of God, and of the Perpetual
+Sabbath." For Augustine, *the* theologian of medieval Christendom, God's
+sabbath rest referred to the Heavenly City in the age to come: "After
+this present age God will rest, as it were, on the seventh day, and he
+will cause us, who are the seventh day, to find our rest in him."[^10]
 
 Bacon intends for his new method of science to give men the means of
 overcoming the struggle of existence that resulted from their fall from
@@ -120,9 +117,9 @@ fall, and redemption (or restoration). As we will see, these points are
 intimately related: it is only through the lens of Bacon's
 interpretation of creation, fall, and redemption that the importance of
 work and rest come into view. Put simply, I argue that we can read Bacon
-as using the Fall as a framing device, giving him an account of the
+as using the fall as a framing device, giving him an account of the
 origin of the greatest human difficulties and the categories by which he
-attempted to address them. With the Fall, mankind's original power over
+attempted to address them. With the fall, mankind's original power over
 nature was lost, such that great labour and toil -- that is, *work* --
 are required to preserve our fragile lives. Nature is resistant to human
 concerns, and even human nature itself is no longer fit to exercise its
@@ -134,12 +131,12 @@ labour-saving device that allows fallen men to discover the inner
 workings of nature in such a way that mankind's original power over
 nature can be regained.
 
-## The Fall of Man and the Increase of Labour
+**The Fall of Man and the Increase of Labour**
 
-Bacon's understanding of the Fall frames his scientific and political
+Bacon's understanding of the fall frames his scientific and political
 project, explaining why it is necessary and the way in which it can
 offer meaningful solutions. To see how, we must begin with his allusions
-to divine creation, the Fall, and the Sabbath rest. He ends his preface
+to divine creation, the fall, and the Sabbath rest. He ends his preface
 to [The Great Instauration]{.underline} with a prayer that, among other
 things, men may "extract\...from knowledge the poison infused by the
 serpent."[^11] He explains: knowledge itself was not the problem, but
@@ -165,27 +162,27 @@ able to implement an orderly and rational plan, they are met with a
 world full of "vanity and vexation of spirit." The world in which men
 live is meaningless and impossibly difficult to organize and manipulate.
 Because of this, Bacon concludes, "he has no rest."[^13] It is only by
-following scientific method outlined in [The Great
-Instauration]{.underline} that we can enter into the Sabbath rest we
-have been promised. This is obviously a this-worldly Sabbath, consisting
-of the convenient satisfaction of material wants. There is no explicit
-reference to the Fall, but it rings loudly in the undertones of this
-passage, especially insofar as the problem to be overcome is nature's
-resistance to human works and Man's inability to enjoy the Sabbath rest.
+following the scientific method outlined in *The Great Instauration*
+that we can enter into the Sabbath rest we have been promised. This is
+obviously a this-worldly Sabbath, consisting of the convenient
+satisfaction of material wants. There is no explicit reference to the
+fall, but it rings loudly in the undertones of this passage, especially
+insofar as the problem to be overcome is nature's resistance to human
+works and Man's inability to enjoy the Sabbath rest.
 
-These allusions to the Fall are augmented by an interesting source:
+These allusions to the fall are augmented by an interesting source:
 Bacon's personal confession of faith, which was not printed until years
 after his death. The date of composition is not known, though some date
-it to before Bacon's knighthood in 1603 -- and therefore relatively
+it to before Bacon's knighthood in 1603[^14] -- and therefore relatively
 early in his intellectual development.
 
 His confession of faith contains a lengthy discussion of God's character
 as creator. All things were made "in their first estate good," and
 governed by "constant and everlasting laws," to which Bacon gives the
-name *nature*. [^14] These perfect laws were altered as a result of the
-Fall, in a process Bacon describes as a *privation* of the original
+name *nature*. [^15] These perfect laws were altered as a result of the
+fall, in a process Bacon describes as a *privation* of the original
 virtue of creation and as a *revocation*. The primary effect of the
-Fall, therefore, is that the very laws of nature changed for the worse.
+fall, therefore, is that the very laws of nature changed for the worse.
 The world in which we now live lacks its original virtue, such that it
 is no longer conducive to our sharing in God's Sabbath rest. At this
 point in his confession there is yet no explicit statement of
@@ -194,13 +191,13 @@ like original sin (Augustine) or total depravity (Calvin). A few
 paragraphs later Bacon mentions the defacing of God's image in man, but
 interprets this merely in terms of man's ability to subdue nature. The
 image of God in man, or that which makes him like God, is his right over
-nature, he suggests. By introducing changes to the laws of nature that
-make it harder to subdue nature, man's God-given role as master of
-nature has been corrupted, or *defaced*, to use Bacon's term.
+nature, he thereby suggests. By introducing changes to the laws of
+nature that make it harder to subdue nature, man's God-given role as
+master of nature has been corrupted, or *defaced*, to use Bacon's term.
 
 At this point it is worth dwelling on an important difference between
-Bacon's theory of the Fall and what was common to prevailing theories of
-the time. Saint Augustine's [City of God]{.underline}, for example,
+Bacon's theory of the fall and what was common to prevailing theological
+views of the time. Saint Augustine's *City of God*, for example,
 interprets the fall of man in primarily moral terms. Through their
 initial act of disobedience Adam and Eve fell under the curse of
 original sin, which has been passed down to the entire human race. The
@@ -216,57 +213,57 @@ evil impulses and passions. Consider the following passage:
 > whatever he wished, just because he did not want to do whatever he
 > could not do\....For who can list all the multitude of things that is,
 > while his very mind and even his lower element, his flesh, do not
-> submit to his will?[^15]
+> submit to his will?[^16]
 
-The reformer John Calvin, despite his many disagreements with the
-Catholic Saint Augustine, also understood the effect of the fall in
+Nor was this moral conception of the fall unique to Catholic thought.
+The reformer John Calvin similarly understood the effects of the fall in
 moral terms:
 
 > Original sin, therefore, seems to be a hereditary depravity and
 > corruption of our nature, diffused into all the parts of the soul,
 > which first makes us liable to God's wrath, then also brings forth in
 > us those works which Scripture calls "works of the flesh" \[Gal.
-> 5:19\]. And that is properly what Paul often calls sin.[^16]
+> 5:19\]. And that is properly what Paul often calls sin.[^17]
 
-The prevailing Christian conception of the Fall, against which Bacon was
-writing, was that it introduced widespread *moral* corruption. As a
-result of Adam and Eve's disobedience, men became unavoidably sinful and
-hence subject to divine wrath and punishment. To the extent that this
-implied a loss of empire over nature, it was secondary to the moral
-calamity. Bacon's explanation of the Fall is in effect a reversal of
-this. He suggests that the primary effect of the Fall was a
+The conception of the fall accepted by the western church, against which
+Bacon was writing, was that it introduced widespread *moral* corruption.
+As a result of Adam and Eve's disobedience, men became unavoidably
+sinful and hence subject to divine wrath and punishment. To the extent
+that this implied a loss of empire over nature, it was secondary to the
+moral calamity. Bacon's explanation of the fall amounts to a reversal of
+these emphases. He suggests that the primary effect of the fall was a
 transformation of the laws of nature that rendered natural phenomena
 beyond human control. To the extent that there was a change in human
 nature, the most important effect was to affect man's ability to control
 nature, not primarily his impulses and passions. According to Bacon, the
 human situation sees men subject to a capricious and untameable nature,
 not necessarily a corrupted will. I do not deny that Bacon imputed a
-moral consequence to the Fall as well, referring as he does to man's
-loss of innocence.[^17] However, the lesser attention paid to the moral
-consequences of the Fall, as well as the fact that he typically only
+moral consequence to the fall as well, referring as he does to man's
+loss of innocence.[^18] However, the lesser attention paid to the moral
+consequences of the fall, as well as the fact that he typically only
 discusses it *after* explaining its effects on mankind's ability to
 control nature, indicate that the latter is the more significant
 outcome.
 
-This deeper investigation of Bacon's theory of the Fall corroborates and
-illuminates the way he uses it to frame his project in the [Great
-Instauration]{.underline}. The laws of nature have been corrupted in
-such a way that our natural right over nature is no longer possible. He
-is not only lamenting non-human nature's inherent patterns of behavior,
-but men's natural inclinations and modes of relating to the world. A
-prominent theme in the [New Organon]{.underline} is the uselessness of
-previous scientific approaches. Bacon traces these to human nature,
-which, in light of his confession of faith, we can think of as following
-the laws of behavior that have been corrupted by the Fall.
+This deeper investigation of Bacon's theory of the fall corroborates and
+illuminates the way he uses it to frame his project in *The Great
+Instauration*. The laws of nature have been corrupted in such a way that
+our natural right over nature is no longer possible. He is not only
+lamenting non-human nature's inherent patterns of behavior, but men's
+natural inclinations and modes of relating to the world. A prominent
+theme in *The New Organon* is the uselessness of previous scientific
+approaches. Bacon traces these to human nature, which, in light of his
+confession of faith, we can think of as following the laws of behavior
+that have been corrupted by the fall.
 
 Bacon traces the causes of error to four "idols:" those of the tribe,
-cave, marketplace, and theatre.[^18] Idols of the tribe are the elements
+cave, marketplace, and theatre.[^19] Idols of the tribe are the elements
 of human nature and intellect that impede the mind's access to truth.
 The mind is not a passive recipient of truth but allows its tendencies
 and preferences to corrupt discovery. Some examples of this natural
 tendency are the mind's inability to be content with uncaused brute
 facts, its desire to impose order and regularity on everything it
-observes, and to impose human purposes on nature.[^19] In short, it is
+observes, and to impose human purposes on nature.[^20] In short, it is
 human nature for men to see what they want to see, and thus the unaided
 intellect is not a reliable guide to truth.
 
@@ -277,7 +274,7 @@ contrast, are those particular influences on each individual that stand
 in the way of an accurate
 
 understanding of nature. Some people are affected by education,
-upbringing, or chance events[^20]
+upbringing, or chance events[^21]
 
 so as to develop a taste for either novelty or tradition, logic or
 observation, or become attuned to either differences or similarities.
@@ -286,7 +283,7 @@ possible by the nature common to all men, so the idols of the cave
 should be understood as *particular* effects of the *universal* idols of
 the tribe.
 
-The idols of the marketplace[^21] are the results of communication and
+The idols of the marketplace[^22] are the results of communication and
 life together,
 
 especially language. Words, which are the primary means of understanding
@@ -295,7 +292,7 @@ nature, can never
 accurately reflect it and thus have a tendency to lead us astray.
 Harmful words are those that refer to things that do not exist or
 misrepresent the nature of things. "First mover" is given as an example
-of the first kind, and "wet" as an example of the second.[^22]
+of the first kind, and "wet" as an example of the second.[^23]
 
 The fourth set of idols, those of the theatre, explicitly refers to
 mistaken philosophies and rules of proof, but a careful look shows that
@@ -314,21 +311,21 @@ Aristotle's entire undertaking was hopeless.
 Bacon's critique of the idols is important to the argument of this
 chapter for two reasons. It points *towards* important elements of his
 inductive method, which will be discussed below, but it does not only do
-that. It also points *back* towards the Fall. As a result of the Fall,
+that. It also points *back* towards the fall. As a result of the fall,
 human and non-human nature became subject to different natural laws. If
 we take seriously Bacon's attribution of the name "nature" to the laws
 governing the behavior of natural objects, we can say that the very
 "natures" of things changed. Human nature -- i.e. the way humans behave
-*naturally* -- has been corrupted by the Fall in important ways that
+*naturally* -- has been corrupted by the fall in important ways that
 render men unable to exercise their right over the rest of creation. His
 doctrine of the idols can therefore be read as his account of what this
 looks like in the actual practice of investigating nature. As we will
-see below, in the [New Organon]{.underline}'s account of all hitherto
-scientific practice it is akin to blind wanderings that occasionally
-happen upon a truth or a useful discovery. It is not due to the skill or
-method of the inquirers, but dumb luck.
+see below, in *The New Organon*'s account of all hitherto scientific
+practice it is akin to blind wanderings that occasionally happen upon a
+truth or a useful discovery. It is not due to the skill or method of the
+inquirers, but dumb luck.
 
-## Baconian Method as a Labour-Saving Device
+**Baconian Method as a Labour-Saving Device**
 
 The image of blind wanderings is not the only one Bacon uses to
 highlight the difference between his method and previous modes of
@@ -342,7 +339,7 @@ moved unless tools or mechanical devices are devised that can channel
 and multiply human strength in the proper ways and towards the desired
 end. *Tools*, not *strength*, will allow men to accomplish the task. In
 so many words, this is Bacon's vision for how his scientific method will
-unlock the hidden secrets of nature. Due to the Fall's corruption of
+unlock the hidden secrets of nature. Due to the fall's corruption of
 human and non-human nature, men cannot sufficiently know the inner
 workings of nature to exercise their right over it. What is needed is a
 tool to channel their energies and prevent them from falling subject to
@@ -358,14 +355,14 @@ to see how his scientific method was designed to facilitate mastery.
 We can best grasp the logic of Bacon's ontology by beginning with his
 statement of "the task and purpose of human Power," which is "to
 generate and superinduce on a given body a new nature or new
-natures."[^23] The [New Organon]{.underline} reinterprets nature as a
-collection of bodies that behave and take on attributes in accordance
-with laws of nature. These laws, once understood, can be harnessed to
-bring about desired effects. It should be stressed that it is not
-particularly important for Bacon *why* the laws of nature are what they
-are or *how* a particular law brings about a certain effect; the
-important thing to understand is *that* a certain cause has the effects
-that it does.
+natures."[^24] *The New Organon* reinterprets nature as a collection of
+bodies that behave and take on attributes in accordance with laws of
+nature. These laws, once understood, can be harnessed to bring about
+desired effects. It should be stressed that it is not particularly
+important for Bacon *why* the laws of nature are what they are or *how*
+a particular law brings about a certain effect; the important thing to
+understand is simply *that* a certain cause has the effects that it
+does.
 
 In addition to speaking of nature as the realm over which man must
 exercise his right of dominion, Bacon speaks of simple and compound
@@ -374,7 +371,7 @@ texture, and solidity. Compound natures are substances themselves,
 understood by Bacon as combinations of simple natures. The element gold,
 for example, is a compound nature consisting of the simple natures
 "tawny-coloured," "heavy with a certain weight," "not volatile," and so
-on.[^24] The implication here is that a thing is nothing but a
+on.[^25] The implication here is that a thing is nothing but a
 collection of attributes. Compound natures are brought together by the
 various laws of act -- Bacon's term for laws of behavior -- that create
 the desired individual simple natures. It follows that knowing the laws
@@ -382,8 +379,8 @@ of act allows one to create any new compound nature. Bacon calls this
 his first axiom of the transformation of bodies.
 
 His second axiom "penetrat\[es\] into the secret recesses of things," to
-quote Carolyn Merchant.[^25] Nature consists of simple and compound
-natures, both of which are eminently observable, but also of what he
+quote Carolyn Merchant.[^26] Nature consists of simple and compound
+natures, both of which are eminently observable, but also of what Bacon
 calls latent processes and structures. Beneath the physical attributes
 that we perceive are hidden motions of unobservable elementary
 particles, of which the simple natures are merely epiphenomenal. Rather
@@ -407,7 +404,7 @@ nature herself produces compound natures (second axiom).
 
 Bacon's inductive method is crafted to suit the goal of human power,
 quoted above as the ability "to generate and superinduce on a given body
-a new nature or new natures."[^26] That is, it is not designed to
+a new nature or new natures."[^27] That is, it is not designed to
 understand the logic connecting various causes and effects, or how all
 things work together to create a well-order cosmos, but only to generate
 the knowledge required to make nature do what men want it to do. The
@@ -418,25 +415,25 @@ presence or absence of simple natures. The goal is to find the necessary
 and sufficient causes of each, and to eliminate spurious causes. Bacon
 demonstrates its use by meticulously enumerating every known natural
 occurring instance of heat; this is called the "table of existence and
-presence."[^27] His next step is to enumerate a list of instances that
+presence."[^28] His next step is to enumerate a list of instances that
 are similar to these but do not produce heat; this is the "table of
-divergence, or of closely related absences."[^28] Whereas the table of
+divergence, or of closely related absences."[^29] Whereas the table of
 existence and presence includes the *sun's* rays, the second table notes
-the fact that the *moon's* rays do not provide heat. This narrows down
-the source of heat by indicating that not all rays of light from
-heavenly bodies are hot.
+-- incorrectly, as is now known -- the fact that the *moon's* rays do
+not provide heat. This narrows down the source of heat by indicating
+that not all rays of light from heavenly bodies are hot.
 
-The third table -- the "table of degrees"[^29] -- records instances in
+The third table -- the "table of degrees"[^30] -- records instances in
 which the nature is present either potentially or to a certain degree.
 Bacon's reason for enumerating these instances is that "a nature is not
 accepted as a true form \[i.e. cause\] unless it always decreases when
 the nature itself decreases, and likewise always increases when the
-nature itself increases."[^30] For example, he distinguishes between the
+nature itself increases."[^31] For example, he distinguishes between the
 extreme heat of fires and the mild warmth of living creatures.
 Enumerating greater and lesser degrees of a given nature provides even
 greater specificity in correlating it with prior causes. These three
 tables constitute the first stage of Bacon's method, the "presentation
-of instances to the intellect."[^31] They indicate that he is looking
+of instances to the intellect."[^32] They indicate that he is looking
 for things, events, or conditions that are perfectly correlated with
 heat. The three tables together enumerate the instances of heat, the
 closely related absences of heat, and conditions of greater and lesser
@@ -445,7 +442,7 @@ heat.
 The next task is to "exclude" all natures or instances that do not
 correlate with the nature under investigation. This exclusion, or
 elimination, of all spurious causes is the basis of Stephen Gaukroger's
-term "eliminative induction."[^32] Because the goal is exact
+term "eliminative induction."[^33] Because the goal is exact
 correlation, natures that increase when the given nature decreases, or
 vice versa, are to be excluded. For the effect *heat*, he rejects
 natures such as heavenly nature, light, texture, and rarity, since there
@@ -455,7 +452,7 @@ these is not.
 The goal, as we have seen, is knowledge of laws of act or behavior.
 Bacon is here inferring causality from perfect correlation, and at one
 point he claims that a single falsifying instance is enough to disprove
-a causal law.[^33] Precise knowledge of each and every instance that has
+a causal law.[^34] Precise knowledge of each and every instance that has
 a correlative relationship with a given nature is as good as knowledge
 of the causes of that nature. Viewed from within the goal of
 manipulating natural processes, perfect correlation is all that is
@@ -464,7 +461,7 @@ necessary.
 To connect this lengthy discussion of his scientific method to the
 argument of this chapter, I will briefly consider some of the images
 through which Bacon depicts his method. Recalling the prior discussion
-of the Fall and the four idols, the method of eliminative induction was
+of the fall and the four idols, the method of eliminative induction was
 explicitly designed to make up for man's natural (more accurately, we
 could say, post-fall) inability to adequately understand nature's inner
 workings. The specific ways in which it makes up for this inability is
@@ -472,16 +469,16 @@ presented in the following ways.
 
 At many points he refers to the method as an aid to the senses: "Neither
 the bare hand nor the unaided intellect has much power; the work is done
-by tools and assistance."[^34] This means at least two things. First,
+by tools and assistance."[^35] This means at least two things. First,
 knowledge of unobservable latent structures cannot be gained by unaided
 observation alone, but is best attained by making nature undergo "the
-trials and vexations of art."[^35] It is only by putting nature in
+trials and vexations of art."[^36] It is only by putting nature in
 certain positions and subjecting it to particular pressures that can we
 exact the kind of knowledge of it that can be made useful. Second, the
 method of strictly recording all presences and absences assists the
 intellect in forming proper conclusions from what is observed and
 recorded. We can put this another way by saying that Bacon's method
-provides assistance to the understanding by *regulating* it.[^36]
+provides assistance to the understanding by *regulating* it.[^37]
 
 It regulates by imposing harsh rules. That is, even though his method
 will liberate mankind by opening up new possibilities for innovation and
@@ -489,14 +486,14 @@ thereby unleashing human potential, it does this by imposing strict
 constraints on what is inferred from what we observe. He makes this
 point with an oft-repeated image of the scientist as a blind wanderer,
 collecting observations as they suit his fancy but lacking an orderly
-schema or set of rules to guide him towards useful observations.[^37]
+schema or set of rules to guide him towards useful observations.[^38]
 Such a person may chance upon a true or useful discovery, but an
 organized plan of regulating and tabulating observations is much more
-likely to produce reliable knowledge of the laws of act.[^38]
+likely to produce reliable knowledge of the laws of act.[^39]
 
 Perhaps the most memorable piece of imagery to this effect is Bacon's
 statement that "we do not need to give men's understanding wings, but
-rather lead and weights, to check every leap and flight."[^39] As we
+rather lead and weights, to check every leap and flight."[^40] As we
 recall from the four idols, a natural inclination is to immediately jump
 from a few observations to metaphysical flights of fancy like innate
 purposes and forms. Bacon's method, by contrast, forces the scientist to
@@ -507,21 +504,20 @@ gather observations in an orderly manner and to avoid large inferences
 from a small dataset.
 
 A similar way of making the same point is Bacon's comparison of his
-method to a road. If the imagery of lead and weights is used to
-highlight the superiority of Bacon's method to Aristotle's method of
-natural inquiry (which it explicitly is), the road imagery serves the
-rhetorical purpose of downplaying Bacon's claim to intellectual
-superiority. His method is a particular road, as was Aristotle's;
-moreover, one's ability to reach the destination is more a function of
-the road taken than the skill of the traveller. In the preface to the
-[New Organon]{.underline}, Bacon writes that "if we maintained that we
-achieve better results than the ancients while following the same road
-as they, we should not by any skill with words be able to avoid setting
-up a comparison or contest in intellectual capacity or excellence."[^40]
-The very title of the [New Organon]{.underline} -- that is, the
-replacement of Aristotle's organon -- signals that Bacon is in fact
-setting up a contest between himself and the ancients. It is not a
-contest of *intelligence*, though, but of *tools or instruments*. The
+method to a road. The imagery of lead and weights is used to highlight
+the superiority of Bacon's method to Aristotle's method of natural
+inquiry; the road imagery serves the rhetorical purpose of downplaying
+Bacon's claim to intellectual superiority. His method is a particular
+road, as was Aristotle's; moreover, one's ability to reach the
+destination is more a function of the road taken than the skill of the
+traveller. In the preface to *The New Organon*, Bacon writes that "if we
+maintained that we achieve better results than the ancients while
+following the same road as they, we should not by any skill with words
+be able to avoid setting up a comparison or contest in intellectual
+capacity or excellence."[^41] The very title of *The New Organon* --
+that is, the replacement of Aristotle's organon -- signals that Bacon is
+in fact setting up a contest between himself and the ancients. It is not
+a contest of *intelligence*, though, but of *tools or instruments*. The
 main selling point of Bacon's method is that, like any tool or
 labour-saving device, it can be put to good use by almost anyone
 regardless of intelligence. Bacon thus makes the success of the modern
@@ -539,8 +535,8 @@ first created light and brought order to the universe, and only then
 created tangible and useful things. The highly regularized way in which
 his method constrains the intellect -- with "lead and weights," as it
 were -- produces many insights which have no direct practical use but
-serve to guide future researchers towards experiments that will produce
-useful knowledge.
+serve to guide future researchers towards experiments that *will*
+produce useful knowledge.
 
 The consequences of faithfully following his method are summed up in the
 opening parable of many strong men failing to move a heavy obelisk.
@@ -550,7 +546,7 @@ between human intellectual capacity, his scientific method, and its
 character as a labour-saving device. Bacon does not in this example
 describe the hypothetical "tools or machines" (p. 29) he imagines moving
 the obelisk, but it is not out of the question that something like
-pulleys or wedges would fit the bill.[^41] Common to simple machines
+pulleys or wedges would fit the bill.[^42] Common to simple machines
 like these is the concept of mechanical advantage, or the amplification
 of force. By the effective use of gear ratios or similar means, a normal
 amount of force can move an immense weight a small distance or a small
@@ -563,16 +559,16 @@ moving an obelisk by hand. However, by forcing scientists to remain
 within a carefully prescribed series of experiments, tabulations, and
 observations, slow and steady progress may be made towards unleashing
 the full power of nature in order to remove the burden of work brought
-on by the Fall.
+on by the fall.
 
-## Conclusion
+**Conclusion**
 
 This chapter has attempted to deepen our understanding of Bacon's
 project of technological mastery. It takes as its starting point the
 common view that Bacon was instrumental in laying the groundwork for
 modern technological science as we know it. It does not address the
 dispute over whether modern science has produced more harm than good,
-important as that question is.[^42] Rather, it has sought to shed light
+important as that question is.[^43] Rather, it has sought to shed light
 on the importance of a theme that never received a systematic discussion
 in any of Bacon's scientific works yet remains impossible for the
 careful reader to ignore. The biblical themes of creation, fall, and the
@@ -587,8 +583,8 @@ increased the amount of work required to conquer nature; Bacon's
 charitable desire for scientific knowledge can reduce the burden of work
 and allow the human race to enter into God's promised Sabbath rest. That
 the curse of the fall is the main problem to overcome is borne out by
-the final sentences of the [New Organon]{.underline}, which in closing I
-quote at length:
+the final sentences of *The New Organon*, which in closing I quote at
+length:
 
 > For by the Fall man declined from the state of innocence and from his
 > kingdom over the creatures. Both things can be repaired even in this
@@ -598,164 +594,165 @@ quote at length:
 > of thy face shalt thou eat bread', man, by manifold labours (and not
 > by disputations, certainly, or by useless magical ceremonies), compels
 > the creation, in time and in part, to provide him with bread, that is,
-> to serve the purposes of human life.[^43]
+> to serve the purposes of human life.[^44]
 
-[^1]: Stephen Gaukroger, [Francis Bacon and the Transformation of
-    Early-Modern Philosophy]{.underline} (Cambridge: Cambridge
-    University Press 2001); John Henry, [Knowledge is Power: How Magic,
-    the Government and an Apocalyptic Vision inspired Francis Bacon to
-    create Modern Science]{.underline} (Cambridge: Icon Books 2003).
+[^1]: Stephen Gaukroger, *Francis Bacon and the Transformation of
+    Early-Modern Philosophy* (Cambridge: Cambridge University Press,
+    2001); John Henry, *Knowledge is Power: How Magic, the Government
+    and an Apocalyptic Vision inspired Francis Bacon to create Modern
+    Science* (Cambridge: Icon Books, 2003).
 
-[^2]: See, for example, F.H. Anderson, [The Philosophy of Francis
-    Bacon]{.underline} (Chicago: University of Chicago Press 1948),
-    quoted in Benjamin Farrington, [The Philosophy of Francis
-    Bacon]{.underline} (Chicago: University of Chicago Press 1964), 16.
+[^2]: See, for example, F.H. Anderson, *The Philosophy of Francis Bacon*
+    (Chicago: University of Chicago Press, 1948), quoted in Benjamin
+    Farrington, *The Philosophy of Francis Bacon* (Chicago: University
+    of Chicago Press, 1964), 16.
 
 [^3]: Straussian commentaries are manifold, but the following are
-    emblematic of this approach: Richard Kennington, [On Modern Origins:
-    Essays on Early Modern Philosophy]{.underline}, Edited by Pamela
-    Krauss and Frank Hunt (Lanham: Lexington Books 2004), Laurence
-    Lampert, [Nietzsche and Modern Times: A Study of Bacon, Descartes,
-    and Nietzsche]{.underline} (New Haven: Yale University Press 1993),
-    and Robert K. Faulkner, [Francis Bacon and the Project of
-    Progress]{.underline} (Lanham: Rowman & Littlefield Publishers
-    1993).
+    emblematic of this approach: Richard Kennington, *On Modern Origins:
+    Essays on Early Modern Philosophy*, Edited by Pamela Krauss and
+    Frank Hunt (Lanham: Lexington Books, 2004), Laurence Lampert,
+    *Nietzsche and Modern Times: A Study of Bacon, Descartes, and
+    Nietzsche* (New Haven: Yale University Press, 1993), and Robert K.
+    Faulkner, *Francis Bacon and the Project of Progress* (Lanham:
+    Rowman & Littlefield Publishers, 1993).
 
-[^4]: Faulkner, [Francis Bacon]{.underline}, 226.
+[^4]: Faulkner, *Francis Bacon*, 226.
 
-[^5]: Stephen A. McKnight, [The Religious Foundations of Francis Bacon's
-    Thought]{.underline} (Columbia: University of Missouri Press 2006).
-    See also Kennington, [On Modern Origins]{.underline}, 1-14, for an
-    interpretation of Bacon's scientific project that pays attention to
-    his use of the bible.
+[^5]: Stephen A. McKnight, *The Religious Foundations of Francis Bacon's
+    Thought* (Columbia: University of Missouri Press, 2006). See also
+    Kennington, *On Modern Origins*, 1-14, for an interpretation of
+    Bacon's scientific project that pays attention to his use of the
+    bible.
 
-[^6]: White, [Peace Among the Willows]{.underline}; Weinberger,
-    [Science, Faith, and Politics]{.underline}.
+[^6]: Howard B. White, *Peace Among the Willows: The Political
+    Philosophy of Francis Bacon* (The Hague: Martinus Nijhoff, 1968);
+    Jerry Weinberger, *Science, Faith, and Politics: Francis Bacon and
+    the Utopian Roots of the Modern Age* (Ithica: Cornell University
+    Press, 1985).
 
-[^7]: Francis Bacon, [The New Organon]{.underline}, Edited by Lisa
-    Jardine and Michael Silverthorne (Cambridge: Cambridge University
-    Press 2000 \[1620\]), 24.
+[^7]: Francis Bacon, *The New Organon*, Edited by Lisa Jardine and
+    Michael Silverthorne (Cambridge: Cambridge University Press 2000
+    \[1620\]), 24.
 
 [^8]: Ibid.
 
 [^9]: Ibid.
 
-[^10]: Saint Augustine, [Confessions]{.underline}, Translated by Henry
-    Chadwick (Oxford: Oxford University Press 1998 \[400\]), 8.51; Saint
-    Augustine, [City of God]{.underline}, Translated by Henry Bettenson
-    (London: Penguin Books 2003 \[427\]), 1091.
+[^10]: Saint Augustine, *Confessions*, Translated by Henry Chadwick
+    (Oxford: Oxford University Press 1998 \[400\]), 8.51; Saint
+    Augustine, *The City of God*, Translated by Henry Bettenson (London:
+    Penguin Books 2003 \[427\]), 1091.
 
-[^11]: Bacon, [New Organon]{.underline}, 12.
+[^11]: Bacon, *The New Organon*, 12.
 
-[^12]: See also in Bacon's [Advancement of Learning]{.underline}
-    \[1605\]: "The first acts which man performed in paradise \[that is,
-    before the Fall\] consisted of the two summary parts of knowledge;
-    the view of creatures, and the imposition of names." Francis Bacon,
-    [The Major Works]{.underline}, Edited by Brian Vickers (Oxford:
-    Oxford University Press 2002), 149-150.
+[^12]: See also in Bacon's *Advancement of Learning* \[1605\]: "The
+    first acts which man performed in paradise \[that is, before the
+    fall\] consisted of the two summary parts of knowledge; the view of
+    creatures, and the imposition of names." Francis Bacon, *The Major
+    Works*, Edited by Brian Vickers (Oxford: Oxford University Press
+    2002), 149-150.
 
-[^13]: Bacon, [New Organon]{.underline}, 24.
+[^13]: Bacon, *The New Organon*, 24.
 
-[^14]: Bacon, [Major Works]{.underline}, 108. It is worth noting here
-    that this depiction of the world as being composed of material
-    objects acting according to external laws of nature is significantly
-    different than the classical teleological view. This component of
-    Bacon's thought is beyond the scope of this chapter but is
-    nevertheless worth drawing attention to.
+[^14]: Brian Vickers' editorial note to "A Confession of Faith" in
+    Francis Bacon, *The Major Works*, Edited by Brian Vickers (Oxford:
+    Oxford University Press 2002), 560.
 
-[^15]: Saint Augustine, [City of God]{.underline}, 575. Obviously this
-    is not a complete account of Augustine's theory of original sin. For
-    more, the reader is referred to *City of God* books XIII-XIV,
+[^15]: Bacon, *The Major Works*, 108. It is worth noting here that this
+    depiction of the world as being composed of material objects acting
+    according to external laws of nature is significantly different than
+    the classical teleological view. This component of Bacon's thought
+    is beyond the scope of this chapter but is nevertheless worth
+    drawing attention to.
+
+[^16]: Saint Augustine, *The City of God*, 575. Obviously this is not a
+    complete account of Augustine's theory of original sin. For more,
+    the reader is referred to *City of God* books XIII-XIV,
     *Confessions* Book VIII. ix-xi, and William E. Mann, "Augustine on
-    Evil and Original Sin," in [The Cambridge Companion to
-    Augustine]{.underline}, Edited by Eleonore Stump and Norman
-    Kretzmann. (Cambridge: Cambridge University Press 2001), 40-48.
+    Evil and Original Sin," in *The Cambridge Companion to Augustine*,
+    Edited by Eleonore Stump and Norman Kretzmann. (Cambridge: Cambridge
+    University Press 2001), 40-48.
 
-[^16]: John Calvin, [Institutes of the Christian Religion, volume
-    one]{.underline}, Translated by Ford Lewis Battles (Louisville:
-    Westminster John Knox Press 2006 \[1559\]), 251.
+[^17]: John Calvin, *Institutes of the Christian Religion, volume one*,
+    Translated by Ford Lewis Battles (Louisville: Westminster John Knox
+    Press 2006 \[1559\]), 251.
 
-[^17]: McKnight regular describes Bacon's project as concerning "the
-    relation of humanity to nature and to God." McKnight, [Religious
-    Foundations,]{.underline} 46-47. This dual emphasis on man's
+[^18]: McKnight regular describes Bacon's project as concerning "the
+    relation of humanity to nature and to God." McKnight, *Religious
+    Foundations*[,]{.underline} 46-47. This dual emphasis on man's
     reconciliation to nature (through technology) and God (through
     Christian salvation) is a repeated theme in McKnight's work.
 
-[^18]: Bacon, [New Organon]{.underline} 1.29-30. All references to the
-    [New Organon]{.underline} itself, as opposed to the various
-    introductory materials included with it, are to the book and
-    aphorism number.
+[^19]: Bacon, *The New Organon* 1.29-30. All references to *The New
+    Organon* itself, as opposed to the various introductory materials
+    included with it, are to the book and aphorism number.
 
-[^19]: Bacon, [New Organon]{.underline}, 1.45-50.
+[^20]: Bacon, *The New Organon*, 1.45-50.
 
-[^20]: Bacon, [New Organon]{.underline} 1.53.
+[^21]: Bacon, *The New Organon* 1.53.
 
-[^21]: Jardine and Silverthorne point out in a textual note that
+[^22]: Jardine and Silverthorne point out in a textual note that
     "marketplace," despite being the traditional translation,
 
     obscures the meaning. A more literal term would be "forum" or
     "townsquare": "the place where men meet and talk
 
-    and reinforce each others' 'idols'." Bacon, [New
-    Organon]{.underline}, 48n20.
+    and reinforce each others' 'idols'." Bacon, *The New Organon*,
+    48n20.
 
-[^22]: Bacon, [New Organon]{.underline}, 1.60.
+[^23]: Bacon, *The New Organon*, 1.60.
 
-[^23]: Bacon, [New Organon]{.underline}, 2.1.
+[^24]: Bacon, *The New Organon*, 2.1.
 
-[^24]: Bacon, [New Organon]{.underline}, 2.5.
+[^25]: Bacon, *The New Organon*, 2.5.
 
-[^25]: Carolyn Merchant, [Autonomous Nature: Problems of Prediction and
-    Control from Ancient Times to the Scientific Revolution]{.underline}
-    (New York: Routledge 2015), 91.
+[^26]: Carolyn Merchant, *Autonomous Nature: Problems of Prediction and
+    Control from Ancient Times to the Scientific Revolution* (New York:
+    Routledge 2015), 91.
 
-[^26]: Bacon, [New Organon]{.underline}, 2.1.
+[^27]: Bacon, *The New Organon*, 2.1.
 
-[^27]: Bacon, [New Organon]{.underline}, 2.11.
+[^28]: Bacon, *The New Organon*, 2.11.
 
-[^28]: Bacon, [New Organon]{.underline}, 2.12.
+[^29]: Bacon, *The New Organon*, 2.12.
 
-[^29]: Bacon, [New Organon]{.underline}, 2.13.
+[^30]: Bacon, *The New Organon*, 2.13.
 
-[^30]: Bacon, [New Organon]{.underline}, 2.13.
+[^31]: Bacon, *The New Organon*, 2.13.
 
-[^31]: Bacon, [New Organon]{.underline}, 2.15.
+[^32]: Bacon, *The New Organon*, 2.15.
 
-[^32]: Gaukroger, [Francis Bacon]{.underline}, 138.
+[^33]: Gaukroger, *Francis Bacon*, 138.
 
-[^33]: Bacon, [New Organon]{.underline}, 2.18.
+[^34]: Bacon, *The New Organon*, 2.18.
 
-[^34]: Bacon, [New Organon]{.underline}, 1.2; see also 1.21, 1.67,
-    1.126.
+[^35]: Bacon, *The New Organon*, 1.2; see also 1.21, 1.67, 1.126.
 
-[^35]: Bacon, as quoted in Merchant, [Autonomous Nature]{.underline},
-    81.
+[^36]: Bacon, as quoted in Merchant, *Autonomous Nature*, 81.
 
-[^36]: Bacon, [New Organon]{.underline}, 1.126.
+[^37]: Bacon, *The New Organon*, 1.126.
 
-[^37]: Bacon, [New Organon]{.underline}, 1.82.
+[^38]: Bacon, *The New Organon*, 1.82.
 
-[^38]: Bacon, [New Organon]{.underline}, 1.47, 1.70, 1.73, 1.108, 1.126.
+[^39]: Bacon, *The New Organon*, 1.47, 1.70, 1.73, 1.108, 1.126.
 
-[^39]: Bacon, [New Organon]{.underline}, 1.104.
+[^40]: Bacon, *The New Organon*, 1.104.
 
-[^40]: Bacon, [New Organon]{.underline}, p. 29; see also 1.61, 1.76,
-    1.82.
+[^41]: Bacon, *The New Organon*, p. 29; see also 1.61, 1.76, 1.82.
 
-[^41]: Bacon, [New Organon]{.underline}, p. 29.
+[^42]: Bacon, *The New Organon*, p. 29.
 
-[^42]: This itself would require a lengthy treatment, beginning with the
+[^43]: This itself would require a lengthy treatment, beginning with the
     effects of particular technological devices, leading into a treating
     of the overall ecological effect of modern technology, and
     culminating in a reflection on the ontological transformations
     ushered in by technological thinking. The reader is directed to the
-    following sources: Carolyn Merchant, [Autonomous
-    Nature]{.underline}; C.S. Lewis, [The Abolition of Man]{.underline}
-    (New York: Simon & Schuster 1996 \[1994\]); Martin Heidegger, [The
-    Question Concerning Technology and other Essays,]{.underline}
-    Translated by William Lovitt (New York: Harper 1977); George Grant,
-    [English-Speaking Justice]{.underline} (Toronto: House of Anansi
-    Press 1974) & [Technology and Justice]{.underline} (Concord: House
-    of Anansi Press 1986).
+    following sources: Carolyn Merchant, *Autonomous Nature*; C.S.
+    Lewis, *The Abolition of Man* (New York: Simon & Schuster 1996
+    \[1994\]); Martin Heidegger, *The Question Concerning Technology and
+    other Essays*[,]{.underline} Translated by William Lovitt (New York:
+    Harper 1977); George Grant, *English-Speaking Justice* (Toronto:
+    House of Anansi Press 1974) & *Technology and Justice* (Concord:
+    House of Anansi Press 1986).
 
-[^43]: Bacon, [New Organon]{.underline}, 2.52.
+[^44]: Bacon, *The New Organon*, 2.52.
