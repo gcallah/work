@@ -38,6 +38,25 @@ work, in the sense of toil, but also discusses the messianic and apostolic work 
 it recognises the work of God the Father in the crucifixion and resurrection of Jesus. By 'faith' the Christian
 tradition did not disparage work: on the contrary, it asked Christians to trust in work, the work of God.
 
+
+## Francis Bacon
+
+Nature, in the modern imaginary, is an obstacle to human well-being and is therefore the subject of human power and
+technological innovation. Francis Bacon (1561-1626) was a principal architect of this modern understanding of nature.
+This chapter will pay special attention to one element that played a particularly important role in how Bacon came to
+understand nature's resistance to human concerns, on the one hand, and the way in which something could be done about
+it: the Judeo-Christian concept of the fall of man (as chronicled in Genesis 3).
+
+When we pay close attention to Bacon's historico-theological framing device of the fall of man, we see that the
+central problem of human existence is the fact that man has lost his dominion over nature such that work, and not
+rest, is his constant mode. Men must work to toil the ground and are in constant search for labour-saving devices to
+reduce the amount of work required to satisfy their material needs. To make matters worse, the dominant approach to
+natural inquiry has proved unable to produce technological fruit. However, if there were a method of natural inquiry
+that could more effectively enable us to manipulate nature for our benefit, we might be able to enter into God's
+sabbath rest, for which we were originally created. This, I shall attempt to argue, is Bacon's view.
+
+
+
 ## Hegel
 
 Hegel's daunting complexity and abstraction can obscure that labor—engagement with the physical, material world—plays a
