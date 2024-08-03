@@ -70,6 +70,24 @@ for human self-consciousness before proceeding to an analysis of its role in the
 Philosophy of Right. There, we shall see Hegel's analysis of a labor both embedded in civil society and under threat
 from the market.
 
+## Edith Stein (1891-1942)
+
+The category of "women's work" enriches a thorough intellectual history of the idea of work. Contributing this
+perspective, this chapter explores the writings of philosopher and saint Edith Stein. Her understanding of vocation
+integrated elements of "[n]ature, freedom, and grace."  This meant that while a person's work depends on the (sexed)
+nature of the person, gender roles are not the simple answer to organizing work. Indeed, "vocation is also something
+personal," and "the specific nature of the individual must be considered."  Thus, freedom enters the equation, before
+finally, the grace of God sanctifies and encourages the trials and triumphs of work. This chapter proceeds according to
+this three-part understanding. 
+
+Because, for Stein, nature was a determinant in defining the work of women, Stein on woman's nature and her
+corresponding views on girls' education are examined first. Next, this chapter turns to the category of freedom, which
+informs Stein's exploration of women's vocations and professions, which, according to Stein, are tied to natural
+tendencies, but preferences, temperament, and choice are also factors. A final, shorter section addresses how Stein saw
+grace, prayer, and sacraments as fortifying work. The chapter concludes by linking the theme of women's work to one of
+Stein's other intellectual interests – the phenomenology of empathy. 
+
+
 ## Arendt
 
 Rebel, refugee, and political thinker, Hannah Arendt (1906-1975) is
