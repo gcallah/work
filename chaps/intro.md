@@ -39,6 +39,24 @@ it recognises the work of God the Father in the crucifixion and resurrection of 
 tradition did not disparage work: on the contrary, it asked Christians to trust in work, the work of God.
 
 
+## Martin Luther (1483-1546)
+
+In 1530, in Wittenberg, Luther held a mid-week sermon series (lectio continua) on the Sermon on the Mount,  including
+the Beatitudes, the sixth statement of which reads as follows: "Blessed are the pure in heart, for they will see God."
+(Mt 5:8) But who are the pure in heart who will see God? Luther's commentary confused his audience just as much as it
+does today's readers because it goes against the natural way of thinking; according to which, a person with a pure heart
+is one who can keep himself away from the world's filth and can live a contemplative life, during which only divine
+things occupy his attention. Contrasting the filthy world and pure spirituality was as natural in the 16th century as it
+is in the early 21st century - even if for partly different reasons. Contrary to it, Luther tells the citizens of
+Wittenberg the following: the only thing that can be achieved with a contemplative life away from the world is that the
+heart becomes impure; the person falls into ungodliness because he is driven by his own – as Luther explains it –
+imaginations and dreams. If someone wants to be pure in heart, he can achieve it not by turning away from, but by
+turning towards the world, by living in it. Luther takes this so seriously that the blacksmith and the cobbler who reek
+of tar and pitch, and the servant who walks in filth up to his neck and even shovels dung become the paradigm of a
+pure-hearted person for him. Does the smell of these manual laborers repel us? As it turns out, they are the
+pure-hearted ones.  In my study, I investigate this surprise and ask: How can the dung-shovelling maid become the
+paradigm of a believer for Luther?
+
 ## Francis Bacon
 
 Nature, in the modern imaginary, is an obstacle to human well-being and is therefore the subject of human power and
