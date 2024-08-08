@@ -57,7 +57,7 @@ pure-hearted person for him. Does the smell of these manual laborers repel us? A
 pure-hearted ones.  In my study, I investigate this surprise and ask: How can the dung-shovelling maid become the
 paradigm of a believer for Luther?
 
-## Francis Bacon
+## Francis Bacon (1561-1626)
 
 Nature, in the modern imaginary, is an obstacle to human well-being and is therefore the subject of human power and
 technological innovation. Francis Bacon (1561-1626) was a principal architect of this modern understanding of nature.
@@ -65,13 +65,13 @@ This chapter will pay special attention to one element that played a particularl
 understand nature's resistance to human concerns, on the one hand, and the way in which something could be done about
 it: the Judeo-Christian concept of the fall of man (as chronicled in Genesis 3).
 
-When we pay close attention to Bacon's historico-theological framing device of the fall of man, we see that the
-central problem of human existence is the fact that man has lost his dominion over nature such that work, and not
-rest, is his constant mode. Men must work to toil the ground and are in constant search for labour-saving devices to
-reduce the amount of work required to satisfy their material needs. To make matters worse, the dominant approach to
-natural inquiry has proved unable to produce technological fruit. However, if there were a method of natural inquiry
-that could more effectively enable us to manipulate nature for our benefit, we might be able to enter into God's
-sabbath rest, for which we were originally created. This, I shall attempt to argue, is Bacon's view.
+When we pay close attention to Bacon's historico-theological framing device of the fall of man, we see that the central
+problem of human existence is the fact that man has lost his dominion over nature such that work, and not rest, is his
+constant mode. Men must work to toil the ground and are in constant search for labor-saving devices to reduce the amount
+of work required to satisfy their material needs. To make matters worse, the dominant approach to natural inquiry has
+proved unable to produce technological fruit. However, if there were a method of natural inquiry that could more
+effectively enable us to manipulate nature for our benefit, we might be able to enter into God's sabbath rest, for which
+we were originally created. This, I shall attempt to argue, is Bacon's view.
 
 
 
