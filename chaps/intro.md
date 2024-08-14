@@ -16,10 +16,6 @@ part of living the best life.
 How did this almost schizophrenic view of work come about? And how did various
 thinkers defend their positive or negative evaluations of work?
 
-These questions are vital to contemporary liberalism, and to its critics, as a
-vital issue dividing liberals from their critics -- Marxist, distributist,
-post-liberal, etc. -- is the role of work in human life.
-
 
 ## The New Testament
 
@@ -77,7 +73,7 @@ we were originally created. This, I shall attempt to argue, is Bacon's view.
 
 ## Hegel
 
-Hegel's daunting complexity and abstraction can obscure that labor—engagement with the physical, material world—plays a
+Hegel's daunting complexity and abstraction can obscure that labor -- engagement with the physical, material world -- plays a
 critical role in the development of the self-conscious individual and of the rational state. Indeed, as vociferous a
 critic as Marx observes (albeit critically) in the 1844 Manuscripts that Hegel "grasps labor as the essence of man."
 Without embracing Marx's totalizing claim, this chapter aims to highlight the importance of labor to Hegelian philosophy
@@ -87,6 +83,25 @@ will proceed in the following manner. We will first examine the Phenomenology to
 for human self-consciousness before proceeding to an analysis of its role in the mature political philosophy of the
 Philosophy of Right. There, we shall see Hegel's analysis of a labor both embedded in civil society and under threat
 from the market.
+
+## Soren Kierkegaard (1813-1855)
+
+Soren Kierkegaard's writings contain little direct commentary on labor, or, indeed, economics in general.
+So why include him at all in a volume about work?
+It is because insights into the character of the person who labors. Kierkegaard's writings present a
+Christian view of labor as part of one's spiritual vocation. He proclaims that there is a distinct calling for each life,
+and that despite earthly differences of status, all are persons are equal before God as they pursue their callings.
+
+## Giovanni Gentile (1875-1944)
+
+Considered by some to be the most prominent Italian philosopher of the twentieth century, Giovanni Gentile (1875-1944)
+organically fulfilled the "humanism of labor" in his work-testament, *Genesis and Structure of Society* (published
+posthumously in 1946). Gentile believed that the modern world had come to understand the spiritual value of labor in the
+same way that he had understood the spiritual value of culture. He recognized the "sense" of intellectual and manual
+labor as having a methodological and crucial significance because of its unbreakable connection to the "Absolute
+Spirit," which enables understanding of the formative significance of working action. Gentile's thesis emphasizes the
+significance of the interaction between "intellectuals" and "workers" in the framework of human values, identifying a
+real union of labor and culture.
 
 ## Edith Stein (1891-1942)
 
@@ -106,7 +121,29 @@ grace, prayer, and sacraments as fortifying work. The chapter concludes by linki
 Stein's other intellectual interests – the phenomenology of empathy. 
 
 
-## Arendt
+## Michael Oakeshott (1901-1990)
+
+In the Oakeshottian phrase "the deadliness of doing" is contained a view of human life which does not prioritize practical
+existence (including labor), but rather employs poetic imagining and philosophical exploration as ways of superseding it
+without negating it ("the splendors of the firmament of time may be eclipsed but are extinguished not"). This essay
+explores the relevance of Oakeshott's arresting phrase, "the deadliness of doing,"1 to the theme of this edited volume
+on the place of labor in a human life. The steps in this exploration include:
+
+(1) Oakeshott's view of the limited place of all practical activity in a human life, distinguished from the view, for
+example, of a materialist philosopher such as Karl Marx that all human thought and abstraction is derivative from
+practical considerations;
+
+(2) Oakeshott's view that the most intelligent approach to human satisfaction is to nurture a life which as much as
+possible engages in activity which can be done largely for its own sake, rather than for some other, external benefit;
+that this is an intelligent approach to living because it mirrors the structure of human experience which is creative or
+poetic rather than prosaic; and how Oakeshott's view on the meaning of activity done for its own sake compares and
+contrasts with the views of Aristotle and Montaigne (one of Oakeshott's "heroes");
+
+(3) a discussion of the importance of ritualistic practices as an intelligent approach to achieving necessary and
+unavoidable practical outcomes in a less burdensome (and less "deadly") fashion, since rituals arguably are practices
+most amendable to being performed for their own sake, while also yielding some residual practical benefits; 
+
+## Hannah Arendt (1906-1975)
 
 Rebel, refugee, and political thinker, Hannah Arendt (1906-1975) is
 renowned for grappling with grave themes. She attempted to make sense of
@@ -130,26 +167,4 @@ Posited in her treatise *The Human Condition* (1958), her distinctions
 between labor, work, and action offer a typology of the human effort we
 call work. This chapter provides an overview of Arendt's categories of
 
-
-## Oakeshott
-
-In this titular poetic Oakeshottian phrase is contained a view of human life which does not prioritize practical
-existence (including labor), but rather employs poetic imagining and philosophical exploration as ways of superseding it
-without negating it ("the splendors of the firmament of time may be eclipsed but are extinguished not"). This essay
-explores the relevance of Oakeshott's arresting phrase, "the deadliness of doing,"1 to the theme of this edited volume
-on the place of labor in a human life. The steps in this exploration include:
-
-(1) Oakeshott's view of the limited place of all practical activity in a human life, distinguished from the view, for
-example, of a materialist philosopher such as Karl Marx that all human thought and abstraction is derivative from
-practical considerations;
-
-(2) Oakeshott's view that the most intelligent approach to human satisfaction is to nurture a life which as much as
-possible engages in activity which can be done largely for its own sake, rather than for some other, external benefit;
-that this is an intelligent approach to living because it mirrors the structure of human experience which is creative or
-poetic rather than prosaic; and how Oakeshott's view on the meaning of activity done for its own sake compares and
-contrasts with the views of Aristotle and Montaigne (one of Oakeshott's "heroes");
-
-(3) a discussion of the importance of ritualistic practices as an intelligent approach to achieving necessary and
-unavoidable practical outcomes in a less burdensome (and less "deadly") fashion, since rituals arguably are practices
-most amendable to being performed for their own sake, while also yielding some residual practical benefits; 
 
