@@ -71,6 +71,18 @@ we were originally created. This, I shall attempt to argue, is Bacon's view.
 
 
 
+## Adam Smith (1723-1790)
+
+Adam Smith was a Scottish thinker, professor of Moral Philosophy at the University of Glasgow, a custom officer, and
+generally considered the father of economics because of his *An Inquiry into the Nature and Causes of the Wealth of
+Nations*. 
+
+After the invisible hand, the division of labor is probably the most common idea associated with Adam Smith. Both
+concepts have been used and abused in many different forms. According to Paganelli, Smith thought the division of labor
+to be of crucial importance for creating a prosperous and happy society.
+
+
+
 ## Hegel
 
 Hegel's daunting complexity and abstraction can obscure that labor -- engagement with the physical, material world -- plays a
@@ -102,6 +114,20 @@ labor as having a methodological and crucial significance because of its unbreak
 Spirit," which enables understanding of the formative significance of working action. Gentile's thesis emphasizes the
 significance of the interaction between "intellectuals" and "workers" in the framework of human values, identifying a
 real union of labor and culture.
+
+## Max Weber (1864-1920)
+
+In his most renowned book, *The Protestant Ethic and the Spirit of Capitalism*, Max Weber famously
+explained the rise of "modern capitalism" as partially due to the "Protestant ethic," which, he claimed, was a new
+attitude towards work and towards capital accumulation. (It is the former aspect, of course, that justifies examing the
+book in a volume devoted to thoughts about work.) But while this thesis is (in)famous, it has often been dismissed,
+sometimes as a nice attempt that on examination failed, and at other times as simply preposterous.
+
+In his paper, Callahan offers a summary of some highlights of the debate on Weber's thesis, with the goal of
+indicating whether that it is still viable. In the course of doing so, it will become apparent that in many prominent
+cases, as Stephen Kallberg argues in the introduction to his translation of PE, "Weber's critics never mastered his
+complex argument."
+
 
 ## Edith Stein (1891-1942)
 
