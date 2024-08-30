@@ -8,13 +8,27 @@ and being struck by how divergent the
 views of work were even on one continent (and mostly from one country!)
 during the course of one century.  I gradually began
 collecting snippets of writings about work from over the centuries, and thought
-it would be useful to explore however variously it has been conceived by
+it would be useful to explore how variously it has been conceived by
 different major thinkers. These conceptions run the gamut from viewing work as
 positively opposed to living the best life, to seeing it as the most essential
 part of living the best life.
 
 How did this almost schizophrenic view of work come about? And how did various
 thinkers defend their positive or negative evaluations of work?
+
+## Plato (427-348) and Aristotle (384-322)
+
+James Murphy tells us that the puzzle at the heart of Plato and Aristotle's appraisal of work is that they both combine high praise for
+craftsmanship with frequent denigration of craftsmen. W.B. Yeats wondered "how can we know the dancer from the dance?"
+We might ask how Plato and Aristotle distinguish craftsmanship from craftsmen and why they honor the first and disparage
+the second. Both thinkers exclude craftsmen from citizenship, and yet Plato calls his philosophical rulers "the best
+possible craftsmen" and he calls ruling "the royal craft."
+
+Both thinkers praise the knowledge required for skillful work but disparage the manual skill and sheer toil of human
+labor; they praise those who conceptualize the task but disparage those who merely execute it. As such, their appraisals
+reflect their own views of the greater dignity of intellectual over physical activity, preventing them from seeing that
+the knowledge of craftsmen cannot be separated from their manual skills, and that craft knowledge can be acquired only
+through the body. Craftsmanship is the unity of conception and execution, mind and hand.
 
 
 ## The New Testament
@@ -83,7 +97,7 @@ to be of crucial importance for creating a prosperous and happy society.
 
 
 
-## Hegel
+## Georg Wilhelm Friedrich Hegel (1770-1831)
 
 Hegel's daunting complexity and abstraction can obscure that labor -- engagement with the physical, material world -- plays a
 critical role in the development of the self-conscious individual and of the rational state. Indeed, as vociferous a
@@ -129,6 +143,29 @@ cases, as Stephen Kallberg argues in the introduction to his translation of PE, 
 complex argument."
 
 
+## Ludwig von Mises (1881-1973)
+
+"Well, a bad day of fishing is better than a good day at work," jokes the wise fisherman. This whimsical thought tells
+us more than we might initially think. It reflects the individual's everyman view of the relationship between labor and
+leisure. This turbulent but necessary relationship is a central point in the study of human action, where man engages in
+a grueling and uncomfortable labor process to enjoy the eventual benefits of a full day of fishing and drinking.
+
+The relationship between leisure and labor propelled many historical ideas, including the works of several prominent
+socialists. Karl Kautsky, a well-known socialist thinker in the late 19th and early 20th centuries, recognized the pain
+often involved in the laborious process. However, Kautsky asserted that the disutility of labor was an inherent issue of
+capitalism, and a socialist revolution would need to transform labor from pain into pleasure. In contrast, the Austrian
+economist Ludwig Von Mises argues against Kautsky's claims in his book Human Action, stating that Kautsky incorrectly
+based his belief that socialism can transform labor's pain into pleasure on a misinterpretation of what characterizes an
+activity as work.  According to Mises, labor creates disutility as long as the worker engages in the laborious process
+as a means to attain a specific end. Hence, work is inherently unpleasant, creating a loss of utility due to discomfort
+and foregone leisure utility.
+
+The puzzle seems clear: if we examine the laborious process purely in terms of utility, why do individuals constantly
+engage in work activities deemed to reduce utility? A simple answer is that labor involves delayed gratification; man
+endures the negative utility of working only to enjoy the utility of leisure later. Mises noticed this curious
+relationship between labor and leisure and attempted to elucidate what seems to be a polarizing relationship. 
+
+
 ## Edith Stein (1891-1942)
 
 The category of "women's work" enriches a thorough intellectual history of the idea of work. Contributing this
@@ -171,7 +208,7 @@ most amendable to being performed for their own sake, while also yielding some r
 
 ## Hannah Arendt (1906-1975)
 
-Rebel, refugee, and political thinker, Hannah Arendt (1906-1975) is
+Rebel, refugee, and political thinker, Hannah Arendt is
 renowned for grappling with grave themes. She attempted to make sense of
 the horrors of the twentieth century and to understand the human
 experience in the context of modernity. Because she centered this
@@ -193,4 +230,6 @@ Posited in her treatise *The Human Condition* (1958), her distinctions
 between labor, work, and action offer a typology of the human effort we
 call work. This chapter provides an overview of Arendt's categories of
 
+
+## Alasdair MacIntyre ()
 
