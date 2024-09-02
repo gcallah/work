@@ -49,6 +49,25 @@ it recognises the work of God the Father in the crucifixion and resurrection of 
 tradition did not disparage work: on the contrary, it asked Christians to trust in work, the work of God.
 
 
+## Thomas Aquinas (1225-1274)
+
+It would be a gross exaggeration to say that the topic of work was a central concern for Aquinas. He first discussed it
+as part of the defense of those religious orders that no longer sustained themselves by manual labor, while his most
+frequently cited text was a Quodlibet, a question posed to him at a public dispute and not chosen by him for its
+inherent importance. Even though the argument of these early works were further developed in his later theological
+summaries, their point of departure always remained the same question ("whether it was obligatory for the members of a
+religious order to do manual work"). A more overarching "Thomistic theory of work" is thus something to be reconstructed
+from these scattered references and not a doctrine he laid out in a fully-fledged form.
+
+The reason why it is nevertheless worth dealing with Aquinas is that many modern authors do the same, mostly in the
+field of economics. Some of them suggest that he was a forerunner of Adam Smith on the division of labor, or even of
+Marx on the labor theory of value; while others maintain that he promoted a more "humane" economy than ours, making him
+an avant la lettre critic of capitalism.  While all these accounts testify to the enduring influence of Aquinas, they
+are also to some extent mistaken, for his main concern was theological, or rather soteriological (connected to the
+salvation of the human being), and not strictly speaking social or economic. To understand his point, it will thus be
+necessary to have recourse to the original texts, preceded by a brief overview of their terminology and historical
+context.
+
 ## Martin Luther (1483-1546)
 
 In 1530, in Wittenberg, Luther held a mid-week sermon series (lectio continua) on the Sermon on the Mount,  including
