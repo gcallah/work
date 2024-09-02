@@ -231,5 +231,43 @@ between labor, work, and action offer a typology of the human effort we
 call work. This chapter provides an overview of Arendt's categories of
 
 
-## Alasdair MacIntyre ()
+## Alasdair MacIntyre (1929-)
+
+Two aspects of MacIntyre's moral philosophy are relevant to his reflections on work: the notion of practices and the
+idea that our practical rationality is developed as we learn to educate and transform our desires. The first notion was
+introduced by MacIntyre in *After Virtue* when he was trying to develop a sociologically grounded account of Aristotelian
+ethics. The second idea, although present in most of MacIntyre's work, emerges more prominently with the publication of
+*Dependent Rational Animals*.
+
+Practices, in the MacIntyrean sense of the term, are socially established and cooperative activities, with various
+degrees of complexity, whereby agents pursue certain goods that are constitutive of those forms of activity. In this
+context, agents are expected to gradually internalize and develop themselves those standards of excellence that are
+required for the achievement of the goods 'internal' to that form of activity. Through this process agents extend or
+develop their human potentialities and their understanding of the goods involved in whatever practice they find
+themselves engaged in. Examples of practices include the arts and sciences, games like chess or basketball, the
+activities of farming communities or fishing crews, and the making and sustaining of family life or schools.
+
+How do practices educate and transform our desire?
+MacIntyre accounts for this process by pointing to the relationship between desire and practical reasoning.  The
+acquisition of the virtues is a process of moral development which MacIntyre describes as that whereby agents learn how
+to distinguish between what is actually good for them from what they take to be good here and now. What agents learn in
+this process is to evaluate their reasons for action according to what is good for them as members of their family,
+workplace, or local political community. In MacIntyre's terminology, agents become 'independent practical reasoners'
+when they can educate their desires by
+
+## New Natural Law Theory
+
+The "New" Natural Law Theory (NNLT) is a moral theory grounded in a reinterpretation of Saint Thomas Aquinas's
+understanding of the first principles of the natural law, elaborated and defended over several decades initially by
+Germain Grisez, John Finnis, and Joseph Boyle, and subsequently by many other philosophers and moral theologians.1 On
+the "new" view, the first principles of practical reason, and hence of the natural law, are known self-evidently by
+practical reason, and not by inference from truths about human nature. These first principles identify a number of basic
+human goods as to-be-pursued, and the NNLT understands "morality" as a matter of being reasonable in pursuing the
+various options for actions that these goods, identified more fully below in Section I, make possible.
+
+NNLT provides a distinctive account of the role that the good of work plays among practical reason's foundations. In
+this essay, Tollefsen identifies the NNLT account of the nature of and value of work. He then looks at some practical consequences
+of the NNLT understanding of the good of work; and situates the NNLT understanding of work within a larger theological
+context.
+
 
