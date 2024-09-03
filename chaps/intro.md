@@ -104,6 +104,22 @@ we were originally created. This, I shall attempt to argue, is Bacon's view.
 
 
 
+## John Locke (1632-)
+
+John Locke's views on labor and its relation to property are well-traversed terrain.1 His arguments are by now familiar
+enough to most scholars that there seems little warrant for reconsidering what he says. The conventional account of him
+is as a natural law theorist who justifies the right to property through an act of labor that satisfies a moral duty of
+self- preservation. From there interpretations usually diverge along three paths: one that situates Locke among the
+founders of classical liberalism and extols him as a libertarian; another that criticizes him as someone who
+rationalizes the exploitative and inegalitarian tendencies of market economies; and a final one that regards his
+arguments as dated and of little contemporary relevance. Which of the three paths is taken usually reflects the
+predilections of a given scholar as much as it does anything concerning Locke, and often involves arguments that exhibit
+notable partiality. Yet, while there may be no way to adjudicate definitively the various takes on Locke's views – nor
+enforce strictures that his arguments be recounted impartially – it does remain possible to survey what he says and why
+it has proven provocative. For despite the apparent familiarity of his work, Ferrell contends that there
+are nuances to Locke's position that are worth reexamination.
+
+
 ## Adam Smith (1723-1790)
 
 Adam Smith was a Scottish thinker, professor of Moral Philosophy at the University of Glasgow, a custom officer, and
