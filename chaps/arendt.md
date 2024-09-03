@@ -1,4 +1,5 @@
-# Hannah Arendt on the Triumph of *homo faber* and the Fragility of Human Action
+Hannah Arendt on the Triumph of *homo faber* and the Fragility of Human
+Action
 
 Josefina Araos Bralic and Sarah J. Wilford
 
@@ -6,7 +7,7 @@ Contribution to volume *By the Sweat of Your Brow: Some Concepts of Work
 in the History of Western Thought* \[working title\] edited by Gene
 Callahan.
 
-**Josefina Araos Bralic**
+Josefina Araos Bralic
 
 Josefina Araos Bralic is a researcher at the Instituto de Estudios de la
 Sociedad (IES) in Santiago, Chile. She earned her Bachelor\'s and
@@ -15,7 +16,7 @@ Chile. Currently, she is pursuing a PhD in Philosophy at Universidad de
 los Andes (Chile). Her research focuses on populism, the crisis of
 liberal democracies, and the political philosophy of Hannah Arendt.
 
-**Sarah J. Wilford**
+Sarah J. Wilford
 
 Sarah J. Wilford is a Professor and Researcher at Centro Signos,
 Universidad de los Andes in Santiago, Chile. She received her PhD in
@@ -60,6 +61,18 @@ chapter concludes by connecting the themes surfaced in Arendt's
 exploration of the *vita activa* to some of the other themes of her
 broader work, like totalitarianism, evil, and revolution.
 
+Among the luminaries examined in this volume, Arendt offers a unique
+perspective because her account of work is embedded within her
+exploration of how human activity and human atrocity are related.
+Additionally, her subtle suspicion of work, due to its potential to
+distract us from action, distinguishes her account from other
+descriptions of work that either honor work as an important calling or
+criticize work as a prison. She provides neither a panegyric nor
+renunciation of work, but rather she uncovers nuances concerning the
+theme of work and its place in our understanding of human activity.
+These nuances matter to Arendt because she considers freedom to be
+hanging in the balance.
+
 Born to Jewish secular parents, Arendt seemed suited to philosophy from
 a young age.[^4] She reflected that as a teenager she knew what
 philosophy meant to her, stating "I can either study philosophy or I can
@@ -91,19 +104,18 @@ life."[^15] Arendt traces the idea of the eminence of contemplation over
 activity to antiquity, and she links the value placed by the ancients on
 freedom "from political activity" to the value placed by Christian
 thinkers on freedom "from entanglement in worldly affairs."[^16] The
-Christian perspective liberalized this aspiration as not only for elite
+Christian perspective democratized this aspiration as not only for elite
 contemplatives, but as "a right for all."[^17]
 
 Arendt establishes what she terms the "traditional" understanding of the
 *vita activa.*[^18] According to Arendt, the *vita activa* has long held
-a "negative connotation of 'un-quiet,'" and this relates to the idea
-that the preference for "contemplation over activity" originates in the
-belief that "no work of human hands can equal in beauty and truth the
-physical *kosmos.*"[^19] Mere production to meet needs pales in
-comparison to higher contemplation. Thus, conventionally, *vita activa*
-is defined with reference to "*vita contemplativa*" because active life
-merely "serves the needs" of the contemplative life.[^20] It is
-secondary and lower.
+a "negative connotation of 'un-quiet,'" and the preference for
+"contemplation over activity" stems from the belief that "no work of
+human hands can equal in beauty and truth the physical *kosmos.*"[^19]
+Mere production to meet needs pales in comparison to higher
+contemplation. Thus, conventionally, *vita activa* is defined with
+reference to "*vita contemplativa*" because active life merely "serves
+the needs" of the contemplative life.[^20] It is secondary and lower.
 
 Arendt proposes to understand the *vita activa* differently.[^21] She
 believes this revision is needed because the "weight of contemplation in
@@ -119,18 +131,18 @@ concern of the *vita contemplativa.*"[^24]
 
 Having established Arendt's hope to rehabilitate the reputation of the
 *vita activa*, we now turn to those distinctions between the three
-principal facets of the *vita activa* that she recovers. First, Arendt
+principal facets of the *vita activa* that she discerns. First, Arendt
 explores labor. The material matters of "life itself," like "growth,
 metabolism, and eventual decay," define labor.[^25] For Arendt, "labor
 is the activity which corresponds to the biological process of the human
 body;" labor serves the "vital necessities" of the body.[^26] The
-activity of labor can be identified by the absence of evidence: "its
-effort is almost as quickly consumed as the effort is spent."[^27]
+activity of labor can be identified by the evanescence of its products:
+"its effort is almost as quickly consumed as the effort is spent."[^27]
 Though there appears a degree of "futility" in these efforts, there is
 also "great urgency," given "life itself" relies on this activity.[^28]
 Because the "least durable of tangible things," consumed rapidly,
 support life, labor curiously contains both "the least worldly" and "the
-most natural of all things."[^29] Though labor produces that which is
+most natural of all things."[^29] Though what labor produces is
 "man-made," these objects are not lasting, but rather exist within
 nature's "cyclical movement."[^30]
 
@@ -213,8 +225,8 @@ labor follows predictable natural needs and work follows a model, action
 instead possess the potential for originality and spontaneity. Further,
 action cannot be undertaken "in isolation," given its social,
 relational, and revelatory nature.[^58] Action does not require a model,
-as in work and fabrication, but it does require others. Action, thus,
-for Arendt, is the most human part of the *vita activa*.[^59]
+as in work, but it does require others. Action, thus, for Arendt, is the
+most human part of the *vita activa*.[^59]
 
 Paul Voice summarizes that according to Arendt "an action can be
 described as a moment of origination that discloses the individual actor
@@ -257,7 +269,10 @@ she wishes to recover by rehabilitating the reputation of the *vita
 activa* as a whole.[^73] Her account prizes action over other activities
 of human effort, countering both the perspective that prioritizes the
 *vita contemplativa* and the perspective that undervalues action (and
-thereby, politics).[^74]
+thereby, politics).[^74] Survey of Arendt's broad account of human
+activity contextualizes her concern regarding work. Readers can better
+understand Arendt's justification of her skepticism of work by seeing
+how she valued work within the *vita activa*.
 
 **The *homo faber*, the Fragility of Action, and Modernity**
 
@@ -345,7 +360,7 @@ with its primary purpose, the "capacity for establishing relationships,"
 and Arendt highlights the importance of "moderation, of keeping within
 bounds" as "one of the political virtues par excellence."[^99] We can
 moderate action in political life, using "various limitations and
-boundaries," but these limits are futile in the face of action's
+boundaries," but these limits are impermanent in the face of action's
 "inherent unpredictability."[^100]
 
 The unpredictability of action is made especially obvious in light of
@@ -410,7 +425,9 @@ these circumstances where work is so satisfying, action is so demanding,
 and states and ideologues are so opportunistic. Therefore, Arendt also
 warns that simply the downfall of ideologies like Nazism or Stalinism
 does not eliminate the potential of totalitarian tendencies in a
-society. Anywhere action is at risk, so too is freedom and meaning. In
+society. Anywhere action is at risk, so too is freedom and meaning.
+Further, action is at risk wherever work distracts us. Therefore, the
+compelling satisfaction of work must be approached with caution. In
 turning away from the responsibilities of the man of action, *homo
 faber* seals his fate.
 
@@ -466,15 +483,15 @@ regime is complete when men become "marionettes without the slightest
 trace of spontaneity" and "specimen\[s\] of the animal-species
 man."[^121] To the totalitarian regime, "individuality" becomes
 "intolerable."[^122] Of course, most observers sense that totalitarian
-regimes destroy freedom, but Arendt explains how this happens; and her
+regimes destroy freedom, but Arendt explains how this hap pens; and her
 later exploration of action further elucidates the intersection of these
 regimes and human nature. Totalitarianism attacks the already fragile
 human capacity for action, and in so doing, supresses freedom.
 
 Arendt also famously named the idea of "the banality of evil," which
 emerged from her 1963 study of Nazi functionary Adolf Eichmann's trial
-in Jerusalem. Outside the typical categories, Eichmann embodied a
-startlingly different species of criminality, for Arendt.[^123] She
+in Jerusalem. For Arendt, outside the typical categories, Eichmann
+embodied a startlingly different species of criminality.[^123] She
 thought Eichmann was intriguingly average, and she concluded that the
 evil of the Holocaust included a type of "banal" evil perpetrated, not
 by masterminds, but regular people "who viewed themselves as
@@ -534,6 +551,11 @@ thought" neglects "the experience of political action among equal yet
 diverse peers," and thereby it cannot provide a thorough account of
 "political freedom."[^136]
 
+Totalitarianism, evil, and revolution are all relevant to Arendt's
+preoccupation with the nuanced drawbacks of work. Where work diverts
+resources from action, oppression develops, and the prospect of change
+weakens.
+
 **Activity and Freedom**
 
 This chapter addresses Arendt's account of human activity and highlights
@@ -543,13 +565,14 @@ hierarchy of labor, work, and action demonstrates her partiality to
 action, which she defines in contradistinction to the necessity of labor
 and the instrumentality of work. Action, though not urgent as labor is,
 emerges as the most important of the three activities, and without
-action, the other activities cannot take place. For Arendt, action is
-linked to political life and the exercise of freedom. Therefore, her
-concern for the fragility of action is also a concern for the fragility
-of free, participatory politics. In turn, we can understand Arendt's
-analysis of the human condition, and these activities we undertake, as
-related to her philosophical interest in larger political themes like
-the evils of totalitarianism and the opportunities of revolution.
+action, the other activities cannot take place under conditions of
+freedom. For Arendt, action is linked to political life and the exercise
+of freedom. Therefore, her concern for the fragility of action is also a
+concern for the fragility of free, participatory politics. In turn, we
+can understand Arendt's analysis of the human condition, and these
+activities we undertake, as related to her philosophical interest in
+larger political themes like the evils of totalitarianism and the
+opportunities of revolution.
 
 This volume addresses work from a variety of perspectives, and some may
 address links between work and freedom. Arendt's perspective, however,
@@ -575,118 +598,6 @@ since adolescence.[^139] Ultimately, she hoped to reunite these *vitas*,
 without hierarchy. She died in 1975, leaving historians and storytellers
 with the fruit of her thought and action and the task of determining
 "what it was all about."[^140]
-
-**Bibliography**
-
-Arendt, Hannah. *Eichmann in Jerusalem: A Report on the Banality of
-Evil*. London: Penguin, 2022.
-
----------. *On Revolution*. London:
-Penguin, 2006.
-
----------. *Origins Of Totalitarianism*. London: Penguin,
-2017.
-
----------. *The Human Condition*. Chicago: University of Chicago
-Press, 2018.
-
----------. *The Life Of The Mind*. Edited by Mary McCarthy.
-New York: Harcourt, Inc., 1981.
-
-
-Benhabib, Seyla. "Feminist Theory and
-Hannah Arendt's Concept of Public Space." *History of the Human
-Sciences* 6, no. 2 (1993): 97--114.
-
-
-Cane, Lucy. "Hannah Arendt on the
-Principles of Political Action." *European Journal of Political Theory*
-14, no. 1 (2015): 55--75.
-
-
-Courtine-Denamy, Sylvie. *Three Women in Dark
-Times: Edith Stein, Hannah Arendt, Simone Weil*. Translated by Geoffrey
-M. Goshgarian. Ithaca: Cornell University Press, 2001.
-
-
-Dietz, Mary G.
-"Feminist Receptions of Hannah Arendt." In *Feminist Interpretations of
-Hannah Arendt*, edited by Bonnie Honig, 17--50. Philadelphia:
-Pennsylvania State University Press, 1995.
-
-Fayard, Anne-Laure. "Notes on
-the Meaning of Work: Labor, Work, and Action in the 21st Century."
-*Journal of Management Inquiry* 30, no. 2 (2021): 207--20.
-
-Hill, Samantha
-Rose. *Hannah Arendt*. London: Reaktion Books, 2021.
-
-
-Isaac, Jeffrey C.
-"Situating Hannah Arendt on Action and Politics." *Political Theory* 21,
-no. 3 (1993): 534--40.
-
-
-Jansson, Inger, and Petra Wagman. "Hannah Arendt's
-Vita Activa: A Valuable Contribution to Occupational Science." *Journal
-of Occupational Science* 24, no. 3 (2017): 290--301.
-
-
-Kateb, George.
-"Political Action: Its Nature and Advantages." In *The Cambridge
-Companion to Hannah Arendt*, 130--48. Cambridge: Cambridge University
-Press, 2001.
-
-
-Kohn, Jerome. "Freedom: The Priority of the Political." In
-*The Cambridge Companion to Hannah Arendt*, 113--29. Cambridge:
-Cambridge University Press, 2001.
-
-
-Lederman, Shmuel. "Philosophy, Politics
-and Participatory Democracy in Hannah Arendt's Political Thought."
-*History of Political Thought* 37, no. 3 (2016): 480--508.
-
-
-Morgenthau,
-Hans. "Hannah Arendt on Totalitarianism and Democracy." *Social
-Research* 44, no. 1 (1977): 127--31.
-
-
-Villa, Dana. *Hannah Arendt: A Very
-Short Introduction*. Oxford: Oxford University Press, 2023.Villa, Dana
-R. "Introduction: The Development of Arendt's Political Thought." In
-*The Cambridge Companion to Hannah Arendt*, 1--21. Cambridge: Cambridge
-University Press, 2001.
-
----------. *Politics, Philosophy, Terror: Essays
-on the Thought of Hannah Arendt*. Princeton: Princeton University Press,
-1999.
-
-Voice, Paul. "Labour, Work and Action." In *Hannah Arendt: Key
-Concepts*, edited by Patrick Hayden, 36--51. London: Routledge,
-2014.
-
-
-Walsh, Philip. "The Human Condition as Social Ontology: Hannah
-Arendt on Society, Action and Knowledge." *History of the Human
-Sciences* 24, no. 2 (2011): 120--37.
-
-
-Wellmer, Albrecht. "Arendt on
-Revolution." In *The Cambridge Companion to Hannah Arendt*, 220--41.
-Cambridge: Cambridge University Press, 2001.
-
-
-Winham, Ilya. "Rereading
-Hannah Arendt's 'What Is Freedom?': Freedom as a Phenomenon of Political
-Virtuosity." *Theoria: A Journal of Social and Political Theory* 59, no.
-131 (2012): 84--106.
-
-
-Wolin, Sheldon S. "Hannah Arendt: Democracy and The
-Political." *Salmagundi*, no. 60 (1983): 3--19.
-
 
 [^1]: Philip Walsh, "The Human Condition as Social Ontology: Hannah
     Arendt on Society, Action and Knowledge," *History of the Human

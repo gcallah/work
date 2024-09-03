@@ -54,28 +54,30 @@ frustrated, angry and hateful." -- Charles Bukowski
 ## Table of Contents
 
 - [Introduction](abstracts/intro.md), [Gene Callahan](bios/callahan.md), New York University
-- [Plato and Aristotle on Work](abstracts/plato.md), [James B. Murphy](bios/murphy.md), Dartmouth College
+- [Plato and Aristotle on Craft and Craftsmen](abstracts/plato.md), [James B. Murphy](bios/murphy.md), Dartmouth College
 - [Work in the New Testament](abstracts/newtestament.md), [James Alexander](bios/alexander.md), Bilkent University
 - [Aquinas on Work](abstracts/aquinas.md), [Nyirkos Tamás](bios/nyirkos.md), Research Institute for Politics and Government / University of Public Service, Budapest
-- [Luther on Vocation](abstracts/luther.md), [Orsolya Horváth](bios/horvath.md), Károli Gáspár University of the Reformed Church in Hungary
-- [Francis Bacon: Science Relieving the Burden of Labor](abstracts/bacon.md),
+- [The Spiritualization of Work: Luther and the Dual Vocation](abstracts/luther.md), [Orsolya Horváth](bios/horvath.md), Károli Gáspár University of the Reformed Church in Hungary
+- [Creation, Fall, and Technological Redemption: Francis Bacon on Work
+and Man's Right over Nature](abstracts/bacon.md),
 [Tyler Chamberlain](bios/chamberlain.md), Trinity Western University
 - [Locke: Ownership from Labor](abstracts/locke.md), [Jason Ferrell](bios/ferrell.md), Concordia University
 - [Adam Smith and the Division of Labor](abstracts/smith.md), [Maria Pia Paganelli](bios/paganelli.md), Trinity University
-- [Hegel on Work’s Two-Sidedness](abstracts/hegel.md), [William Lombardo](bios/lombardo.md), Boston College
+- [Hegel on Labor](abstracts/hegel.md), [William Lombardo](bios/lombardo.md), Boston College
 - [Tocqueville, Americans, and Honorable Work](abstracts/tocqueville.md), [Jacob Wolf](bios/wolf.md), Regent University
 - [Marx's Theory of Work](abstracts/marx.md), [Jonathan D. Askonas](bios/askonas.md), Catholic University of America
-- [Kierkegaard on the Laborer](abstracts/kierkegaard.md), [Nathanael Blake](bios/blake.md)
+- [Labor of Love: Kierkegaard on Vocation](abstracts/kierkegaard.md), [Nathanael Blake](bios/blake.md)
 - [Durkheim on Anomie](abstracts/durkheim.md), [J. McKenzie Alexander](bios/jmalexander.md), The London School of Economics
-- [Giovanni Gentile on the Humanism of Labor](chaps/gentile.md), [Spartaco Pupo](bios/pupo.md), Università della Calabria
+- [Giovanni Gentile and the "Humanism of Labor"](chaps/gentile.md), [Spartaco Pupo](bios/pupo.md), Università della Calabria
 - [Does Weber's Thesis on the Protestant Ethic Transforming Work Still Stand?](chaps/weber.md), [Gene Callahan](bios/callahan.md), New York University
 - [Mises: The Disutility of Labor](abstracts/mises.md), [Gabriel Benzecry](bios/benzecry.md), Middle Tennessee State University
 - [Hannah Arendt on *Homo Faber* and the Fragility of Human Action](chaps/arendt.md), [Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes
 - [The Woman’s Soul as "Shelter": Edith Stein on the Work of Women](chaps/stein.md), [Sarah Jane Wilford](bios/wilford.md), Universidad de los Andes
-- [Michael Oakeshott on "The Deadliness of Doing"](chaps/oakeshott.md), [W. John Coats](bios/coats.md), Connecticut College
+- [Michael Oakeshott and "The Deadliness of Doing"](chaps/oakeshott.md), [W. John Coats](bios/coats.md), Connecticut College
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and Culture](abstracts.pieper.md), 
 [Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,
 Hungary
-- [Work in New Natural Law Theory](chaps/nnlt.md), [Christopher Tollefsen](bios/tollefsen.md), University of South Carolina
+- [MacIntyre on Work as a Practice](chaps/macintyre.md), Matias Petersen, Affiliation
+- [The New Natural Law Theory and the Basic Human Good of Work](chaps/nnlt.md), [Christopher Tollefsen](bios/tollefsen.md), University of South Carolina
 - Work and Its Discontents: Geuss and Graber, [Gülşen Seven](bios/seven.md), Turkish Education Association University
 

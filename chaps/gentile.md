@@ -1,10 +1,10 @@
-# Giovanni Gentile and the "Humanism of Labor"
+**Giovanni Gentile and the "Humanism of Labor"**
 
 Spartaco Pupo
 
 (University of Calabria)
 
-## ABSTRACT
+ABSTRACT
 
 Considered by some to be the most prominent Italian philosopher of the
 twentieth century, Giovanni Gentile (1875-1944) organically fulfilled
@@ -20,7 +20,7 @@ the significance of the interaction between "intellectuals" and
 "workers" in the framework of human values, identifying a real union of
 labor and culture.
 
-## The international misfortune
+*The international misfortune*
 
 The final and little-known phase of Giovanni Gentile's intellectual
 work, considered by many to be the finest Italian philosopher of the
@@ -41,7 +41,7 @@ dottrina del fascismo* (1929), brought to print in 2002 by professor
 James A. Gregor.[^4]
 
 Gentile's "misfortune" in the Anglo-American area, moreover, is probably
-to be attributed to the initiative of Guido De Ruggero, who, after
+to be attributed to the initiative of Guido De Ruggiero, who, after
 having long been inspired by Gentile's philosophy, was pleased to let
 the international academic world know, in an article in English, that
 his master's thought was enclosed "in one or more formulae, which he is
@@ -70,7 +70,7 @@ intellectual production had already been organically copied well before
 his affiliation with fascism, as evidenced by the chronology of his main
 works.
 
-## Beyond individualism and collectivism
+***Beyond individualism and collectivism***
 
 *Humanism of Labor is the title of the seventh paragraph of Chapter XI
 (History)* in his work *Genesis and Structure of Society*, written on
@@ -136,7 +136,7 @@ naturalistic individualism. In the "dialectical linking of *alter* with
 of the substantive unity between mankind, which exists before their
 differences and "infinite forms."[^12]
 
-## The ethical nature of the State
+*The ethical nature of the State*
 
 This need for humanistic synthesis also serves as the foundation for
 Gentile's doctrine of the State, which was developed during the
@@ -204,7 +204,7 @@ soul of life,"[^18] it is in the air one breathes and is therefore vital
 to the State's ethical existence. Without philosophy, there could be no
 State, religion, art, science, and ethics.
 
-## Unitarianism and ethicality of labor
+***Unitarianism and ethicality of labor***
 
 The humanism of labor, which was paved over by the social upheavals of
 the 19^th^ century but whose "political concreteness" is a product of
@@ -350,7 +350,7 @@ authority and freedom, right and duty, find a historical synthesis that
 honors the mechanistic and deterministic perspective that gave rise to
 both Marxist-inspired collectivism and liberal-inspired individualism.
 
-## The modern humanist viewpoint
+*The modern humanist viewpoint*
 
 If Gentile's humanism of labor viewpoint cannot be credited with
 advancing political theory or leading to tangible accomplishments eighty
@@ -407,7 +407,7 @@ fragmenting into a more intricate web of specialized and in-depth
 research, endangering the unity of knowledge embodied by the
 transcendent and metaphysical aspect of human existence.
 
-## Concluding remarks
+***Concluding remarks***
 
 The humanism of labor is the product of a mind devoted to comprehending
 the human being in his totality, in his union between freedom and
@@ -494,6 +494,7 @@ prevalent even in many academic circles and beyond.
 [^20]: G. Gentile, *Genesis and Structure of Society*, 172.
 
 [^21]:  See B. Croce, *A Croce Reader: Aesthetics, Philosophy, History, and Literary Criticism*, trans. M. Verdicchio (Toronto-Buffalo-London: University of Toronto Press, 2017), 27-30.
+    =================================================================================================================================================================================
 
 [^22]: G. Gentile, *Genesis and Structure of Society*, 171.
 

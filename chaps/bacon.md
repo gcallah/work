@@ -18,9 +18,9 @@ When we pay close attention to Bacon's historico-theological framing
 device of the fall of man, we see that the central problem of human
 existence is the fact that man has lost his dominion over nature such
 that *work*, and not *rest*, is his constant mode. Men must work to toil
-the ground and are in constant search for labour-saving devices to
-reduce the amount of work required to satisfy their material needs. To
-make matters worse, the dominant approach to natural inquiry has proved
+the ground and are in constant search for labor-saving devices to reduce
+the amount of work required to satisfy their material needs. To make
+matters worse, the dominant approach to natural inquiry has proved
 unable to produce technological fruit. However, if there were a method
 of natural inquiry that could more effectively enable us to manipulate
 nature for our benefit, we might be able to enter into God's sabbath
@@ -40,7 +40,7 @@ Scholars of a Straussian persuasion have deepened this analysis in a
 number of important ways, for example by drawing attention to Bacon's
 transformation of the relationship between man and nature, by
 highlighting his connection to Machiavelli, and by emphasizing some
-potentially less-favourable political implications of his thought.
+potentially less-favorable political implications of his thought.
 However, much of this work does not deny what the so-called mainstream
 commentators have written about Bacon's influence on modern scientific
 method.[^3]
@@ -120,18 +120,18 @@ work and rest come into view. Put simply, I argue that we can read Bacon
 as using the fall as a framing device, giving him an account of the
 origin of the greatest human difficulties and the categories by which he
 attempted to address them. With the fall, mankind's original power over
-nature was lost, such that great labour and toil -- that is, *work* --
+nature was lost, such that great labor and toil -- that is, *work* --
 are required to preserve our fragile lives. Nature is resistant to human
 concerns, and even human nature itself is no longer fit to exercise its
 original right. The solution, to both non-human nature's resistance and
 human nature's inability to control nature, is a new, methodical
 approach to natural inquiry. Bacon's method of induction is not simply a
-means whereby labour-saving devices may be invented, it itself is a
-labour-saving device that allows fallen men to discover the inner
+means whereby labor-saving devices may be invented, it itself is a
+labor-saving device that allows fallen men to discover the inner
 workings of nature in such a way that mankind's original power over
 nature can be regained.
 
-**The Fall of Man and the Increase of Labour**
+**The Fall of Man and the Increase of Labor**
 
 Bacon's understanding of the fall frames his scientific and political
 project, explaining why it is necessary and the way in which it can
@@ -152,23 +152,23 @@ creation.
 The "Plan of the Work," which follows the preface and acts as an
 introduction to his entire project, closes with a comparison of divine
 creation and the human attempts to create new works within it. It
-repeats one of Bacon favourite images, namely God's creating light on
-the first day of creation, and only after that creating tangible
-benefits -- the implication being that Bacon's inductive method will
-create knowledge at first and tangible benefits only after a lengthy
-passage of time. The situation men face, however, when attempting to
-manipulate nature for their own ends, is different. Instead of being
-able to implement an orderly and rational plan, they are met with a
-world full of "vanity and vexation of spirit." The world in which men
-live is meaningless and impossibly difficult to organize and manipulate.
-Because of this, Bacon concludes, "he has no rest."[^13] It is only by
-following the scientific method outlined in *The Great Instauration*
-that we can enter into the Sabbath rest we have been promised. This is
-obviously a this-worldly Sabbath, consisting of the convenient
-satisfaction of material wants. There is no explicit reference to the
-fall, but it rings loudly in the undertones of this passage, especially
-insofar as the problem to be overcome is nature's resistance to human
-works and Man's inability to enjoy the Sabbath rest.
+repeats one of Bacon favorite images, namely God's creating light on the
+first day of creation, and only after that creating tangible benefits --
+the implication being that Bacon's inductive method will create
+knowledge at first and tangible benefits only after a lengthy passage of
+time. The situation men face, however, when attempting to manipulate
+nature for their own ends, is different. Instead of being able to
+implement an orderly and rational plan, they are met with a world full
+of "vanity and vexation of spirit." The world in which men live is
+meaningless and impossibly difficult to organize and manipulate. Because
+of this, Bacon concludes, "he has no rest."[^13] It is only by following
+the scientific method outlined in *The Great Instauration* that we can
+enter into the Sabbath rest we have been promised. This is obviously a
+this-worldly Sabbath, consisting of the convenient satisfaction of
+material wants. There is no explicit reference to the fall, but it rings
+loudly in the undertones of this passage, especially insofar as the
+problem to be overcome is nature's resistance to human works and Man's
+inability to enjoy the Sabbath rest.
 
 These allusions to the fall are augmented by an interesting source:
 Bacon's personal confession of faith, which was not printed until years
@@ -325,7 +325,7 @@ practice it is akin to blind wanderings that occasionally happen upon a
 truth or a useful discovery. It is not due to the skill or method of the
 inquirers, but dumb luck.
 
-**Baconian Method as a Labour-Saving Device**
+**Baconian Method as a Labor-Saving Device**
 
 The image of blind wanderings is not the only one Bacon uses to
 highlight the difference between his method and previous modes of
@@ -519,7 +519,7 @@ that is, the replacement of Aristotle's organon -- signals that Bacon is
 in fact setting up a contest between himself and the ancients. It is not
 a contest of *intelligence*, though, but of *tools or instruments*. The
 main selling point of Bacon's method is that, like any tool or
-labour-saving device, it can be put to good use by almost anyone
+labor-saving device, it can be put to good use by almost anyone
 regardless of intelligence. Bacon thus makes the success of the modern
 scientific enterprise hang on the method, or road, used, not the
 capacity of individual scientists.
@@ -543,7 +543,7 @@ opening parable of many strong men failing to move a heavy obelisk.
 Bacon's method is akin to a device that can move heavy objects. It is
 worth dwelling on this metaphor, as it highlights the relationship
 between human intellectual capacity, his scientific method, and its
-character as a labour-saving device. Bacon does not in this example
+character as a labor-saving device. Bacon does not in this example
 describe the hypothetical "tools or machines" (p. 29) he imagines moving
 the obelisk, but it is not out of the question that something like
 pulleys or wedges would fit the bill.[^42] Common to simple machines
@@ -577,12 +577,12 @@ that when taken seriously new light is shed on his project. Bacon
 depicts a world over which men have the right to rule but which
 nevertheless resists their best efforts. His novel scientific method is
 therefore presented as the means whereby God's original plan for
-creation can be restored and men can rest from their labour. Adam and
+creation can be restored and men can rest from their labor. Adam and
 Eve's sinful desire for moral knowledge drastically -- and tragically --
 increased the amount of work required to conquer nature; Bacon's
 charitable desire for scientific knowledge can reduce the burden of work
 and allow the human race to enter into God's promised Sabbath rest. That
-the curse of the fall is the main problem to overcome is borne out by
+the curse of the fall is the main problem to be overcome is borne out by
 the final sentences of *The New Organon*, which in closing I quote at
 length:
 

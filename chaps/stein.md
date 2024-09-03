@@ -1,4 +1,4 @@
-# The woman's soul as "shelter:" Edith Stein on the work of women
+**The woman's soul as "shelter:" Edith Stein on the work of women**
 
 Contribution to volume *By the Sweat of Your Brow: Some Concepts of Work
 in the History of Western Thought* \[working title\] edited by Gene
@@ -12,7 +12,7 @@ Politics from King\'s College London. She studies the political thought
 of Alexis de Tocqueville, especially regarding family, women, and the
 maintenance of liberty in democratic societies.
 
-Word count: 6,427 (excluding footnotes and bibliography)
+Word count: 6,429 (excluding endnotes)
 
 The category of "women's work" enriches a thorough intellectual history
 of the idea of work. Contributing this perspective, this chapter
@@ -50,22 +50,22 @@ most articulate twentieth-century investigations on the subject.
 Stein was born to a Jewish family in what is now Poland in 1891.
 Following the First World War, Stein engaged with many women's
 issues.[^6] As European feminism shifted, Stein remained moderate amid
-various poles within the movement.[^7] She started teaching 1916, during
-her doctoral studies, which were supervised by Edmund Husserl.[^8] After
-working as Husserl's assistant, she hoped to obtain a university
-position, but sexist customs excluded her.[^9] In 1921, she converted to
-Catholicism, and throughout the 1920s, she worked at a girls school,
-continuing to write.[^10] This experience, as well as her activism in
-wider education groups, spurred her to consider the "philosophical
-foundations" of the practice and purpose of education.[^11] She was
-masterful, with one student recalling "the magic of her
-personality."[^12] Stein's work in education is indispensable background
-to her considerations on the nature of woman.[^13] Later, she became a
-professor in Münster but was dismissed in 1933 with the establishment of
-Nazi rule.[^14] Throughout the 1930s, she lived in Carmelite
-monasteries, taking her vows and writing treatises.[^15] She was
-murdered in Auschwitz, following the interment of Jewish-born Catholics
-in 1942.[^16]
+various poles within the movement.[^7] She started teaching in 1916,
+during her doctoral studies, which were supervised by Edmund
+Husserl.[^8] After working as Husserl's assistant, she hoped to obtain a
+university position, but sexist customs excluded her.[^9] In 1921, she
+converted to Catholicism, and throughout the 1920s, she worked at a
+girls school, continuing to write.[^10] This experience, as well as her
+activism in wider education groups, spurred her to consider the
+"philosophical foundations" of the practice and purpose of
+education.[^11] She was a masterful teacher, with one student recalling
+"the magic of her personality."[^12] Stein's work in education is
+indispensable background to her considerations on the nature of
+woman.[^13] Later, she became a professor in Münster but was dismissed
+in 1933 with the establishment of Nazi rule.[^14] Throughout the 1930s,
+she lived in Carmelite monasteries, taking her vows and writing
+treatises.[^15] She was murdered in Auschwitz, following the interment
+of Jewish-born Catholics in 1942.[^16]
 
 Prayerfully prolific, Stein's writings ranged from "philosophy" to
 "hagiography."[^17] Her commentary on women's work primarily relates to
@@ -97,21 +97,21 @@ as a prime "example" of Stein's methodological marriage of "Husserlian
 methodology" with the intricacies of function and "experience."[^24]
 
 Stein highlights the body in her analysis of woman's nature. Marian
-Maskulak identifies her approach as "body-soul holism."[^25] For Stein,
-the features of woman are obvious, and "\[o\]nly the person blinded by
-the passion of controversy could deny that woman in soul and body is
-formed for a particular purpose."[^26] She also contends that the soul
-of woman is more closely linked to the body.[^27] For women, the "soul
-is present and lives more intensely in all parts of the body," whereas
-for men, the body provides an instrumental (and thereby somewhat
+Maskulak identifies her approach as "body-soul holism."[^25] According
+to Stein, the features of woman are obvious, and "\[o\]nly the person
+blinded by the passion of controversy could deny that woman in soul and
+body is formed for a particular purpose."[^26] She also contends that
+the soul of woman is more closely linked to the body.[^27] For women,
+the "soul is present and lives more intensely in all parts of the body,"
+whereas for men, the body provides an instrumental (and thereby somewhat
 disconnected) function.[^28] Stein sees this body-soul "union" as
 connected to "motherhood."[^29] Pregnancy "represents such an intimate
 unity of the physical and spiritual that one is well able to understand
 that this unity imposes itself on the entire nature of woman."[^30]
-While the relationship between body and soul is important for Stein, it
-is not overdetermined. Borden notes that Stein suggests "\[f\]emale
-bodies are particularly fit for feminine souls," while "the body is not
-the reason for the emphases of the soul."[^31]
+While the relationship between body and soul is important in Stein's
+thought, it is not overdetermined. Borden notes that Stein suggests
+"\[f\]emale bodies are particularly fit for feminine souls," while "the
+body is not the reason for the emphases of the soul."[^31]
 
 From the body, Stein examines the soul, encompassing a generalizable
 sense of the feminine ethos, personality, and character.[^32] Stein is
@@ -162,18 +162,18 @@ tendency towards a broad "harmonious development of all her
 faculties."[^47] By this she means that woman is concerned with an
 effort "to develop herself to a wholeness and to help others to a
 corresponding development," and this orientation to equilibrium and
-balance saves her from man's "one-sided activation."[^48] For Stein,
-woman strives "to the totality in herself and in others" and "expresses
-a unity and wholeness of the total psychosomatic personality."[^49]
-Haney explains that woman's position in relation to "the other" in
-wifehood and motherhood requires "her own integrity."[^50] Woman is "a
-whole person," and this informs her ability "to love the whole person of
-the other."[^51] This "harmonious development" is an important element
-of the nature of woman, for Stein, because it facilitates her empathetic
-qualities.[^52]
+balance saves her from man's "one-sided activation."[^48] In Stein's
+account, woman strives "to the totality in herself and in others" and
+"expresses a unity and wholeness of the total psychosomatic
+personality."[^49] Haney explains that woman's position in relation to
+"the other" in wifehood and motherhood requires "her own
+integrity."[^50] Woman is "a whole person," and this informs her ability
+"to love the whole person of the other."[^51] This "harmonious
+development" is an important element of the nature of woman, within
+Stein's account, because it facilitates her empathetic qualities.[^52]
 
-For Stein, woman's interest in the living and the personal and her
-interest in broad development are related to woman's capacities for
+According to Stein, woman's interest in the living and the personal and
+her interest in broad development are related to woman's capacities for
 empathy and sympathy. Woman is able "to interest herself empathetically
 in areas of knowledge far from her own concerns" when "a personal
 interest" demands her attention to these new "areas."[^53] Woman's
@@ -188,14 +188,15 @@ underdeveloped.[^56] In this regard, Stein portrays woman as possessing
 capacities for broad learning and precise discernment.
 
 Empathy was a principal philosophical interest for Stein, apart from her
-interest in women. Petr Urban summarizes that, for Stein, "\[e\]mpathy
-is an other-oriented type of consciousness."[^57] True empathy is a
-"type of perception."[^58] Far from concluding that empathy is a lesser
-trait, Stein deems it "a feature of a genuine rationality" because
-empathy delivers "knowledge of others" that determines our "own
-individuation" and relation to the other, as Haney notes.[^59] When
-Stein emphasizes the feature of empathy in woman, she is referring to a
-generative skill of reasoning and sense-making.
+interest in women. Petr Urban summarizes that, from to Stein's
+perspective, "\[e\]mpathy is an other-oriented type of
+consciousness."[^57] True empathy is a "type of perception."[^58] Far
+from concluding that empathy is a lesser trait, Stein deems it "a
+feature of a genuine rationality" because empathy delivers "knowledge of
+others" that determines our "own individuation" and relation to the
+other, as Haney notes.[^59] When Stein emphasizes the feature of empathy
+in woman, she is referring to a generative skill of reasoning and
+sense-making.
 
 Stein also notes that feminine psychology is concerned with "the
 emotional life" more so than "cognitive and creative action."[^60] Where
@@ -225,14 +226,14 @@ superficially in too many areas, consequently "frittering away" her
 abilities and "nibbling in all areas."[^67] Woman's natural preference
 can become "a perverted desire for totality and inclusiveness," leading
 to "fragmentation" and "a mania to know everything and thereby to skim
-the surface of everything."[^68] Perhaps counterintuitively, her desire
-for balanced development may lead to chronic shallowness. Additionally,
-Stein warns that, to the extent woman can develop "one-sidedness," it
-manifests in "unilateral emotional development."[^69] Woman can also
-become unduly focused on and distracted by other people.[^70] Further, a
-woman may use her family in "pursuit of prestige" and "importance."[^71]
-She cautions against woman's "servile dependence on man."[^72] Stein
-also warns that woman is prone to "greed" and "sensuality."[^73]
+the surface of everything."[^68] Thus, her desire for balanced
+development can lead to chronic shallowness. Additionally, Stein warns
+that, to the extent woman can develop "one-sidedness," it manifests in
+"unilateral emotional development."[^69] Woman can also become unduly
+focused on and distracted by other people.[^70] Further, a woman may use
+her family in "pursuit of prestige" and "importance."[^71] She cautions
+against woman's "servile dependence on man."[^72] Stein also warns that
+woman is prone to "greed" and "sensuality."[^73]
 
 Stein suggests man can fortify "his wife" against "sensuality" by
 encouraging her involvement "in his own creative work or in independent
@@ -266,9 +267,8 @@ the flourishing of "other souls," her soul should be
 With these exhortations, Stein establishes that nature can be molded.
 Stein's philosophy of education suggests that the "soul" resembles "a
 living formative root," but like a "plant," "interior and exterior
-factors" influence "the soul's formation."[^81] For Stein, souls and
-individuals require "instruction and guidance," though they possess
-peculiar natures.[^82]
+factors" influence "the soul's formation."[^81] Souls and individuals
+possess peculiar natures that require "instruction and guidance."[^82]
 
 Stein addressed girls' education at a time when secondary education
 largely endowed young women with "pretty manners" and little
@@ -344,18 +344,18 @@ upon an element of "freedom" in her discussion of vocation.[^107] This
 section presents Stein's description of the natural vocations of women
 as well as her analysis of women's professions.
 
-Women's work for Stein is bound up with purposeful vocation. She perhaps
-considers men's work more instrumental, but her description of women's
-work connotes loftier ideals of calling, duty, purpose, and the common
-life. Stein explains that "vocation is the place where the individual is
-incorporated into the community."[^108] While based in nature, both the
-nature of one's sex and one's personality, vocation is not "destiny" or
-externally imposed "fate."[^109] Freedom is found at the intersection of
-nature, discernment, and education. Overall, however, Stein determines
-that because of woman's orientation to the "personal" and holistic,
-woman's principal vocations are as "companion" and "mother."[^110] While
-for most, these manifest in a literal sense, for others, Stein
-considers, these vocations are expressed spiritually.
+Stein understands women's work as bound up with purposeful vocation. She
+perhaps considers men's work more instrumental, but her description of
+women's work connotes loftier ideals of calling, duty, purpose, and the
+common life. Stein explains that "vocation is the place where the
+individual is incorporated into the community."[^108] While based in
+nature, both the nature of one's sex and one's personality, vocation is
+not "destiny" or externally imposed "fate."[^109] Freedom is found at
+the intersection of nature, discernment, and education. Overall,
+however, Stein determines that because of woman's orientation to the
+"personal" and holistic, woman's principal vocations are as "companion"
+and "mother."[^110] While for most, these manifest in a literal sense,
+for others, Stein considers, these vocations are expressed spiritually.
 
 Stein defines the work of companionship as participation in everything
 that one's spouse faces, as a "support and mainstay."[^111] Woman can
@@ -406,9 +406,9 @@ according to Stein.[^130] To foster "the right development" of children,
 woman ought to work towards "the creation of an ambiance" defined by
 "order and beauty" and an "atmosphere" that is "pure."[^131] To support
 her spouse, woman ought establish a "home life so that it does not
-hinder, but rather furthers, his professional work."[^132] For Stein,
-this work matters because the "fine home creates an atmosphere in which
-the soul can freely breathe."[^133] Altogether, this care work fortifies
+hinder, but rather furthers, his professional work."[^132] This work
+matters because the "fine home creates an atmosphere in which the soul
+can freely breathe."[^133] Altogether, this care work fortifies
 families, and Stein considers women "indispensable" to the projects of
 family and community life.[^134]
 
@@ -482,11 +482,11 @@ potentialities."[^153] This has two important consequences for women.
 First, some "passive" women are drawn into "an overly sensual life or
 empty dreams," and, second, "active" women seek "professional
 activity."[^154] The expression of gifts and talents is an important
-theme for Stein, as reflected in her emphasis on how mothers nurture
-unique gifts. The same holds true in her discussion of women's
-professions. She says, "wherever the circle of domestic duties is too
-narrow for the wife to attain the full formation of her powers, both
-nature and reason concur that she reach out beyond the circle."[^155]
+theme, as reflected in her emphasis on how mothers nurture unique gifts.
+The same holds true in her discussion of women's professions. She says,
+"wherever the circle of domestic duties is too narrow for the wife to
+attain the full formation of her powers, both nature and reason concur
+that she reach out beyond the circle."[^155]
 
 Stein values "objective awareness" regarding nature in considering
 women's professions.[^156] That being said, she does not neglect the
@@ -568,21 +568,21 @@ humanity."[^180] Stein, therefore, views women's participation in the
 professions as beneficial "for the entire society," when a "feminine
 ethos" is brought into these workplaces.[^181]
 
-For Stein, all employment where the "woman's soul" flourishes can be "an
-authentic woman's profession."[^182] Where there "are not specifically
-feminine activities," women ought to "preserve true womanliness" at work
-by "sharing, helping, and promoting" others.[^183] For Stein, the
-objective "of the working woman is to fuse her feminine calling with her
-vocational calling," and thereby inflect her vocation with her
-femininity.[^184] A "strong" woman can transform "the *masculine*
-profession into a *feminine* one."[^185] A woman "in mechanical work" is
-"sympathetic and charitable to her colleagues," while "the factory
-worker or the office employee" attends " to the spirits" and
-"trouble-laden hearts" of her colleagues.[^186] Stein sees the world as
-crying out "for maternal sympathy," and therefore, opportunities for the
-expression of the feminine ethos are available in every workplace and
-profession.[^187] For Stein, women are needed wherever maternal love is
-needed, and maternal love is need everywhere.
+Stein finds that all employment where the "woman's soul" flourishes can
+be "an authentic woman's profession."[^182] Where there "are not
+specifically feminine activities," women ought to "preserve true
+womanliness" at work by "sharing, helping, and promoting" others.[^183]
+Thus, the objective "of the working woman is to fuse her feminine
+calling with her vocational calling," and thereby inflect her vocation
+with her femininity.[^184] A "strong" woman can transform "the
+*masculine* profession into a *feminine* one."[^185] A woman "in
+mechanical work" is "sympathetic and charitable to her colleagues,"
+while "the factory worker or the office employee" attends " to the
+spirits" and "trouble-laden hearts" of her colleagues.[^186] Stein sees
+the world as crying out "for maternal sympathy," and therefore,
+opportunities for the expression of the feminine ethos are available in
+every workplace and profession.[^187] Women are needed wherever maternal
+love is needed, and maternal love is need everywhere.
 
 Amid this portrait that balances her feminist aspirations and her
 commitment to feminine singularity, it must be noted that Stein was not
@@ -622,9 +622,9 @@ else.[^197]
 
 For Stein, women could exercise freedom in their work by discerning the
 vocation that suits their personalities and talents, whether that
-vocation is in married or unmarried life or in an array of professions.
-Stein, however, consistently encourages women to operate in their
-vocations with reference to their feminine nature as well as
+vocation is in married or unmarried life or in any of an array of
+professions. Stein, however, consistently encourages women to operate in
+their vocations with reference to their feminine nature as well as
 individuality. This means that the freedom available to women in shaping
 their work is demarcated, bound to the qualities of the companion and
 mother. A woman is free to choose her work, but a woman ought to be
@@ -645,26 +645,25 @@ peace and cheerfulness" in the face of stress are fueled by
 Elsewhere, she notes that when single women find themselves in "a
 grueling, exhausting struggle" as they work "to earn a living or to lose
 themselves in work," they are being called to commit themselves to
-God.[^202] For Stein, "the unmarried woman" is buoyed by noticing "God's
-will at work in the force of circumstances" and by striving "to
-harmonize her own will with the divine;" with this, she receives
-"guidance in grace."[^203] Stein is not naïve about the demands and
-strains of women's work. In circumstances with a difficult husband,
+God.[^202] According to Stein, "the unmarried woman" is buoyed by
+noticing "God's will at work in the force of circumstances" and by
+striving "to harmonize her own will with the divine;" with this, she
+receives "guidance in grace."[^203] Stein is not naïve about the demands
+and strains of women's work. In circumstances with a difficult husband,
 "dangerous" children, or "economic need," women find themselves
 depleted, but "grace" accessed through "prayer" is the "inexhaustible
 source of power" that can sustain these women.[^204]
 
-For Stein, whether in "the home," in "public life," or in the
-"cloister," a woman should aim for union with God, which affords women
-access to their true "vocational ethos" defined by nature.[^205] To
-"fulfill her vocation" whether "in marriage, in a religious order, or in
-worldly profession," woman must rely on "the eternal source of power" to
-accomplish her natural purpose.[^206] For Stein, waiting on the
-unfolding of nature is not enough; education and grace are needed.[^207]
-To achieve this, women "open" themselves "to grace" by surrendering
-their "will" and "soul" entirely "into God's hands."[^208] Through
-prayer and becoming "empty and still," women can "make room for God's
-grace."[^209]
+Whether in "the home," in "public life," or in the "cloister," a woman
+should aim for union with God, which affords women access to their true
+"vocational ethos" defined by nature.[^205] To "fulfill her vocation"
+whether "in marriage, in a religious order, or in worldly profession,"
+woman must rely on "the eternal source of power" to accomplish her
+natural purpose.[^206] For Stein, waiting on the unfolding of nature is
+not enough; education and grace are needed.[^207] To achieve this, women
+"open" themselves "to grace" by surrendering their "will" and "soul"
+entirely "into God's hands."[^208] Through prayer and becoming "empty
+and still," women can "make room for God's grace."[^209]
 
 Stein also notes that the sacraments foster women's relationship with
 God's grace, and therefore, sacraments support women in their formation
@@ -714,16 +713,16 @@ sacraments, to fortify their vocations.
 
 Stein's presentation of the work of women intersects with another major
 theme of her writings -- empathy. Stein was fascinated by the
-phenomenology of "an intersubjective relationship."[^212] For Stein,
-empathy is central to "intersubjectivity and community living."[^213]
+phenomenology of "an intersubjective relationship."[^212] She saw
+"empathy" as central to "intersubjectivity and community living."[^213]
 She also viewed "embodied consciousness and the animated living body" as
 important features of the phenomenology of empathy.[^214] The emphasis
 she put on the body in her understanding of empathy is relevant to her
-considerations on gender and women. For Stein, sexed bodies appear to
-have phenomenological import. Because she deemed women to possess a
-particular affinity for empathy and because she saw the body as relevant
-to intersubjectivity, she suggested a "gendered" account of "the
-empathic structure of consciousness."[^215]
+considerations on gender and women. Sexed bodies appear to have
+phenomenological import within Stein's thought. Because she deemed women
+to possess a particular affinity for empathy and because she saw the
+body as relevant to intersubjectivity, she suggested a "gendered"
+account of "the empathic structure of consciousness."[^215]
 
 Stein, therefore, endowed women with a "distinctive value" that is
 integral to accomplishing "the good of ethics."[^216] Laura Judd Beer
@@ -737,146 +736,6 @@ consciousness. Her considerations on women prove more moderate than
 first glance suggests. Further, women are not secondary within her
 schema of a flourishing community; rather, the empathetic work of women
 shelters the community and ensures the integrity of the common life.
-
-**\
-**
-
-## Bibliography
-
-Astell, Ann W. "From Ugly Duckling to Swan: Education as Spiritual
-Transformation in the Thought of Edith Stein." *Spiritus: A Journal of
-Christian Spirituality* 13, no. 1 (2013): 1--16.
-
-Baseheart, Mary. "Edith
-Stein's Philosophy of Woman and of Women's Education." *Hypatia* 4
-(1998): 120--31.
-
-Batzdorff, Susanne M. "Chronology of Saint Edith Stein's
-Life." In *Edith Stein: The Life of a Philosopher and a Carmelite*,
-edited by Susanne M. Batzdorff, Josephine Koeppel, and John Sullivan,
-xvi--xviii. Washington, D.C.: ICS Publications, 2005.
-
-Beer, Laura Judd.
-"Women's Existence, Woman's Soul: Essence and Existence in Edith Stein's
-Later Feminism." In *Edith Stein: Women, Social-Political Philosophy,
-Theology, Metaphysics and Public History*, edited by Antonio Calcagno,
-4:35--45. Boston Studies in Philosophy, Religion and Public Life.
-Heidelberg: Springer Cham, 2016.
-
-Bello, Angela Ales. "From the 'Neutral'
-Human Being to Gender Difference: Phenomenological and Dual Anthropology
-in Edith Stein." In *Edith Stein: Women, Social-Political Philosophy,
-Theology, Metaphysics and Public History*, edited by Antonio Calcagno,
-4:11--23. Boston Studies in Philosophy, Religion and Public Life.
-Heidelberg: Springer Cham, 2016.
-
-Berkman, Joyce Avrech. "Esther and Mary:
-The Uneasy Jewish/Catholic Dynamic in the Work and Life of Edith Stein."
-*Journal of Feminist Studies in Religion* 32, no. 1 (2016):
-55--73.
-
-Borden, Sarah. "Edith Stein's Understanding of Woman."
-*International Philosophical Quarterly* 46, no. 2 (2006):
-171--90.
-
-Calcagno, Antonio. "Empathy as a Feminine Structure of
-Phenomenological Consciousness." In *The Philosophy of Edith Stein*,
-63--82. Pittsburgh: Duquesne University, 2007.
-
-Cathey, Alexandra. "Edith
-Stein on the Highest Expression of the Feminine Genius." *Studia
-Gilsoniana* 8, no. 2 (2019): 479--94.---------. "The Feminine Genius
-According to Edith Stein." *Studia Gilsoniana* 7, no. 2 (2018):
-295--337.
-
-Courtine-Denamy, Sylvie. *Three Women in Dark Times: Edith
-Stein, Hannah Arendt, Simone Weil*. Translated by Geoffrey M.
-Goshgarian. Ithaca: Cornell University Press, 2001.
-
-Dolling, Lisa M.
-"Edith Stein's Philosophy of 'Liberal' Education." In *Contemplating
-Edith Stein*, edited by Joyce Avrech Berkman, 226--39. Notre Dame,
-Indiana: University of Notre Dame Press, 2006.
-
-Duran, Jane. "Edith Stein,
-Ontology and Belief." *The Heythrop Journal* 48 (2007): 707--12.
-
-Feldhay Brenner, Rachel. "Edith Stein: A Reading of Her Feminist Thought."
-*Studies in Religion/Sciences Religieuses* 23, no. 1 (1994):
-43--56.
-
-Gelber, Lucy, and Romaeus Leuven. "Editors' Introduction to the
-First Edition." In *Essays on Woman*, edited by Lucy Gelber and Romaeus
-Leuven, translated by Freda Mary Oben, 3--42. Washington, D.C.: ICS
-Publications, 1996.
-
-Haney, Kathleen. "Genesis and Beyond:
-Phenomenological Feminism in St. John Paul II and St. Edith Stein." In
-*Listening to Edith Stein: Wisdom for a New Century: A Collection of
-Essays*, edited by Kathleen Haney, 349--71. Washington, D.C.: ICS
-Publications, 2018.
-
-Haney, Kathleen M. "Edith Stein: Woman and Essence."
-In *Feminist Phenomenology*, edited by Linda Fisher and Lester Embree,
-40:213--36. Contributions to Phenomenology. Dordrecht: Springer,
-2000.
-
-Haney, Kathleen M., and Johanna Valiquette. "Edith Stein: Woman as
-Ethical Type." In *Phenomenological Approaches to Moral Philosophy*,
-edited by John J. Drummond and Lester Embree, 47:451--73. Contributions
-to Phenomenology. Dordrecht: Springer, 2002.
-
-Köhler-Ryan, Renée. "'The
-Hour of Woman' and Edith Stein: Catholic New Feminist Responses to
-Essentialism." *Religions* 11, no. 6 (2020): 271.
-
-Lebech, Mette. "Women
-in Society: The Critical Potential of Stein's Feminism for Our
-Understanding of the State." In *Edith Stein: Women, Social-Political
-Philosophy, Theology, Metaphysics and Public History*, edited by Antonio
-Calcagno, 4:25--33. Boston Studies in Philosophy, Religion and Public
-Life. Heidelberg: Springer Cham, 2016.
-
-Lindblad, Ulrika. "Rereading Edith
-Stein What Happened?" *Theology* 99, no. 790 (1996): 269--76.
-
-MacIntyre,
-Alasdair. *Edith Stein: A Philosophical Prologue, 1933-1922*. Lanham:
-Rowman & Littlefield, 2006.
-
-Maskulak, Marian. "Edith Stein: A Proponent
-of Human Community and a Voice for Social Change." *Logos: A Journal of
-Catholic Thought and Culture* 15, no. 2 (2012): 64--83.
-
-McAlister, Linda
-Lopez. "Edith Stein: Essential Differences." *Philosophy Today* 37, no.
-1 (1993): 70--77.
-
-Oben, Freda M. "Edith Stein as Educator." *Thought* 65,
-no. 2 (1990): 113--26.
-
-Paradiso-Michau, Michael R. "Empathy and the Face:
-Edith Stein and Emmanuel Lewis." In *Listening to Edith Stein: Wisdom
-for a New Century: A Collection of Essays*, edited by Kathleen M. Haney,
-267--84. Washington, D.C.: ICS Publications, 2018.Posselt, Teresia
-Renata. *Edith Stein: The Life of a Philosopher and a Carmelite*. Edited
-by Susanne M. Batzdorff, Josephine Koeppel, and John Sullivan.
-Washington, D.C.: ICS Publications, 2005.
-
-Rodeheffer, Jane Kelley. "On
-Spiritual Maternity: Edith Stein, Aristotle, and the Nature of Woman."
-*Proceedings of the American Catholic Philosophical Association* 72
-(1998): 285--303.
-
-Stein, Edith. *Essays on Woman*. Edited by L. Gelber
-and Romaeus Leuven. Translated by Freda Mary Oben. Washington, D.C.: ICS
-Publications, 1996.---------. *Life in a Jewish Family: Edith Stein: An
-Autobiography, 1891-1916*. Edited by L. Gelber and Romaeus Leuven.
-Translated by Josephine Koeppel. Washington, D.C.: ICS Publications,
-2016.
-
-Urban, Petr. "Care Ethics and the Feminist Personalism of Edith
-Stein." *Philosophies* 7, no. 3 (2022): 60.
 
 [^1]: Edith Stein, *Essays on Woman*, ed. L. Gelber and Romaeus Leuven,
     trans. Freda Mary Oben (Washington, D.C.: ICS Publications, 1996),
@@ -1238,8 +1097,8 @@ Stein." *Philosophies* 7, no. 3 (2022): 60.
 [^133]: Ibid., 260.
 
 [^134]: Ibid., 161. Full examination of fatherhood is outside the scope
-    of this chapter, but fathers also serve families, but differently,
-    see: Ibid., 68--73.
+    of this chapter, but fathers also serve families, though
+    differently, see: Ibid., 68--73.
 
 [^135]: Stein, *Woman*, 201.
 

@@ -1,4 +1,4 @@
-# The New Natural Law Theory and the Basic Human Good of Work
+The New Natural Law Theory and the Basic Human Good of Work
 
 Christopher Tollefsen
 
@@ -8,15 +8,23 @@ The "New" Natural Law Theory (NNLT) is a moral theory grounded in a
 reinterpretation of Saint Thomas Aquinas's understanding of the first
 principles of the natural law, elaborated and defended over several
 decades initially by Germain Grisez, John Finnis, and Joseph Boyle, and
-subsequently by many other philosophers and moral theologians (see Lee,
-2019). It provides a distinctive account of the role that the good of
-work plays among practical reason's foundations. In this essay, I
-identify the NNLT account of the nature of and value of work. I then
-look at some practical consequences of the NNLT understanding of the
-good of work; and situate the NNLT understanding of work within a larger
-theological context.
+subsequently by many other philosophers and moral theologians.^1^ On the
+"new" view, the first principles of practical reason, and hence of the
+natural law, are known self-evidently by practical reason, and not by
+inference from truths about human nature. These first principles
+identify a number of basic human goods as to-be-pursued, and the NNLT
+understands "morality" as a matter of being reasonable in pursuing the
+various options for actions that these goods, identified more fully
+below in Section I, make possible.^2^
 
-## I.  The Foundations of Practical Reason
+NNLT provides a distinctive account of the role that the good of work
+plays among practical reason's foundations. In this essay, I identify
+the NNLT account of the nature of and value of work. I then look at some
+practical consequences of the NNLT understanding of the good of work;
+and situate the NNLT understanding of work within a larger theological
+context.
+
+The Foundations of Practical Reason
 
 All action, on the New Natural Law account, aims at some good. The chain
 of practical reason identifying our possible reasons for action cannot
@@ -31,14 +39,13 @@ instrumental benefits provided by that good.
 
 "Work" is often identified by NNL theorists in conjunction with the good
 of "play" and more recently, it is encompassed within a single good of
-"excellence in performance" (Finnis, 2011, 448). In Germain Grisez's
-1983 statement of the theory, the basic good is identified as
-"activities of skillful work and of play, which in their very
-performance enrich those who do them" (Grisez, 1983, 124). Here and
-elsewhere, emphasis is on the skilled performance as that aspect of
-either work or play that benefits and perfects human persons: whether
-one is playing a musical instrument, writing a philosophy paper, or
-engaged in the cooking of a meal, an agent is better off if she plays
+"excellence in performance." In Germain Grisez's 1983 statement of the
+theory, the basic good is identified as "activities of skillful work and
+of play, which in their very performance enrich those who do them"^4^
+Here and elsewhere, emphasis is on the skilled performance as that
+aspect of either work or play that benefits and perfects human persons:
+whether one is playing a musical instrument, writing a philosophy paper,
+or engaged in the cooking of a meal, an agent is better off if she plays
 well, writes capably, or cooks with knowledge and skill rather than, in
 any particular case, doing so in a careless, slovenly, or ignorant way.
 So work and play both share a core aspect that is perfective of human
@@ -75,15 +82,14 @@ in part for the sake of that external reality as a product to be enjoyed
 or consumed by others, i.e., play can be pursued as a form of work.
 
 Is there then *any* difference between play and work on the NNL account?
-I believe there is (Tollefsen, 2020). In the paradigmatic form of play,
-the standards by which excellence or skill are determined, identified,
-and pursued are to a great degree internal to the activity itself. In a
-game, for example, a contingently determined set of rules is
-constitutive of the play of the game and its resolution (e.g., in
-victory and defeat), and what it means to be skilled at the game emerges
-in relation to that set of constitutive rules. There is thus no real way
-to identify excellence in performance in a game in a social world that
-lacks that game.
+I believe there is.^5^ In the paradigmatic form of play, the standards
+by which excellence or skill are determined, identified, and pursued are
+to a great degree internal to the activity itself. In a game, for
+example, a contingently determined set of rules is constitutive of the
+play of the game and its resolution (e.g., in victory and defeat), and
+what it means to be skilled at the game emerges in relation to that set
+of constitutive rules. There is thus no real way to identify excellence
+in performance in a game in a social world that lacks that game.
 
 By contrast, the standards of excellence and skill in work are
 determined to a considerable extent by the nature of the product that is
@@ -113,16 +119,15 @@ excellence of skilled performance. And this, in turn, is consistent with
 a claim that is central to the NNL theory, and, I believe, to the
 entirety of the Thomistic tradition of ethics, viz., that the goods that
 perfect human beings are, as Grisez puts it, "aspects of persons, not
-merely things they have" (Grisez, 1983, 121). In a recent paper, John
-Finnis puts this claim into dialogue with the work of Pope Saint John
-Paul II, who distinguishes between the external aspect of work \-- its
-exterior object \-- and its subjective aspect \-- that in work which
-remains in the agent (Finnis, 2020). Elsewhere, the Pope refers to the
-transitive and intransitive aspects of action, including the action of
-working. Work, as action that is chosen freely, is thus itself
-perfective of the human being, part of the agent's self-constitution
-that comes about through deliberation, choice, and action. As Finnis
-puts it,
+merely things they have."^6^ In a recent paper, John Finnis puts this
+claim into dialogue with the work of Pope Saint John Paul II, who
+distinguishes between the external aspect of work \-- its exterior
+object \-- and its subjective aspect \-- that in work which remains in
+the agent.^7^ Elsewhere, the Pope refers to the transitive and
+intransitive aspects of action, including the action of working. Work,
+as action that is chosen freely, is thus itself perfective of the human
+being, part of the agent's self-constitution that comes about through
+deliberation, choice, and action. As Finnis puts it,
 
 > one's free choices establish, create one's own identity or character
 > -- not, of course, one's identity as male or female, or (somewhat
@@ -134,8 +139,7 @@ puts it,
 > choosing constitute myself the person I will henceforth be, as the
 > person I will remain unless and until (if ever) I repent of that
 > choice, either formally by contrition and resolve to amend my ways, or
-> informally by making a new choice incompatible with the former one
-> (Finnis, 2020, 8).
+> informally by making a new choice incompatible with the former one.^8^
 
 Thus, as I will discuss in the next section, whether one works well or
 not will be central to the person one is and becomes. Work, like all
@@ -144,7 +148,7 @@ constituting themselves well or ill, and thus an agent's dispositions
 and choices toward the good of work are central features of the ethical
 life.
 
-## II. Ethical Action
+Ethical Action
 
 As noted, the NNL theory identifies a multiplicity of human goods. Each
 such good is distinct from the others: there is no single form of good
@@ -173,36 +177,33 @@ by practical reason is one of openness to all the goods in all persons
 for whom the goods are goods. Such openness would be blocked were
 reason's categorical openness to be fettered by desire, and so the
 foundational norm of morality may be understood, as it was by classical
-moral theorists, as "Follow right reason" (Boyle, 2013). One can also
-identify at least as an ideal the state of affairs that would be willed
-by an agent who willed only in accordance with right reason: an ideal of
-integral human fulfillment among all persons. Moral choices could then
-be governed by consideration of which options were and were not in line
-with right reason and integral human fulfillment. NNL theorists
-articulate the first principle of morality so understood as "In
-voluntarily acting for human goods and avoiding what is opposed to them,
-one ought to choose and otherwise will those and only those
-possibilities whose willing is compatible with a will toward integral
-human fulfillment" (Grisez, Finnis, and Boyle, 1987).
+moral theorists, as "Follow right reason."^9^ One can also identify at
+least as an ideal the state of affairs that would be willed by an agent
+who willed only in accordance with right reason: an ideal of integral
+human fulfillment among all persons. Moral choices could then be guided
+by consideration of which options were and were not in line with right
+reason and integral human fulfillment. NNL theorists articulate the
+first principle of morality so understood as "In voluntarily acting for
+human goods and avoiding what is opposed to them, one ought to choose
+and otherwise will those and only those possibilities whose willing is
+compatible with a will toward integral human fulfillment."^10^
 
 This first principle of morality remains to be specified in a set of
 general norms that then can play a more substantive role in practical
 deliberations. So, for example, NNL theorists argue that some action
 types are such as to be reasonably judged *always morally
 impermissible*, namely, when the action is such as to include intended
-damage or destruction to an instance of a human good (Finnis, 1991).
-Intended killing of a suffering patient for the sake of relief of his
-suffering is morally wrong, for example, since it is a violation of this
-norm.
+damage or destruction to an instance of a human good.^11^ Intended
+killing of a suffering patient for the sake of relief of his suffering
+is morally wrong, for example, since it is a violation of this norm.
 
 A second general norm concerns fairness: one should not let the
-distribution of burdens and benefits that result from one's actions to
-be determined by feelings that are not in accordance with reason. To
-accept benefits from an action while shifting burdens onto those who
-will gain nothing, for example, is often a failure of fairness. This
-norm is at the heart of many, though not all, considerations of justice,
-and thus obviously is of political and well as personal importance
-(Finnis, 2011, 106-109).
+distribution of burdens and benefits that result from one's actions be
+determined by feelings that are not in accordance with reason. To accept
+benefits from an action while shifting burdens onto those who will gain
+nothing, for example, is often a failure of fairness. This norm is at
+the heart of many, though not all, considerations of justice, and thus
+obviously is of political and well as personal importance.^12^
 
 Two other norms are of relevance to the discussion of the good of work.
 The first concerns the structure of an agent's life. Reasonable pursuit
@@ -211,7 +212,7 @@ ordered in relation to one another are likely to conflict. Thus
 reasonable agents consider the order of their pursuit of human goods and
 the commitments they make in pursuit of such goods across the whole of
 their lives. The reasonable agent, that is, thinks vocationally about
-the order of his or her life (Finnis, 2011, 103-105).
+the order of his or her life.^13^
 
 A second concerns the ways in which the experience of at least some
 goods, and perhaps all, can be simulated without all, some, or perhaps
@@ -219,26 +220,25 @@ any of the actual good being realized. Drugs can be consumed in order to
 create the experience of knowledge or friendship; fake remedies pursued
 to create the illusion but not the reality of good health; religious
 rituals can be engaged that foster sentiment but not genuine harmony
-between human and divine (Grisez, 1983, 214-215).
+between human and divine.^14^
 
 How are these norms brought to bear on the good of work? Having
 identified four general norms, all in need of further specification, in
 the remainder of this section, I briefly discuss the ways in which each
 norm can be followed or violated.
 
-### A.  No Intentional Damage or Destruction of an Instance of a Basic Good
+No Intentional Damage or Destruction of an Instance of a Basic Good
 
 Criticizing the norm against intentional damage or destruction of a
 basic good, Michael Pakaluk writes that in accordance with this norm, a
 "police officer can no more stop the loud trumpeter from playing outside
-my window at night, it seems, than society can execute a murderer"
-(Pakaluk, 2018). But this does not follow from an adequate account of
-intention: the police officer wishes to restrict the noise that is made
-and to enable me to sleep; that the good of play, as such, is
-restricted, is a side effect; one might say the same when the police
-officer interrupts me *at work* to ask about a local crime:
-interrupting, and hence in some sense damaging, the good of work is here
-a side effect.
+my window at night, it seems, than society can execute a murderer."^15^
+But this does not follow from an adequate account of intention: the
+police officer wishes to restrict the noise that is made and to enable
+me to sleep; that the good of play, as such, is restricted, is a side
+effect; one might say the same when the police officer interrupts me *at
+work* to ask about a local crime: interrupting, and hence in some sense
+damaging, the good of work is here a side effect.
 
 What could it mean to intend damage or destruction of an instance of the
 good of work? Since the core of that good is excellence in performance,
@@ -257,7 +257,7 @@ deliberately seek the privation of excellence in performance as an end
 or means will be genuinely to violate this norm, and thus is always to
 be ruled out by practical reason functioning without error.
 
-### B.  Fairness
+Fairness
 
 Work is frequently -- perhaps most frequently -- pursued in community
 with others. Work is done within families to maintain households, within
@@ -304,42 +304,42 @@ justice, and hence of right, that persons be hired on the basis of
 characteristics and skills relevant to excellence of performance; it is
 a violation of justice and right to hire in a way that unreasonably
 favors some over others on the basis of characteristics irrelevant to
-such performance. It is a matter of justice and right that the workplace
-be an environment in which employers treat employees and employees treat
-their employers and each other respectfully, honor reasonable boundaries
-of personal space, and cooperate on terms of mutual reciprocity; it is a
-failure of justice and right when such conditions do not exist. And it
-is, finally, a matter of justice and right, because a matter of
-fairness, that work be justly remunerated, that good work be
-acknowledged and sometimes rewarded; likewise that important work be
-acknowledged and rewarded; and that persons generally be rewarded for
-their work in ways that do not rely upon arbitrary or discriminatory
-differences such as race or sex.
+such performance.^16^ It is a matter of justice and right that the
+workplace be an environment in which employers treat employees and
+employees treat their employers and each other respectfully, honor
+reasonable boundaries of personal space, and cooperate on terms of
+mutual reciprocity; it is a failure of justice and right when such
+conditions do not exist. And it is, finally, a matter of justice and
+right, because a matter of fairness, that work be justly remunerated,
+that good work be acknowledged and sometimes rewarded; likewise that
+important work be acknowledged and rewarded; and that persons generally
+be rewarded for their work in ways that do not rely upon arbitrary or
+discriminatory differences such as race or sex.
 
 The NNL understanding of work is Catholic, and the work of Grisez and
-Finnis, among others, is deeply consonant with that of John Paull II
+Finnis, among others, is deeply consonant with that of John Paul II
 especially. That Pope wrote that "However true it is that man is
 destined for work and called to it, in the first place, work is 'for
-man,' and not man 'for work'" (Pope John Paul II, 1981, \#6). This must
-remembered in thinking about the nature of the workplace and the
-relationship between employer and employee; in addition to the common
-good of whatever product or external reality the work of a group serves,
-it must always also serve the common good of good work itself.
+man,' and not man 'for work.'"^17^ This must remembered in thinking
+about the nature of the workplace and the relationship between employer
+and employee; in addition to the common good of whatever product or
+external reality the work of a group serves, it must always also serve
+the common good of good work itself.
 
-### C.  Work and Personal Vocation
+Work and Personal Vocation
 
 The lives of persons should manifest good order, and that order is
 brought about in many important respects through the making of
 commitments that structure the agent's life. The most ultimate of such
-commitments, a religious comment, will be discussed in the final section
-of this essay. Here, it suffices to note that among the most important
-structuring commitments after religious and familial commitments is that
-to an agent's work. Much work requires a period of apprenticeship in
-which the agent learns how to do good work -- for some forms of work
-that period is quite extensive. And for many forms of work, good work
-can only be achieved through some form of devotion and concern for
-excellence at that work. So one's commitment to this or that form of
-work will typically play an important role within one's personal
+commitments, a religious commitment, will be discussed in the final
+section of this essay. Here, it suffices to note that among the most
+important structuring commitments after religious and familial
+commitments is that to an agent's work. Much work requires a period of
+apprenticeship in which the agent learns how to do good work -- for some
+forms of work that period is quite extensive. And for many forms of
+work, good work can only be achieved through some form of devotion and
+concern for excellence at that work. So one's commitment to this or that
+form of work will typically play an important role within one's personal
 vocation, the life plan to which one believes oneself called.
 
 This, in turn, requires the agent to give attention to one's chosen
@@ -368,7 +368,7 @@ likely to be incompatible with a number of other pursuits that might be
 too time consuming, too risky, or perhaps inappropriate for someone with
 a physician's commitment to health to pursue.
 
-### D.  The Appearance of Good Work
+The Appearance of Good Work
 
 In regard to many goods it is possible to distinguish between the
 reality of the good's pursuit, and the appearance of its pursuit, the
@@ -400,11 +400,11 @@ reality.
 More could be said in relation to each of these ethical dimensions of
 work on the NNL account. Readers are encouraged to consult, for example,
 Chapter 10 of Germain Grisez's *Way of the Lord Jesus, Volume II, Living
-a Christian Life, "Work, Subhuman Realities, and Property" (Grisez,
-1983). I turn now, however, to the relation of work in the NNLT to that
-theories larger theological claims.*
+a Christian Life, "Work, Subhuman Realities, and Property." I turn now,
+however, to the relation of work in the NNLT to that theories larger
+theological claims.*
 
-## III. The Theological Frame
+The Theological Frame
 
 In this final section I offer only three brief remarks on the
 theological significance of the NNL account of the good of work.
@@ -416,8 +416,8 @@ human, non-human (angelic, Martian), and divine, that encompasses all
 aspects of human flourishing -- all human goods. In the Kingdom, the
 possibilities for human flourishing, in communion with all other
 persons, are extended eternally in a perpetually open-ended way: human
-flourishing in the Kingdom is not a project that will ever be "complete"
-(Grisez, 2008).
+flourishing in the Kingdom is not a project that will ever be
+"complete."^18^
 
 Thus, *first*, the good of work is of necessity present in eternal life
 in the Kingdom if it is an essential aspect of human flourishing. But,
@@ -444,13 +444,12 @@ from the Second Vatican Council's *Gaudium et Spes:*
 > to the Father: \"a kingdom eternal and universal, a kingdom of truth
 > and life, of holiness and grace, of justice, love and peace.\" On this
 > earth that Kingdom is already present in mystery. When the Lord
-> returns it will be brought into full flower (Second Vatican Council,
-> 1965, \#39).
+> returns it will be brought into full flower.^19^
 
 Thus, the fruits of the work that is done on earth will be found in the
 Kingdom. This includes especially the intransitive fruits, for by our
 good work we constitute the good character which a necessary condition
-of being worthy to enter the Kingdom; buy also, it seems, it will
+of being worthy to enter the Kingdom; but also, it seems, it will
 include in some way the transitive fruits of our "enterprise", which we
 will find again burnished and transfigured. The suggestion here is that
 some aspects of the material world and culture which are built in and
@@ -460,69 +459,95 @@ So work will be part of the Kingdom, and work prefigures and constitutes
 the Kingdom. In both ways, work partakes of a theological significance.
 In conclusion I wish to suggest a *third* dimension of the theological
 significance of work which is made apparent within the NNL theory. In
-its transitive dimension, work obviously works with the materials of the
-natural world, transforming them, but not essentially creating them. But
-every choice to work, and to work well, in a way shaped by the norms
-articulated earlier in this essay, does indeed bring something from
-nothing, for there are no sufficient conditions for any particular
-choice being made except for the free choosing of the agent whose choice
-it is.
+its transitive dimension, work obviously works operates upon the
+materials of the natural world, transforming them, but not essentially
+creating them. But every choice to work, and to work well, in a way
+shaped by the norms articulated earlier in this essay, does indeed bring
+something from nothing, for there are no sufficient conditions for any
+particular choice being made except for the free choosing of the agent
+whose choice it is.
 
 Thus, the choice to work is in a real way an image of and even
 participation in God's creation *ex nihilo*. As Finnis notes, "by work,
 human persons fulfil, develop or realize themselves, that is, we each
 share in God's creation of us, even when the work -- what we are working
-on, or working at -- is humble in its 'objective character' as work"
-(Finnis, 2020). That we are able to work is thus a profound instance of
+on, or working at -- is humble in its 'objective character' as
+work."^20^ That we are able to work is thus a profound instance of
 "participation in God\'s wisdom and goodness by man formed in the image
 of his Creator. It expresses the dignity of the human person and forms
-the basis of his fundamental rights and duties" (Catechism of the
-Catholic Church, 1987, \#1978).
+the basis of his fundamental rights and duties."^21^
 
-REFERENCES
+ENDNOTES
 
-*Boyle, Joseph. 2013. "On the Most Fundamental Principle of Morality,"
-in Reason, Morality, and Law: The Philosophy of John Finnis, edited by
-John Keown and Robert P. George. Oxford: Oxford University Press.*
+1\. See P. Lee, "The New Natural Law Theory," in *The Cambridge
+Companion to Natural Law Ethics*, edited by Tom Angier (Cambridge:
+Cambridge University Press, 2019), 73-91.
 
-*Catechism of the Catholic Church. 1997. Accessed May 14, 2024:
-https://www.vatican.va/archive/ENG0015/\_INDEX.HTM.*
+2\. A further discussion of the NNLT and its differences from other
+forms of Thomistic natural law may be found in C. *Tollefsen, "The New
+Natural Law Theory," Natural Law, Natural Rights, and American
+Constitutionalism, 2012:
+http://www.nlnrac.org/contemporary/new-natural-law-theory. Accessed July
+11, 2024.*
 
-*Finnis, John. 1991. Moral Absolutes: Tradition, Revision, and Truth.
-Washington, D.C.: The Catholic University of America Press.*
+*3. J. Finnis, Natural Law and Natural Rights, 2^nd^ edition. (Oxford:
+Oxford University Press. 2011), 448.*
 
-*Finnis, John. 2011. Natural Law and Natural Rights, 2^nd^ edition.
-Oxford: Oxford University Press.*
+*4. G. Grisez, The Way of the Lord Jesus, vol. 1, Christian Moral
+Principles. (Quincy, IL: Franciscan Press, 1983), 124.*
 
-*Finnis, John. 2020. "John Paul II and the Foundations of Ethics,"
-Accessed May 13, 20204.
-<https://angelicum.it/st-john-paul-ii-institute-of-culture/wp-content/uploads/2022/05/Finnis-JP2-Lecture-2020-21.pdf>.*
+*5. See C. Tollefsen, "The Good of Play in John Finnis's Natural Law and
+Natural Rights," Revista Persona y Derecho 83: 2020. 571-590.*
 
-*Grisez, Germain, John Finnis, and Joseph Boyle. 1987. "Practical
-Principles, Moral Truth, and Ultimate Ends," American Journal of
-Jurisprudence 32: 99--151.*
+*6. Grisez, op. cit., 121.*
 
-*Grisez, Germain. 1983. The Way of the Lord Jesus, vol. 1, Christian
-Moral Principles. Quincy, IL: Franciscan Press.*
+*7. J. Finnis, "John Paul II and the Foundations of Ethics,"
+<https://angelicum.it/st-john-paul-ii-institute-of-culture/wp-content/uploads/2022/05/Finnis-JP2-Lecture-2020-21.pdf>.
+Accessed May 13, 20204.*
 
-*Grisez, Germain. 2008. "The True Ultimate End of Human Beings: The
-Kingdom, Not God Alone," Theological Studies 69: 38-61.*
+*8. Ibid., 8.*
 
-Lee, Patrick. 2019. "The New Natural Law Theory," in *The Cambridge
-Companion to Natural Law Ethics*, edited by Tom Angier, 73-91.
-Cambridge: Cambridge University Press.
+*9. J. Boyle, "On the Most Fundamental Principle of Morality," in
+Reason, Morality, and Law: The Philosophy of John Finnis, edited by John
+Keown and Robert P. George. (Oxford: Oxford University Press, 2013).*
 
-*Pakaluk, Michael. 2018. "The Philosophical Case against the
-Philosophical Case against Capital Punishment," Public Discourse,
-Accessed May 14, 2024:
-<https://www.thepublicdiscourse.com/2018/01/20643/>.*
+*10. G. Grisez, J. Finnis, and J. Boyle, "Practical Principles, Moral
+Truth, and Ultimate Ends," American Journal of Jurisprudence 32: 1987,
+99--151, at 128.*
 
-*Pope John Paul, II. Laborem Exercens: On Human Work. Accessed May 14,
-2024:
-<https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html>.*
+*11. J. Finnis, Moral Absolutes: Tradition, Revision, and Truth.
+(Washington, D.C.: The Catholic University of America Press, 1991.)*
 
-*Second Vatican Council. 1965. Gaudium et Spes. Accessed May 14, 2024:
-<https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html>.*
+*12. J. Finnis, Natural Law and Natural Rights*, 106-109.
 
-*Tollefsen, Christopher. 2020. "The Good of Play in John Finnis's
-Natural Law and Natural Rights," Revista Persona y Derecho 83: 571-590.*
+13\. *Ibid.*, 103-105.
+
+14\. Grisez, op. cit., 214-215.
+
+15\. M. Pakaluk, *"The Philosophical Case against the Philosophical Case
+against Capital Punishment," Public Discourse, 2018.
+<https://www.thepublicdiscourse.com/2018/01/20643/>. Accessed May 14,
+2024.*
+
+*16.* Amongst a group of people working together, "relevant to
+excellence of performance" will reasonably be understood in a fairly
+broad way. The most skilled agent is unlikely perform well in an
+environment of upright agents if he is, for example, publicly deficient
+in virtue (a point suggested to me by Gene Callahan).
+
+17\. *Pope John Paul, II. Laborem Exercens: On Human Work.
+<https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html>,
+\#6. Accessed May 14, 2024.*
+
+*18. G. Grisez, "The True Ultimate End of Human Beings: The Kingdom, Not
+God Alone," Theological Studies 69: 2008.*
+
+*19. Second Vatican Council. Gaudium et Spes, 1965, \#39.
+<https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html>.
+Accessed May 14, 2024.*
+
+*20. Finnis, "John Paul II and the Foundations of Ethics."*
+
+*21. Catechism of the Catholic Church. 1997, \#1978.
+<https://www.vatican.va/archive/ENG0015/_INDEX.HTM>. Accessed May 14,
+2024.*
