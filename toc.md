@@ -79,5 +79,5 @@ and Man's Right over Nature](abstracts/bacon.md),
 Hungary
 - [MacIntyre on Work as a Practice](chaps/macintyre.md), Matias Petersen, Affiliation
 - [The New Natural Law Theory and the Basic Human Good of Work](chaps/nnlt.md), [Christopher Tollefsen](bios/tollefsen.md), University of South Carolina
-- Work and Its Discontents: Geuss and Graber, [Gülşen Seven](bios/seven.md), Turkish Education Association University
+- A Brief Sketch of Contemporary Issues in the Philosophy of Work, [Gülşen Seven](bios/seven.md), Turkish Education Association University
 
