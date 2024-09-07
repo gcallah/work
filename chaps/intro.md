@@ -110,6 +110,7 @@ divine rest for which we were originally created. Chamberlain contends that this
 
 ## John Locke (1632–1704)
 
+Jason Ferrell writes that
 John Locke's theories on labor and property are well-explored, but they remain provocative. Traditionally, Locke is seen
 as a natural law theorist who justifies property rights through labor, asserting that labor fulfills a moral duty of
 self-preservation. Interpretations of Locke's work generally fall into three categories: one that aligns him with
@@ -117,16 +118,17 @@ classical liberalism and libertarianism; another that critiques him for justifyi
 third that dismisses his ideas as outdated. These interpretations often reflect the biases of individual scholars more
 than Locke's actual arguments.
 
-Despite the familiarity of Locke's work, some argue that there are important nuances worth revisiting. Ferrell suggests
-that a closer examination of Locke's position could reveal overlooked aspects and offer fresh insights into his
-controversial ideas.
+Despite the familiarity of Locke's work, Ferrell argues that there are important nuances that repay a fresh look.
+Its continued relevance is evidenced by the fact that recent scholars, such as Robert Nozick, have turned to Locke for
+inspiration.
 
 ## Adam Smith (1723–1790)
 
 Adam Smith, a Scottish thinker and professor of Moral Philosophy at the University of Glasgow, is widely regarded as the
-father of economics, primarily due to his seminal work, An Inquiry into the Nature and Causes of the Wealth of Nations.
+father of economics, primarily due to his seminal work, *An Inquiry into the Nature and Causes of the Wealth of Nations*.
 
-Among his many contributions, the concept of the “invisible hand” is perhaps the most famous. However, the division of
+Maria Paganelli argues that, while 
+the concept of the "invisible hand" is perhaps Smith's most famous idea, that of the division of
 labor is also a key idea closely associated with Smith. According to Paganelli, Smith considered the division of labor
 essential for creating a prosperous and happy society. Both concepts have been extensively interpreted and sometimes
 misused, but they remain central to understanding Smith's economic thought.
