@@ -167,11 +167,17 @@ a voice from the "pro-work" side of our civilizational debate.
 
 Spartaco Pupo writes that
 Giovanni Gentile, a leading Italian philosopher of the twentieth century, developed a "humanism of labor" in his
-posthumously published work, *Genesis and Structure of Society* (1946). Gentile saw modern understanding of labor as
-spiritually valuable, akin to his view of culture. He emphasized the profound connection between intellectual and manual
-labor and the "Absolute Spirit," arguing that both types of labor hold methodological significance. Gentile's thesis
+posthumously published work, *Genesis and Structure of Society* (1946). Gentile believed that the modern understanding of labor as
+spiritually valuable was correct, and akin to his view of culture. He emphasized the profound connection between intellectual and manual
+labor and the "Absolute Spirit," arguing that both types of labor are of crucial significance. Gentile's thesis
 highlights the importance of the interaction between intellectuals and workers, positing a genuine union of labor and
 culture within the framework of human values.
+
+Pupo further notes that Gentile's work is unduly neglected in the English-speaking world, due to his fame being eclipsed
+by his older contemporary Benedetto Croce, and because of an article published in English by his erstwhile follower, Guido De
+Ruggiero, who accused Gentile of promoting "an abstruse and tiresome theology" full of "false rhetorical emotion."
+Gentile argues for renewed attention to Gentile, since his "humanism of labor" shows us a way to break out of our prison
+of "technism and consumerism."
 
 ## Max Weber (1864–1920)
 
@@ -181,36 +187,49 @@ assesses the validity of Weber's thesis, which has been both influential and con
 surrounding Weber's argument and explores how critics, as Stephen Kallberg notes, often fail to fully grasp the
 complexity of Weber's analysis.
 
+The upshot of this chapter is that, while Weber was wrong or at least insufficiently attentive to historical detail in
+some aspects of his famous work, his central thesis has certainly not been decisively refuted, and is still worthy of
+our attention today, as we seek to understand how we arrived at our current situation.
+
 ## Ludwig von Mises (1881–1973)
 
-The adage "A bad day of fishing is better than a good day at work" reflects a deeper understanding of the relationship
-between labor and leisure. This relationship is central to Ludwig von Mises's analysis in *Human Action*. Mises critiques
-the socialist view, notably by Karl Kautsky, which suggests that socialism could transform the discomfort of labor into
+Gabriel Benzecry and Nicholas Jensen defend the case Ludwig von Mises makes, that laboring inherently involves
+"disutility." They claim that the adage "A bad day of fishing is better than a good day at work"
+reflects a sginificant understanding of the relationship
+between labor and leisure. This relationship is central to Mises's analysis in of labor in *Human Action*. Mises critiques
+the socialist view (represented by Karl Kautsky), which suggests that socialism could transform the disutility of labor into
 pleasure. According to Mises, labor is inherently unpleasant because it involves discomfort and the sacrifice of
-leisure. He explores why people engage in labor despite its inherent disutility, proposing that labor involves delayed
+leisure. He asks why people engage in labor despite its inherent disutility, proposing that labor involves delayed
 gratification: individuals endure the negative aspects of work to enjoy the benefits of leisure later.
 
 ## Edith Stein (1891–1942)
 
-Edith Stein's perspective enriches our understanding of work through the lens of gender and vocation. She integrates
-concepts of nature, freedom, and grace into her view of work. For Stein, while work is influenced by one's nature,
+Sarah J. Wilford contends that any history of work will be incomplete without an exploration of "women's work."
+To that end, she examines the work of Edith Stein.
+Stein integrates
+the concepts of nature, freedom, and grace into her view of work. For Stein, while work is influenced by one's nature,
 including gender, it is not solely determined by it. She emphasizes the personal nature of vocation and the role of
-freedom in choosing one's path. Stein also explores how grace sanctifies work and supports individuals through its
-trials and triumphs. This chapter will first address her views on women's nature and education, then her ideas on
-freedom and choice in vocations, and finally, how grace and spiritual practices enhance the experience of work.
+freedom in choosing one's path. Stein also explores how grace sanctifies work and supports individuals through their
+trials and triumphs. Wilford's chapter first addresses Stein's views on women's nature and education, then her ideas on
+freedom and choice in vocations, and finally, how grace and spiritual practices enhance the experience of work. Wilford
+demonstrates that Stein offers us a "middle way" view of women's work, simultaneously arguing that women may excel at
+and should not be barred from any profession, while recognizing that the nature of women *qua* women may incline women
+on the whole more towards certain roles in society.
 
 ## Michael Oakeshott (1901–1990)
 
+John Coats argues that 
 Michael Oakeshott's concept of "the deadliness of doing" offers a critical perspective on the role of practical
-activity, including labor, in human life. Oakeshott suggests that practical activities should not dominate our lives but
-rather be complemented by philosophical and poetic endeavors. This chapter will explore:
+activity, and in particular, labor, in human life. Oakeshott suggests that practical activities should not dominate our lives but
+rather be complemented by philosophical and poetic endeavors. Coats examines Oakeshott's view on the limited role of
+practical activity, contrasting it with materialist perspectives like those of Karl Marx.
 
-Oakeshott's view on the limited role of practical activity, contrasting it with materialist perspectives like those of Karl Marx.
-
-His belief that activities done for their own sake, rather than for external benefits, mirror the creative structure of
-human experience. This section will compare Oakeshott's views with those of Aristotle and Montaigne.
-The role of ritualistic practices in achieving necessary practical outcomes in a less burdensome manner, highlighting
-how rituals can be performed for their own sake while providing residual practical benefits.
+Coats goes on to discuss
+Oakeshott's belief that activities done for their own sake, rather than for external benefits, mirror the creative structure of
+human experience. Coats compares Oakeshott's views with those of Aristotle and Montaigne.
+And Coats looks at the role of ritualistic practices in achieving practical outcomes
+in a less burdensome manner, highlighting how rituals can be performed for their own sake
+while providing residual practical benefits.
 
 ## Josef Pieper (1904–1997)
 
@@ -223,11 +242,17 @@ also critique modern work ideologies and their simplification of existence, alig
 
 ## Hannah Arendt (1906–1975)
 
-Hannah Arendt, a profound twentieth-century thinker, examined the human condition through the lens of work and activity.
-Her work, notably *The Human Condition* (1958), distinguishes between labor, work, and action, offering a framework for
-understanding these facets of human effort. This chapter will overview Arendt's categories and their impact on various
-fields, including sociology and management studies. It also address critiques of her work, particularly from
-feminist and democratic theorists.
+In this chapter, Josefina Araos Bralic and Sarah Wilford take up the work of the the profound twentieth-century thinker,
+Hannah Arendt. They show how Arendt examined the human condition through the lens of work and activity.
+Arendt's writings, notably *The Human Condition*, distinguish between labor, work, and action, offering a framework for
+understanding these facets of human life. Since Arendt's differentiation of these three types of human activity is
+novel, Bralic and Wilford explain why Arendt undertakes this division.
+
+These days, scholars and pundits look to Arendt to reckon with various socio-political ills, such as "the decline of
+liberal democracy, the spread of fake news, the rise of the social sphere, the triumph of technology, the loss of the
+private realm and the experience of mass loneliness."
+
+They also address critiques of Arendt's work, particularly from feminist and democratic theorists.
 
 ## Alasdair MacIntyre (1929–)
 
