@@ -4,8 +4,7 @@ Gene Callahan, New York University
 
 The genesis for this project was my reading the material on work 
 in Karl Löwith's *From Hegel to Nietzsche*
-and being struck by how divergent the
-views of work were even on one continent (and mostly from one country!)
+and being struck by how divergent the views of work were even on one continent (and mostly from one country!)
 during the course of one century.  I gradually began
 collecting writings about work from other times and places, and decided
 it would be useful to explore how variously it has been conceived by
@@ -13,11 +12,17 @@ different major thinkers. These conceptions run the gamut from viewing work as
 positively opposed to living the best life, to seeing it as the most essential
 part of living the best life.
 
-How did this almost schizophrenic view of work come about? And how did various
+Reflections on work are back in vogue, with recent notable works on the topic by Geuss, Graeber, X and Y, among others.
+Furthermore, the increasing role of automation replacing human physical labor, and now artificial intelligence replacing
+even some human intellectual labor, the question of what place work holds in the human world is more salient than
+ever.
+
+How did the Western world's almost schizophrenic view of work come about? And how did various
 thinkers defend their positive or negative evaluations of work? This volume was assembled in order to collect in one
 place some of the thoughts of some of the most significant theorists of work in the Western tradition. Although we have
 not been able to cover every thinker we wished to -- for instance, Augustine, Durkheim, and Veblen all would have had
-their place in this volume -- we have been able to cover a fair sampling of the most important thinkers on this topic,
+their place in this volume, if it had been possible to solicit essays on them -- we have
+been able to cover a significant sampling of the most important thinkers on this topic,
 beginning 2400 years ago, with the founders of philosophy, who were decidedly in the "pro-leisure" camp.
 
 ## Plato (427–348 BCE) and Aristotle (384–322 BCE)
@@ -135,23 +140,32 @@ misused, but they remain central to understanding Smith's economic thought.
 
 ## Georg Wilhelm Friedrich Hegel (1770–1831)
 
-Hegel's intricate and abstract philosophy often obscures the critical role that labor—engagement with the physical and
-material world—plays in the development of self-consciousness and the rational state. Marx, in his 1844 Manuscripts,
-recognized this when he noted that Hegel "grasps labor as the essence of man," though he did so critically. This chapter
-aims to explore labor's significant yet frequently overlooked role in Hegelian philosophy by examining two major texts.
-We will first analyze its foundational role in Hegel's Phenomenology of Spirit and then explore its place in the
-Philosophy of Right. This analysis will reveal how labor is portrayed as both integral to human self-consciousness and
-as a component embedded in and threatened by civil society.
+William Lomabrdo explains that
+Hegel's daunting and abstract philosophy often obscures the critical role that labor -- engagement with the physical 
+material world -- plays in the development of the self-conscious individual and the rational state. Marx, in his *1844 Manuscripts*,
+recognized this when he noted that Hegel "grasps labor as the essence of man.". Lombardo's chapter
+explores labor's significant yet frequently overlooked role in Hegelian philosophy by examining two major texts.
+He first analyzes its foundational role in Hegel's *Phenomenology of Spirit* and then explores its place in the
+*Philosophy of Right*. His analysis reveals how Hegel portrays labor as both integral to human self-consciousness and
+as a component embedded in civil society while under threat from market economies.
+
+Lombardo further contends that Hegel's thoughts on labor are not merely of historical interest, but of contemporary
+relevancy, especially when contemplating the impact of automation and artificial intelligence on the world of human
+work.
 
 ## Søren Kierkegaard (1813–1855)
 
-Though Søren Kierkegaard's writings rarely address labor or economics directly, his views on labor are relevant due to
+Nathanael Blake's essay immediately raises the question, "Since Kierkegaard did not write about economics at all, why
+include material on him in a volume on work?" He answers that, while 
+Kierkegaard's writings rarely address labor or economics directly, his views on labor are relevant due to
 his broader insights into the nature of personal vocation. Kierkegaard presents labor not merely as a mundane activity
 but as a component of one's spiritual calling. He argues that every individual has a unique vocation and that despite
-social differences, all individuals stand equal before God in their pursuit of this calling.
+social differences, all individuals stand equal before God in their pursuit of this calling. As such, he comes to us as
+a voice from the "pro-work" side of our civilizational debate.
 
 ## Giovanni Gentile (1875–1944)
 
+Spartaco Pupo writes that
 Giovanni Gentile, a leading Italian philosopher of the twentieth century, developed a "humanism of labor" in his
 posthumously published work, *Genesis and Structure of Society* (1946). Gentile saw modern understanding of labor as
 spiritually valuable, akin to his view of culture. He emphasized the profound connection between intellectual and manual

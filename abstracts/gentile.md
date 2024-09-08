@@ -2,18 +2,11 @@
 
 [Spartaco Pupo](../bios/pupo.md)
 
-Giovanni Gentile (1875-1944), considered by some to be the most influential
-Italian philosopher of the twentieth century as well as the leading exponent of
-Italian idealism, matured his convictions about the critical role that labor
-would have to play in the economy of the twentieth century in the years
-immediately following World War I. This vision was carried forward with
-coherence throughout his intellectual production, and it is organically
-fulfilled in his work-testament, *Genesis and Structure of Society* (published
-posthumously in 1946). Gentile conceived the modern world as having realized
-the spiritual significance of labor, just as he recognized the spiritual
-significance of culture. He saw a methodological and critical value in the
-"sense" of manual and intellectual activity, in its inextricable relationship
-to the "Absolute Spirit" which allows one to comprehend the formative value of
-working action. Gentile's doctrine of "humanism of labor" affirms the
-importance of the encounter between "workers" and "intellectuals" in the
-context of human values, discovering a fusion of labor and culture.
+Considered by some to be the most prominent Italian philosopher of the twentieth century, Giovanni Gentile (1875-1944)
+organically fulfilled the "humanism of labor" in his work-testament, Genesis and Structure of Society (published
+posthumously in 1946). Gentile believed that the modern world had come to understand the spiritual value of labor in the
+same way that he had understood the spiritual value of culture. He recognized the "sense" of intellectual and manual
+labor as having a methodological and crucial significance because of its unbreakable connection to the "Absolute
+Spirit," which enables understanding of the formative significance of working action. Gentile's thesis emphasizes the
+significance of the interaction between "intellectuals" and "workers" in the framework of human values, identifying a
+real union of labor and culture.
