@@ -12,10 +12,10 @@ different major thinkers. These conceptions run the gamut from viewing work as
 positively opposed to living the best life, to seeing it as the most essential
 part of living the best life.
 
-Reflections on work are back in vogue, with recent notable works on the topic by Geuss, Graeber, X and Y, among others.
-Furthermore, the increasing role of automation replacing human physical labor, and now artificial intelligence replacing
-even some human intellectual labor, the question of what place work holds in the human world is more salient than
-ever.
+Reflections on work are back in vogue, with recent notable works on the topic by Geuss, Graeber, Lucassen and Suzman,
+among others.  Furthermore, the increasing role of automation replacing human physical labor, and now artificial
+intelligence replacing even some human intellectual labor, the question of what place work holds in the human world is
+more salient than ever.
 
 How did the Western world's almost schizophrenic view of work come about? And how did various
 thinkers defend their positive or negative evaluations of work? This volume was assembled in order to collect in one
@@ -256,22 +256,47 @@ They also address critiques of Arendt's work, particularly from feminist and dem
 
 ## Alasdair MacIntyre (1929–)
 
+Matias Petersen claims that
 Alasdair MacIntyre's moral philosophy, particularly his concepts of practices and practical rationality, is relevant to
 discussions of work. Introduced in *After Virtue* and further developed in *Dependent Rational Animals*, MacIntyre defines
 practices as cooperative activities with inherent goods and standards. He explores how practices help individuals
-develop virtues and practical reasoning by distinguishing between immediate and long-term goods. This chapter will
-analyze how MacIntyre's ideas on practices and desire transformation contribute to our understanding of work.
+develop virtues and practical reasoning by distinguishing between immediate and long-term goods. MacIntyre further
+demonstrates that all work has inherent implications for other areas of life, including the political. For example, work
+that demands workers put in 70 or 80 hours a week (like many entry-level investment banking jobs, for instance) will
+obviously have a disastrous impact on family formation.
+
+MacIntyre demonstrates that our work can be an aid or a hindrance in the development of our practical reasoning.
+Furthermore, our current politics and social science, focusing as they do on the satisfaction of
+existing preferences (without asking where those preferences came from) tend to create work environments hostile to
+excellence, focused only on short-term profits and substituting wage growth for healthy workplaces.
 
 ## New Natural Law Theory
 
-The New Natural Law Theory (NNLT), advanced by philosophers like Germain Grisez, John Finnis, and Joseph Boyle,
-reinterprets the principles of natural law based on practical reason rather than human nature. This chapter will outline
-NNLT's account of the role of work as a fundamental good and its implications for practical reasoning and moral action.
-It will also situate NNLT's perspective within a broader theological context.
+Christopher Tollefsen explains that the New Natural Law Theory (NNLT), advanced by philosophers like Germain Grisez,
+John Finnis, and Joseph Boyle, reinterprets the principles of natural law based on practical reason rather than human
+nature. These principles drawn from practical reason identify a number of basic human goods that should be pursued.
+The NNLT concept of "morality" is that one should pursue these goods in a reasonable manner.
+
+Tollefsen's chapter outlines NNLT's account of the role of work as a fundamental good and its implications for
+practical reasoning and moral action.  It will also situate NNLT's perspective within a broader theological context,
+concluding our ability to work is a sign of our creation in the image of God, and forms the basis of our other rights
+and duties.
 
 ## Raymond Geuss (1946–)
 
 Gülşen Seven's chapter utilizes Raymond Geuss's *A Philosopher Looks at Work* to explore contemporary issues and research
 directions in the philosophy of work. It will examine traditional conceptions of work, including its definition,
-organization, and societal value, and address anomalies and ideological features. The chapter will also engage with
-recent works by David Graeber and Axel Honneth, comparing their views with Geuss's.
+organization, and societal value, and address anomalies and ideological features. Her chapter also engages with
+recent works by David Graeber and Axel Honneth, contrasting their views with Geuss's.
+
+Seven sums up Geuss as concluding "that for the sake of preserving a habitable environment and continuing to live (at all or perhaps
+comfortably) in conditions of permanent unemployment, we need to produce and consume less, and, in the absence of work
+as we know it, discover ‘new’ ways of remaining meaningfully active."
+
+1. Raymond Geuss, *A Philosopher Looks at Work* (Cambridge: Cambridge University Press, 2021).
+
+2. David Graeber, *Bullshit Jobs: A Theory* (London: Simon & Schuster, 2018).
+
+3. Jan Lucassen, *The Story of Work* (New Haven and London: Yale University Press, 2021).
+
+4. James Suzman, *Work: A Deep History, from the Stone Age to the Age of Robots* (New York: Penguin Press, 2021).
