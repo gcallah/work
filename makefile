@@ -22,7 +22,13 @@ github:
 	-git commit -a
 	git push origin main
 
-parts: abstracts bios toc proposal
+parts: abstracts bios toc chapters permissions
+
+chapters:
+	ls chaps
+
+permissions:
+	ls permissions
 
 toc: $(WORD_DIR)/toc.docx
 
