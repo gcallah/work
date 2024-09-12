@@ -2,6 +2,10 @@
 
 Gene Callahan, New York University
 
+In the *Book of Genesis*, as Adam and Eve are exiled from Eden, God tells them, "By the sweat of your brow you will eat
+your food." Thus begins our long, difficult relationship with working: is it a curse we suffer under, or the very means
+by which our lives find their purpose?
+
 The genesis for this project was my reading the material on work 
 in Karl Löwith's *From Hegel to Nietzsche*
 and being struck by how divergent the views of work were even on one continent (and mostly from one country!)
