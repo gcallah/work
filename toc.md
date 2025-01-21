@@ -67,7 +67,6 @@ and Man's Right over Nature](abstracts/bacon.md),
 - [Tocqueville, Americans, and Honorable Work](abstracts/tocqueville.md), [Jacob Wolf](bios/wolf.md), Regent University
 - [Marx's Theory of Work](abstracts/marx.md), [Jonathan D. Askonas](bios/askonas.md), Catholic University of America
 - [Labor of Love: Kierkegaard on Vocation](abstracts/kierkegaard.md), [Nathanael Blake](bios/blake.md)
-- [Durkheim on Anomie](abstracts/durkheim.md), [J. McKenzie Alexander](bios/jmalexander.md), The London School of Economics
 - [Giovanni Gentile and the "Humanism of Labor"](chaps/gentile.md), [Spartaco Pupo](bios/pupo.md), Università della Calabria
 - [Does Weber's Thesis on the Protestant Ethic Transforming Work Still Stand?](chaps/weber.md), [Gene Callahan](bios/callahan.md), New York University
 - [Mises: The Disutility of Labor](abstracts/mises.md), [Gabriel Benzecry](bios/benzecry.md), Middle Tennessee State University
@@ -77,7 +76,7 @@ and Man's Right over Nature](abstracts/bacon.md),
 - [Leisure and Work in Josef Pieper’s Philosophy of Human Nature and Culture](abstracts.pieper.md), 
 [Ferenc Hörcher](bios/horcher.md), Research Institute of Politics and Government, National University of Public Service,
 Hungary
-- [MacIntyre on Work as a Practice](chaps/macintyre.md), Matias Petersen, Affiliation
+- [MacIntyre on Work as a Practice](chaps/macintyre.md), Matías Petersen, Universidad de los Andes
 - [The New Natural Law Theory and the Basic Human Good of Work](chaps/nnlt.md), [Christopher Tollefsen](bios/tollefsen.md), University of South Carolina
 - A Brief Sketch of Contemporary Issues in the Philosophy of Work, [Gülşen Seven](bios/seven.md), Turkish Education Association University
 
