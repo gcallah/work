@@ -16,5 +16,5 @@ argument about action and political life, this chapter necessarily explores the
 maintenance of free societies and the fragile position of the action in our
 modern era. Lastly, this chapter concludes by connecting these themes surfaced
 in Arendt’s exploration of the *vita activa* to some of the other major themes of
-her work, like totalitarianism, evil, and revolution
+her work, like totalitarianism, evil, and revolution.
 
