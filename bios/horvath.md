@@ -1,5 +1,5 @@
 **Orsolya Horváth** is an associate professor of philosophy (PhD in
-Phenomenology) and theology (dr. habil in Systematic Theology) at the
+Phenomenology) and theology (Dr. habil in Systematic Theology) at the
 Faculty of Humanities, Károli Gáspár University of the Reformed Church
 in Hungary. Her research fields are phenomenology and hermeneutics,
 questions concerning the borderline between (German) philosophy and
