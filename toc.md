@@ -27,7 +27,7 @@ and Man's Right over Nature, Tyler Chamberlain, Trinity Western University
 - Giovanni Gentile and the "Humanism of Labor", Spartaco Pupo, Università della Calabria
 - Does Weber's Thesis on the Protestant Ethic Transforming Work Still Stand?, Gene Callahan, New York University
 - Mises: The Disutility of Labor, Gabriel Benzecry and Nicholas Jensen, Middle Tennessee State University 
-- Hannah Arendt on *Homo Faber* and the Fragility of Human Action, Sarah Jane Wilford, Universidad de los Andes
+- Hannah Arendt on *Homo Faber* and the Fragility of Human Action, Sarah Jane Wilford and Josefina Araos Bralic, Universidad de los Andes
 - The Woman’s Soul as "Shelter": Edith Stein on the Work of Women, Sarah Jane Wilford, Universidad de los Andes
 - Michael Oakeshott and "The Deadliness of Doing", W. John Coats, Connecticut College
 - Leisure and Work in Josef Pieper’s Philosophy of Human Nature and Culture, 
