@@ -63,7 +63,7 @@ $(ABS_DIR)/abstracts.docx: $(TMP_DIR)/abstracts.md
 $(TMP_DIR)/abstracts.md: $(ABS_DIR)/*.md $(STRUCT_DIR)/chap_order.txt
 	$(BIN_DIR)/collect_abstracts.sh
 
-bios: $(CHAP_DIR)/bios.docx
+bios: $(BIO_DIR)/bios.docx
 
 $(BIO_DIR)/bios.docx: $(TMP_DIR)/bios.md
 	pandoc -o $@ -f markdown -t docx $(TMP_DIR)/bios.md
