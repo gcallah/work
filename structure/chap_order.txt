@@ -2,8 +2,8 @@ intro
 plato_aristotle
 newtestament
 aquinas
-bacon
 luther
+bacon
 locke
 smith
 hegel
@@ -11,11 +11,11 @@ kierkegaard
 marx
 weber
 gentile
-arendt
-stein
 mises
-pieper
+stein
 oakeshott
+pieper
+arendt
 macintyre
-nnlt
 geuss
+nnlt

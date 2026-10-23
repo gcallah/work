@@ -70,3 +70,7 @@ $(BIO_DIR)/bios.docx: $(TMP_DIR)/bios.md
 
 $(TMP_DIR)/bios.md: $(BIO_DIR)/*.md
 	cat $^ > $@
+
+# GitHub Pages site (TOC, abstracts and bios only) is built into docs/:
+site: FORCE
+	./bin/site.py
