@@ -2,7 +2,7 @@
 
 1.	Proposed title and subtitle
 
-*By the Sweat of Your Brow: Some Concepts of Work in the History of Western Thought*
+*By the Sweat of Your Brow: The Concept of Work in the History of European Philosophy*
 
 
 2.	Brief description of project’s scope and content

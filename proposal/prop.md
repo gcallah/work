@@ -1,6 +1,6 @@
 # By the Sweat of Your Brow
 
-Some Concepts of Work in the History of Western Thought
+The Concept of Work in the History of European Philosophy
 
 __________
 

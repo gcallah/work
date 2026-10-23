@@ -1,7 +1,7 @@
 **The woman's soul as "shelter:" Edith Stein on the work of women**
 
-Contribution to volume *By the Sweat of Your Brow: Some Concepts of Work
-in the History of Western Thought* \[working title\] edited by Gene
+Contribution to volume *By the Sweat of Your Brow: The Concept of Work
+in the History of European Philosophy* \[working title\] edited by Gene
 Callahan.
 
 Sarah J. Wilford

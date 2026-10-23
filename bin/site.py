@@ -25,7 +25,7 @@ PHOTOS = TOP / "images"         # author photos, named like the bios
 ORDER = TOP / "structure" / "chap_order.txt"
 
 SITE_TITLE = "By the Sweat of Your Brow"
-SUBTITLE = "Some Concepts of Work in the History of Western Thought"
+SUBTITLE = "The Concept of Work in the History of European Philosophy"
 EDITORS = {"callahan": ("Gene Callahan", "New York University")}
 
 # The name of each author as toc.md gives it -> the name of their bio file.
