@@ -3,3 +3,5 @@
 word_docs
 tmp
 to_publisher
+.superset/run.pid
+.superset/config.local.json
