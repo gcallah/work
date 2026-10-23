@@ -84,9 +84,10 @@ BANNERS = {
                      'of His Parents</em>, 1849&ndash;50, Tate Britain, '
                      'London.',
                      "Sir_John_Everett_Millais_002.jpg"),
-    "aquinas": ("76%", 'The Limbourg brothers, <em>October</em>, from the '
-                '<em>Tr&egrave;s Riches Heures du Duc de Berry</em>, '
-                '1412&ndash;16, Mus&eacute;e Cond&eacute;, Chantilly.',
+    "aquinas": ("76%", 'The Limbourg brothers and Barth&eacute;lemy '
+                'd&rsquo;Eyck, <em>October</em>, from the <em>Tr&egrave;s '
+                'Riches Heures du Duc de Berry</em>, 1412&ndash;16 and '
+                'c. 1440, Mus&eacute;e Cond&eacute;, Chantilly.',
                 "Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_octobre.jpg"),
     "luther": ("30%", 'Quentin Matsys, <em>The Moneylender and His '
                'Wife</em>, 1514, Mus&eacute;e du Louvre, Paris.',
