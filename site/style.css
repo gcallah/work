@@ -85,6 +85,7 @@ footer p:first-child a {
   color: var(--rust);
   text-decoration: none;
 }
+footer p:first-child a + a { margin-left: 1.5rem; }
 .credit { max-width: 40rem; margin: 0.8rem auto 0; line-height: 1.45; }
 
 .kicker {
@@ -168,6 +169,7 @@ h2::after {
   text-transform: uppercase;
   text-decoration: none;
 }
+.cta a + a { margin-left: 0.6rem; }
 .cta a:hover { background: var(--serge); color: var(--paper); }
 
 .hero-art { margin: 0; }

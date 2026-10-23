@@ -26,6 +26,7 @@ ORDER = TOP / "structure" / "chap_order.txt"
 
 SITE_TITLE = "By the Sweat of Your Brow"
 SUBTITLE = "The Concept of Work in the History of European Philosophy"
+BUY = "https://www.amazon.com/Concept-Work-History-European-Philosophy/dp/3031965469/"
 EDITORS = {"callahan": ("Gene Callahan", "New York University")}
 
 # The name of each author as toc.md gives it -> the name of their bio file.
@@ -301,7 +302,8 @@ def page(title: str, body: str, root: str, kind: str, credit: str) -> str:
 </header>
 {body}
 <footer>
-<p><a href="{root}index.html">Contents</a></p>
+<p><a href="{root}index.html">Contents</a>
+<a href="{BUY}">Purchase the book</a></p>
 <p class="credit">{credit}</p>
 </footer>
 </body>
@@ -356,7 +358,8 @@ Aquinas, Luther, Locke, Smith, Hegel and Marx to Weber, Arendt, Pieper,
 Oakeshott and MacIntyre.</p>
 <blockquote class="epigraph">By the sweat of your brow you will eat your
 food until you return to the ground.<cite>Genesis 3:19</cite></blockquote>
-<p class="cta"><a href="#contents">Table of contents &darr;</a></p>
+<p class="cta"><a href="{BUY}">Purchase the book</a>
+<a href="#contents">Table of contents &darr;</a></p>
 </div>
 <figure class="hero-art"><img src="images/work.jpg"
 alt="Ford Madox Brown's painting Work: navvies digging up a Hampstead
