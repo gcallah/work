@@ -251,19 +251,24 @@ def parse_toc():
             raise SystemExit(f"toc.md entry {num} should be a title line "
                              f"and an author line: {parts}")
         title = parts[0].rstrip(",")
-        byline, _, affil = parts[1].partition(", ")
-        authors = []
-        for name in byline.split(" and "):
-            name = name.strip()
+        # "A and B, Affiliation" when the authors share an affiliation,
+        # or "A, Affiliation; B, Affiliation" when they don't.
+        groups = []
+        for group in parts[1].split("; "):
+            byline, _, affil = group.partition(", ")
+            groups += [(n.strip(), affil) for n in byline.split(" and ")]
+        authors, affils = [], {}
+        for name, affil in groups:
             if name not in AUTHORS:
                 raise SystemExit(f"toc.md author {name!r} not in AUTHORS")
             if not (TOP / "bios" / f"{AUTHORS[name]}.md").exists():
                 raise SystemExit(f"no bios/{AUTHORS[name]}.md for {name}")
             authors.append((name, AUTHORS[name]))
+            affils[AUTHORS[name]] = affil
         if not abstract_path(slug).exists():
             raise SystemExit(f"no abstracts/{slug}.md for entry {num}")
         entries.append(dict(num=num, slug=slug, title=title,
-                            authors=authors, affil=affil))
+                            authors=authors, affils=affils))
     return entries
 
 
@@ -300,16 +305,28 @@ def author_links(authors, root: str) -> str:
                         for n, s in authors)
 
 
+def affil_span(affil: str) -> str:
+    return f'<span class="affil">{html.escape(affil)}</span>' if affil else ""
+
+
+def byline(e, root: str) -> str:
+    """The authors with their affiliations, giving a shared affiliation
+    once at the end."""
+    shared = set(e["affils"].values())
+    if len(shared) == 1:
+        return author_links(e["authors"], root) + affil_span(shared.pop())
+    return " and ".join(author_links([a], root) + affil_span(e["affils"][a[1]])
+                        for a in e["authors"])
+
+
 def build_index(entries, people) -> str:
     items = []
     for e in entries:
         title = f'<a href="abstracts/{e["slug"]}.html">{inline(e["title"])}</a>'
-        affil = f'<span class="affil">{html.escape(e["affil"])}</span>' \
-            if e["affil"] else ""
         items.append(f"""<li>
 <span class="num">{e["num"]}</span>
 <div><span class="title">{title}</span>
-<span class="byline">{author_links(e["authors"], "")}{affil}</span></div>
+<span class="byline">{byline(e, "")}</span></div>
 </li>""")
     editors = "\n".join(f"""<a class="editor" href="bios/{s}.html">
 {f'<img src="images/authors/{s}.jpg" alt="{n}">'
@@ -362,14 +379,12 @@ def build_abstract(e, prev, nxt) -> str:
     nav.append(f'<a class="next" href="{nxt["slug"]}.html">'
                f'{inline(nxt["title"])} &rarr;</a>' if nxt else "<span></span>")
     nav.append("</nav>")
-    affil = f'<span class="affil">{html.escape(e["affil"])}</span>' \
-        if e["affil"] else ""
     art, footer_credit = banner(e["slug"])
     body = f"""{art}
 <main class="paper">
 <p class="kicker">Chapter {e["num"]} &middot; Abstract</p>
 <h1>{inline(e["title"])}</h1>
-<p class="byline">{author_links(e["authors"], "../")}{affil}</p>
+<p class="byline">{byline(e, "../")}</p>
 <div class="text">
 {md_to_html(abstract_body(e))}
 </div>
@@ -438,7 +453,7 @@ def main():
     for e in entries:
         for name, slug in e["authors"]:
             n, a, chs = people.get(slug, (name, "", []))
-            people[slug] = (n, a or e["affil"], chs + [e])
+            people[slug] = (n, a or e["affils"][slug], chs + [e])
 
     (OUT / "index.html").write_text(build_index(entries, people))
 

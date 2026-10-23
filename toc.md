@@ -48,7 +48,7 @@ W. J. Coats, Connecticut College
 1. Leisure and Work in Josef Pieper’s Philosophical Anthropology,
 Ferenc Hörcher, Research Institute of Politics and Government, National University of Public Service, Hungary
 1. Hannah Arendt on the Triumph of *Homo Faber* and the Fragility of Human Action,
-Josefina Araos Bralic and Sarah J. Wilford, Universidad de los Andes
+Josefina Araos Bralic, Instituto de Estudios de la Sociedad; Sarah J. Wilford, Universidad de los Andes
 1. MacIntyre on Work as a Practice,
 Matías Petersen, Universidad de los Andes
 1. Some Contemporary Issues in the Philosophy of Work,
