@@ -134,9 +134,10 @@ BANNERS = {
     "oakeshott": ("50%", 'Georges Seurat, <em>Bathers at Asni&egrave;res</em>, '
                   '1884, National Gallery, London.',
                   "Baigneurs_a_Asnieres.jpg"),
-    "pieper": ("17%", 'Jules Breton, <em>The Song of the Lark</em>, 1884, '
-               'Art Institute of Chicago.',
-               "Jules_Breton,_le_chant_de_l%27alouette.1884.jpg"),
+    "pieper": ("55%", 'Georges Seurat, <em>A Sunday on La Grande Jatte'
+               '</em>, 1884&ndash;86, Art Institute of Chicago.',
+               "Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_"
+               "Google_Art_Project.jpg"),
     "arendt": ("30%", 'Pieter Bruegel the Elder, <em>The Tower of Babel</em>, '
                '1563, Kunsthistorisches Museum, Vienna.',
                "Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_"
@@ -155,7 +156,7 @@ BANNERS = {
 
 # Abstracts whose banner needs more height to show what's going on in the
 # painting (the "tall" class in style.css).
-TALL_BANNERS = {"nnlt"}
+TALL_BANNERS = {"nnlt", "pieper"}
 
 FONTS = ("https://fonts.googleapis.com/css2?"
          "family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;"
