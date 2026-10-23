@@ -131,9 +131,11 @@ BANNERS = {
     "stein": ("28%", 'Johannes Vermeer, <em>The Milkmaid</em>, c. 1660, '
               'Rijksmuseum, Amsterdam.',
               "Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"),
-    "oakeshott": ("50%", 'Georges Seurat, <em>Bathers at Asni&egrave;res</em>, '
-                  '1884, National Gallery, London.',
-                  "Baigneurs_a_Asnieres.jpg"),
+    "oakeshott": ("28%", 'Pierre-Auguste Renoir, <em>Luncheon of the Boating '
+                  'Party</em>, 1880&ndash;81, Phillips Collection, '
+                  'Washington.',
+                  "Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_"
+                  "Google_Art_Project.jpg"),
     "pieper": ("55%", 'Georges Seurat, <em>A Sunday on La Grande Jatte'
                '</em>, 1884&ndash;86, Art Institute of Chicago.',
                "Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_"
@@ -156,7 +158,7 @@ BANNERS = {
 
 # Abstracts whose banner needs more height to show what's going on in the
 # painting (the "tall" class in style.css).
-TALL_BANNERS = {"nnlt", "pieper"}
+TALL_BANNERS = {"nnlt", "pieper", "oakeshott"}
 
 FONTS = ("https://fonts.googleapis.com/css2?"
          "family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;"
