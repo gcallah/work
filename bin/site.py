@@ -134,9 +134,9 @@ BANNERS = {
     "oakeshott": ("50%", 'Georges Seurat, <em>Bathers at Asni&egrave;res</em>, '
                   '1884, National Gallery, London.',
                   "Baigneurs_a_Asnieres.jpg"),
-    "pieper": ("45%", 'Caspar David Friedrich, <em>Wanderer above the Sea of '
-               'Fog</em>, c. 1818, Hamburger Kunsthalle.',
-               "Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg"),
+    "pieper": ("17%", 'Jules Breton, <em>The Song of the Lark</em>, 1884, '
+               'Art Institute of Chicago.',
+               "Jules_Breton,_le_chant_de_l%27alouette.1884.jpg"),
     "arendt": ("30%", 'Pieter Bruegel the Elder, <em>The Tower of Babel</em>, '
                '1563, Kunsthistorisches Museum, Vienna.',
                "Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_"
