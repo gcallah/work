@@ -266,6 +266,7 @@ main {
   background: var(--serge) center 50% / cover no-repeat;
   border-bottom: 4px solid var(--rust);
 }
+.banner.tall { height: 30rem; }
 .bio .banner {
   background-image: url("images/harvesters.jpg");
   background-position: center 62%;
@@ -340,6 +341,7 @@ main {
   .hero { grid-template-columns: 1fr; padding-top: 2.5rem; gap: 2rem; }
   .hero-art { max-width: 26rem; margin: 0 auto; }
   .banner { height: 9rem; }
+  .banner.tall { height: 16rem; }
   .paper { margin-top: -2rem; padding: 1.8rem 1.3rem; border-left: 0; border-right: 0; }
   .bio-head { flex-direction: column; text-align: center; }
   .chapnav { grid-template-columns: 1fr 1fr; }

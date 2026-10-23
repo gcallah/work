@@ -148,10 +148,14 @@ BANNERS = {
               '1875, Mus&eacute;e d&rsquo;Orsay, Paris.',
               "Gustave_Caillebotte_-_The_Floor_Planers_-_"
               "Google_Art_Project.jpg"),
-    "nnlt": ("60%", 'Jean-Fran&ccedil;ois Millet, <em>The Gleaners</em>, '
+    "nnlt": ("70%", 'Jean-Fran&ccedil;ois Millet, <em>The Gleaners</em>, '
              '1857, Mus&eacute;e d&rsquo;Orsay, Paris.',
              "Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project.jpg"),
 }
+
+# Abstracts whose banner needs more height to show what's going on in the
+# painting (the "tall" class in style.css).
+TALL_BANNERS = {"nnlt"}
 
 FONTS = ("https://fonts.googleapis.com/css2?"
          "family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;"
@@ -218,7 +222,8 @@ def banner(slug: str) -> tuple:
     if slug not in BANNERS:
         return '<div class="banner"></div>', credit("harvesters.jpg")
     focus, text, commons = BANNERS[slug]
-    div = (f'<div class="banner" style="background-image: url(\'../images/'
+    kind = "banner tall" if slug in TALL_BANNERS else "banner"
+    div = (f'<div class="{kind}" style="background-image: url(\'../images/'
            f'abstracts/{slug}.jpg\'); background-position: center {focus};">'
            f'</div>')
     return div, commons_credit(text, commons)
