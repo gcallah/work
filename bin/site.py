@@ -113,9 +113,10 @@ BANNERS = {
     "kierkegaard": ("35%", 'Jean-Fran&ccedil;ois Millet, <em>The Angelus'
                     '</em>, 1857&ndash;59, Mus&eacute;e d&rsquo;Orsay, Paris.',
                     "Jean-Fran%C3%A7ois_Millet_(II)_001.jpg"),
-    "marx": ("50%", 'Adolph Menzel, <em>The Iron Rolling Mill</em>, '
-             '1872&ndash;75, Alte Nationalgalerie, Berlin.',
-             "Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg"),
+    "marx": ("40%", 'Claude Monet, <em>Anglers on the Seine at Poissy</em>, '
+             '1882, &Ouml;sterreichische Galerie Belvedere, Vienna.',
+             "Claude_Monet_-_Angler_auf_der_Seine_bei_Poissy_-_1288_-_"
+             "%C3%96sterreichische_Galerie_Belvedere.jpg"),
     "weber": ("45%", 'Rembrandt van Rijn, <em>The Syndics of the Drapers&rsquo; '
               'Guild</em>, 1662, Rijksmuseum, Amsterdam.',
               "Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_"
